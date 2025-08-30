@@ -7,6 +7,12 @@ const animeList = [
         "type": "ตอนที่ 1-74 พากย์ไทย",
         "link": "https://series-bk.github.io/Transmigrated-to-Collect-Love-Thai-dubbed.html"
     },
+  {
+        "title": "ประธานกู้ทะลุมิติมากับระบบ ตอนที่ 1-8 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/kmc_20250831_003927.png",
+        "type": "ตอนที่ 1-8 พากย์ไทย",
+        "link": "https://series-bk.github.io/President-Gu-transmigrated-with-the-system.html"
+    },
    
 
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
