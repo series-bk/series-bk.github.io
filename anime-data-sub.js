@@ -21,6 +21,13 @@ const animeList = [
         "link": "https://series-bk.github.io/Take-care-of-you-with-my-heart.html"
     },
 
+  {
+        "title": "หลงรักเธอในฤดูที่ไม่มีฉัน ตอนที่ 1-81 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/--2025-269.webp",
+        "type": "ตอนที่ 1-81 พากย์ไทย",
+        "link": "https://series-bk.github.io/Falling-in-love%20with-you-in-the-season-without-me.html"
+    },
+
   
    
 
