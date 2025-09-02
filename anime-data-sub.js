@@ -1,4 +1,11 @@
 const animeList = [
+
+  {
+        "title": "เกิดใหม่ชาตินี้พ่อขอแก้ตัว ตอนที่ 1-70 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/a73739e0-57ef-11f0-b471-b9eef54adbd8.jpg",
+        "type": "ตอนที่ 1-70 พากย์ไทย",
+        "link": "https://series-bk.github.io/In-this-new-life-I-want-to-make-amends.html"
+    },
   
           
     {
