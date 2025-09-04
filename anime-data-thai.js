@@ -1,5 +1,13 @@
 const animeList = [
 
+    {
+        "title": "4พี่น้องตระกูลหลี่ รู้ตัวเมื่อสายไป ตอนที่ 1-50 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/20250905_050646_11zon.jpg",
+        "type": "ตอนที่ 1-50 พากย์ไทย",
+        "link": "https://series-bk.github.io/The-four-Li-siblings-realized-it-too-late.html"
+    },
+  
+
   {
         "title": "ห่าวหยาง ย้อนเวลาแก้ไขอดีต ตอนที่ 1-80 พากย์ไทย",
         "img": "https://img2.pic.in.th/pic/_20250627134608-1.jpg",
