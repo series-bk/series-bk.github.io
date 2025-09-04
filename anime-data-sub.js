@@ -1,6 +1,13 @@
 const animeList = [
 
   {
+        "title": "ห่าวหยาง ย้อนเวลาแก้ไขอดีต ตอนที่ 1-80 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/_20250627134608-1.jpg",
+        "type": "ตอนที่ 1-80 พากย์ไทย",
+        "link": "https://series-bk.github.io/Hao-Yang-goes-back-in-time-to-change-the-past.html"
+    },
+
+  {
         "title": "เกิดใหม่ชาตินี้พ่อขอแก้ตัว ตอนที่ 1-70 พากย์ไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/a73739e0-57ef-11f0-b471-b9eef54adbd8.jpg",
         "type": "ตอนที่ 1-70 พากย์ไทย",
