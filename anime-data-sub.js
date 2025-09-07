@@ -1,6 +1,13 @@
 const animeList = [
 
     {
+        "title": "เด็กน้อยอัจฉริยะ ตอนที่ 1-49 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/8601a18b87d6277f9e2f24ebf2620830e924b9995697.jpeg",
+        "type": "ตอนที่ 1-49 พากย์ไทย",
+        "link": "https://series-bk.github.io/child-genius.html"
+    },
+
+    {
         "title": "การแก้แค้นของนางกำนัล เมิ่งเสวี่ยเจา ตอนที่ 1-52 พากย์ไทย",
         "img": "https://img2.pic.in.th/pic/1740980813_jAcktjTGcH_11zon.jpg",
         "type": "ตอนที่ 1-52 พากย์ไทย",
