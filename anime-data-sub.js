@@ -1,6 +1,24 @@
 const animeList = [
 
     {
+        "title": "หลิวหย่าฮุ่ย หมอนวดเท้า ตอนที่ 1-81 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/20250908_144027.jpg",
+        "type": "ตอนที่ 1-81 พากย์ไทย",
+        "link": "https://series-bk.github.io/Liu-Yahui-foot-masseuse.html"
+    },
+
+    
+    {
+        "title": "ทะลุมิติมาสะสมรัก ตอนที่ 1-74 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/--2025-511.webp",
+        "type": "ตอนที่ 1-74 พากย์ไทย",
+        "link": "https://series-bk.github.io/Transmigrated-to-Collect-Love-Thai-dubbed.html"
+    },
+
+    
+    
+
+    {
         "title": "เด็กน้อยอัจฉริยะ ตอนที่ 1-49 พากย์ไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/8601a18b87d6277f9e2f24ebf2620830e924b9995697.jpeg",
         "type": "ตอนที่ 1-49 พากย์ไทย",
@@ -37,12 +55,6 @@ const animeList = [
     },
   
           
-    {
-        "title": "ทะลุมิติมาสะสมรัก ตอนที่ 1-74 พากย์ไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/--2025-511.webp",
-        "type": "ตอนที่ 1-74 พากย์ไทย",
-        "link": "https://series-bk.github.io/Transmigrated-to-Collect-Love-Thai-dubbed.html"
-    },
   {
         "title": "ประธานกู้ทะลุมิติมากับระบบ ตอนที่ 1-8 พากย์ไทย",
         "img": "https://img2.pic.in.th/pic/kmc_20250831_003927.png",
