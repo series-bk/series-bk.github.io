@@ -2,7 +2,7 @@ const animeList = [
 
     {
         "title": "หนุ่มถูกสาวแย่งครั้งแรก ทันใดนั้นตาเปิด มองทะลุเห็นอัญมณีค่าหลายพันล้าน พากย์ไทย",
-        "img": "https://img2.pic.in.th/pic/image_1757357317194_11zon.jpeg",
+        "img": "https://img2.pic.in.th/pic/20250909_040239.jpg",
         "type": "เต็มเรื่อง - พากย์ไทย",
         "link": "https://series-bk.github.io/See-through-the-gems-worth-billions.html"
     },
