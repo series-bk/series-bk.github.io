@@ -1,5 +1,13 @@
 const animeList = [
 
+     {
+        "title": "รักษานายด้วยใจ ตระกูลเซี่ย ตระกูลหลิน ตอนที่ 1-61 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/202505141747197238399804.png",
+        "type": "ตอนที่ 1-61 พากย์ไทย",
+        "link": "https://series-bk.github.io/Take-care-of-you-with-my-heart.html"
+    },
+    
+
     {
         "title": "หนุ่มถูกสาวแย่งครั้งแรก ทันใดนั้นตาเปิด มองทะลุเห็นอัญมณีค่าหลายพันล้าน พากย์ไทย",
         "img": "https://img2.pic.in.th/pic/20250909_040239.jpg",
@@ -69,13 +77,7 @@ const animeList = [
         "link": "https://series-bk.github.io/President-Gu-transmigrated-with-the-system.html"
     },
 
-  {
-        "title": "รักษานายด้วยใจ ตระกูลเซี่ย ตระกูลหลิน ตอนที่ 1-61 พากย์ไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/202505141747197238399804.png",
-        "type": "ตอนที่ 1-61 พากย์ไทย",
-        "link": "https://series-bk.github.io/Take-care-of-you-with-my-heart.html"
-    },
-
+ 
   {
         "title": "หลงรักเธอในฤดูที่ไม่มีฉัน ตอนที่ 1-81 พากย์ไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/--2025-269.webp",
