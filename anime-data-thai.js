@@ -1,6 +1,13 @@
 const animeList = [
 
      {
+        "title": "มู่เสี่ยวหนิง หมอเทวดาน้อย ตอนที่ 1-79 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/202507161752634835302637.png",
+        "type": "ตอนที่ 1-79 พากย์ไทย",
+        "link": "https://series-bk.github.io/Little-disciple-of-the-divine-doctor.html"
+    },
+
+     {
         "title": "รักษานายด้วยใจ ตระกูลเซี่ย ตระกูลหลิน ตอนที่ 1-61 พากย์ไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/202505141747197238399804.png",
         "type": "ตอนที่ 1-61 พากย์ไทย",
