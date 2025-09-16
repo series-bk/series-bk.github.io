@@ -1,6 +1,13 @@
 const animeList = [
 
      {
+        "title": "ข้ามเวลามาเป็นมหาเศรษฐี พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/d374a10348c54eb32f245284fcec18cbtplv-resize_570_810.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Cross-time-to-become-a-billionaire.html"
+    },
+
+     {
         "title": "มู่เสี่ยวหนิง หมอเทวดาน้อย ตอนที่ 1-79 พากย์ไทย",
         "img": "https://img2.pic.in.th/pic/202507161752634835302637.png",
         "type": "ตอนที่ 1-79 พากย์ไทย",
