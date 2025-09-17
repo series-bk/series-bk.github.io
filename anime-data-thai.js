@@ -2,7 +2,7 @@ const animeList = [
 
      {
         "title": "เธอใช้เวทอำนาจครองโลกยุคใหม่ พากย์ไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/1756532897_pKfPX5ah3Y.webp",
+        "img": "https://img5.pic.in.th/file/secure-sv1/1756532897_pKfPX5ah3Y.jpg",
         "type": "พากย์ไทย",
         "link": "https://series-bk.github.io/She-uses-magic-to-rule-the-modern-world.html"
     },
