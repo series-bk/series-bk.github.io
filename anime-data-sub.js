@@ -1,8 +1,15 @@
 const animeList = [
 
      {
+        "title": "ข้ามเวลามาขุดดินจนเป็นเซียน พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Screenshot_20250918-202258_11zon.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Cross-time-to-dig-the-ground-until-you-become-a-master.html"
+    },
+
+     {
         "title": "เธอใช้เวทอำนาจครองโลกยุคใหม่ พากย์ไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/1756532897_pKfPX5ah3Y.webp",
+        "img": "https://img5.pic.in.th/file/secure-sv1/1756532897_pKfPX5ah3Y.jpg",
         "type": "พากย์ไทย",
         "link": "https://series-bk.github.io/She-uses-magic-to-rule-the-modern-world.html"
     },
