@@ -1,6 +1,13 @@
 const animeList = [
 
      {
+        "title": "ระบบช่วยเรากลายเป็นยอดเซียน พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/029f2b7567d94884965f6368539a0193tplv-dy-resize-walign-adapt-aq_540_q75.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-system-helps-us-become-experts.html"
+    },
+
+     {
         "title": "ข้ามเวลามาขุดดินจนเป็นเซียน พากย์ไทย",
         "img": "https://img2.pic.in.th/pic/20250919_201417.jpg",
         "type": "พากย์ไทย",
