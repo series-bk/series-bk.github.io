@@ -2,7 +2,7 @@ const animeList = [
 
      {
         "title": "ข้ามเวลามาขุดดินจนเป็นเซียน พากย์ไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/Screenshot_20250918-202258_11zon.jpg",
+        "img": "https://img5.pic.in.th/file/secure-sv1/copilot_image_1758286858555_11zon.jpeg",
         "type": "พากย์ไทย",
         "link": "https://series-bk.github.io/Cross-time-to-dig-the-ground-until-you-become-a-master.html"
     },
