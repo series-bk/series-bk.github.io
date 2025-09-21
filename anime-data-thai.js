@@ -1,6 +1,13 @@
 const animeList = [
 
      {
+        "title": "ขอโทษที! บังเอิญผมมีระบบพิเศษ พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Screenshot_20250921-1409382.jpeg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Sorry-I-accidentally-have-a-special-system.html"
+    },
+
+     {
         "title": "ระบบช่วยเรากลายเป็นยอดเซียน พากย์ไทย",
         "img": "https://img2.pic.in.th/pic/029f2b7567d94884965f6368539a0193tplv-dy-resize-walign-adapt-aq_540_q75.webp",
         "type": "พากย์ไทย",
