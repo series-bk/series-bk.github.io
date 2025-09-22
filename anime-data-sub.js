@@ -1,6 +1,13 @@
 const animeList = [
 
      {
+        "title": "ระบบเปย์สาวรางวัลเป็นซองเงินสุ่ม พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/ai_repair_20250922164700164_11zon.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-pay-girl-system-rewards-you-with-random-money-envelopes.html"
+    },
+
+     {
         "title": "ขอโทษที! บังเอิญผมมีระบบพิเศษ พากย์ไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/Screenshot_20250921-1409382.jpeg",
         "type": "พากย์ไทย",
