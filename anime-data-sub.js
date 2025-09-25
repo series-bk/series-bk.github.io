@@ -1,7 +1,14 @@
 const animeList = [
 
      {
-        "title": "ระบบเปย์สาวรางวัลเป็นซองเงินสุ่ม พากย์ไทย",
+        "title": "ระบบหลอกสาว ฮาเร็มกับการปรุงยาของอาเจ็ก พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/27315544-5aa5b722dcd81781.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/There-is-a-harem-system-and-Ajek-medicine-concoction.html"
+    },
+
+     {
+        "title": "ระบบเปย์สาว! รางวัลเป็นซองเงินสุ่ม พากย์ไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/ai_repair_20250922164700164_11zon.jpg",
         "type": "พากย์ไทย",
         "link": "https://series-bk.github.io/The-pay-girl-system-rewards-you-with-random-money-envelopes.html"
