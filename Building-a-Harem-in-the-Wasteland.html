@@ -5,19 +5,47 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>สร้างฮาเร็มในดินแดนร้าง พากย์ไทย</title>
+  <meta name="description" content="สร้างฮาเร็มในดินแดนร้าง พากย์ไทย ละครสั้นจีนแนวตั้ง ดูฟรีตั้งแต่ตอนแรกที่ Series Love" />
   <link rel="icon" href="https://img5.pic.in.th/file/secure-sv1/copilot_image_1756473322379_11zon.jpeg" type="image/png" />
   <link rel="stylesheet" href="style.css" />
+  <style>
+    /* หน้านี้เป็นหน้าลิงก์ ไม่ใช่หน้าเล่นวิดีโอแล้ว สไตล์เขียนไว้ในไฟล์เองทั้งหมด
+       จะได้ไม่ต้องไปแก้ style.css ซึ่งหน้าอื่นใช้ร่วมกันอยู่ */
+    .go-card {
+      max-width: 640px;
+      margin: 28px auto 40px;
+      padding: 28px 22px;
+      text-align: center;
+      background: rgba(255, 255, 255, .04);
+      border: 1px solid rgba(255, 255, 255, .12);
+      border-radius: 14px;
+    }
+    .go-btn {
+      display: inline-block;
+      margin: 6px 0 14px;
+      padding: 15px 34px;
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 1.3;
+      color: #fff;
+      background: #e11d48;
+      border-radius: 999px;
+      text-decoration: none;
+    }
+    .go-btn:hover { background: #be123c; }
+    .go-note { margin: 0; font-size: 14px; color: #bbb; line-height: 1.7; }
+  </style>
 </head>
 <body>
   <header>
   <a class="logo" href="/">Series love</a>
-  
+
   <div class="menu-toggle" id="menuToggle">
     <span></span>
     <span></span>
     <span></span>
   </div>
-  
+
 <nav id="navMenu" role="navigation">
     <a href="https://series-bk.github.io/">หน้าแรก</a>
     <a href="https://series-bk.github.io/thai">ซีรีย์พากย์ไทย</a>
@@ -27,40 +55,22 @@
 </header>
   <main>
     <div class="video-title">สร้างฮาเร็มในดินแดนร้าง พากย์ไทย</div>
-    <div class="nav-buttons">
 
+    <div class="go-card">
+      <a class="go-btn" href="https://series-love.com/drama/drama-1788579427207">ดูเรื่องนี้ที่ Series Love</a>
+      <p class="go-note">เปิดดูตอนแรกได้ฟรี ไม่ต้องสมัครสมาชิก<br>ถ้าดูแล้วถูกใจค่อยสมัครดูต่อจนจบ</p>
     </div>
   </main>
-  <div class="video-fullscreen">
-    <div id="video-overlay" onclick="showVideo()">
-      <div class="play-button"></div>
-    </div>
-    <iframe allow="autoplay" allowfullscreen id="videoIframe" src="" title="สร้างฮาเร็มในดินแดนร้าง พากย์ไทย"></iframe>
-  </div>
 
-<p style="text-align:center; color:#ccc; margin-top: 10px;">เปิดเต็มจอเพื่อการรับชมที่ดีขึ้น</p>
-  
   <footer>© 2026 Series love - ซีรี่ย์จีน ละครสั้นจีน ซีรี่ย์แนวตั้ง พากย์ไทย ซับไทย อัพเดทใหม่ทุกวัน</footer>
 
   <script>
     const menuToggle = document.getElementById('menuToggle');
-    const navMenu = document.getElementById('navMenu');    
+    const navMenu = document.getElementById('navMenu');
 
     menuToggle.addEventListener('click', () => navMenu.classList.toggle('active'));
-
-    function showVideo() {
-        const newTab = window.open('about:blank', '_blank');
-        setTimeout(() => {
-            newTab.location.href = 'https://www.profitableratecpm.com/vibu5m81hm?key=d479844987297a1250da337216c4a4a8';
-        }, 150);
-      const encodedSrc = "aHR0cHM6Ly9zZXJpZXMtbG92ZS5jb20vZHJhbWEvZHJhbWEtMTc4ODU3OTQyNzIwNw==";
-      const videoUrl = atob(encodedSrc);
-      const iframe = document.getElementById('videoIframe');
-      iframe.src = videoUrl;
-      iframe.style.display = 'block';
-      document.getElementById('video-overlay').style.display = 'none';
-    }
   </script>
+
   <style>
   #histats_wrapper, #histatsC, #histats_counter {
     display: none !important;
@@ -81,6 +91,6 @@
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
     })();
   </script>
-  
+
 </body>
 </html>
