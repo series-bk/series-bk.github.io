@@ -5,7 +5,8 @@ const animeList = [
         "img": "https://series-love.com/api/img/4e30bae8f73156c7160e.jpg",
         "type": "พากย์ไทย",
         "link": "https://series-bk.github.io/The-President-Will-Not-Let-Me-Resign.html"
-    }
+     },
+          
      {
         "title": "สร้างฮาเร็มในดินแดนร้าง พากย์ไทย",
         "img": "https://series-love.com/api/img/c77d15a485649a1fd4fd.jpg",
