@@ -1,5 +1,19 @@
 const animeList = [
 
+       {
+        "title": "คืนจันทราลงทัณฑ์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/1d264976ae6bc27da10c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Moonlit-Reckoning.html"
+    },
+
+     {
+        "title": "เมื่อรักที่พังนำมาซึ่งบัลลังก์ราชินี พากย์ไทย",
+        "img": "https://series-love.com/api/img/8a6625db132d3bcf7c76.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/When-a-Broken-Love-Built-a-Queen.html"
+    },
+
                {
         "title": "พี่เลี้ยงวังมังกร พากย์ Ai",
         "img": "https://series-love.com/api/img/b80fffb182add60b8f88.jpg",
