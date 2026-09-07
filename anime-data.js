@@ -1,5 +1,27 @@
 const animeList = [
 
+               {
+        "title": "พี่เลี้ยงวังมังกร พากย์ Ai",
+        "img": "https://series-love.com/api/img/b80fffb182add60b8f88.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Palace-Nanny.html"
+    },
+
+     {
+        "title": "ทายาทสาว ในวอร์ด พากย์ไทย",
+        "img": "https://series-love.com/api/img/edc2c64295ed711857c4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Heiress-in-the-Ward.html"
+    },
+
+     {
+        "title": "ดอน ปะทะ ครัช ซับไทย",
+        "img": "https://series-love.com/api/img/d24f72579782d4b5aab8.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Don-vs-Crush.html"
+    },
+
+
           {
         "title": "ท่านประธานไม่ยอมให้ฉันลาออก พากย์ไทย",
         "img": "https://series-love.com/api/img/4e30bae8f73156c7160e.jpg",
