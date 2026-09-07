@@ -1,5 +1,69 @@
 const animeList = [
 
+            {
+        "title": "ราชินีของสองพี่น้อง พากย์ไทย",
+        "img": "https://series-love.com/api/img/b7f5c06b0df5e04b4867.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Queen-of-Two-Brothers.html"
+    },
+
+     {
+        "title": "ราชาอัลฟ่า กับเจ้าสาวพี่เลี้ยง ซับไทย",
+        "img": "https://series-love.com/api/img/eab6532201f605195476.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Alpha-King-and-His-Nursemaid-Bride.html"
+    },
+
+     {
+        "title": "คู่มนุษย์ที่ถูกทอดทิ้ง ของราชามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/6604f6185f413b4053a7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Kings-Abandoned-Mate.html"
+    },
+
+     {
+        "title": "แสงดาวแห่งสลัม พากย์ไทย",
+        "img": "https://series-love.com/api/img/140f9fc36681602ba903.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Star-of-the-Slums.html"
+    },
+
+     {
+        "title": "คุณหมอ ผู้แปดเปื้อน พากย์ไทย",
+        "img": "https://series-love.com/api/img/9586795e535136a00d36.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Tainted-Doctor.html"
+    },
+
+     {
+        "title": "นางฟ้าสีเงิน ที่เขาไม่เคยมองเห็น พากย์ไทย",
+        "img": "https://series-love.com/api/img/b822e870eb99a80464d1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Silver-Angel-He-Never-Saw.html"
+    },
+
+     {
+        "title": "พวกเขาทำลายฉัน พวกเขาขอโทษฉัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/3768fc0cf4529cba06e2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/They-Broke-Me-Then-They-Begged.html"
+    },
+
+     {
+        "title": "พ่ายรักคู่ปรับคลั่งรัก พากย์ Ai",
+        "img": "https://series-love.com/api/img/bb2d50d8809493b95d66.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Falling-for-My-Rival.html"
+    },
+
+     {
+        "title": "เปิดตำนานแห่งยุค พากย์ไทย",
+        "img": "https://series-love.com/api/img/01e316c39697582d3962.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Legend-of-an-Era.html"
+    },
+
+
        {
         "title": "คืนจันทราลงทัณฑ์ พากย์ไทย",
         "img": "https://series-love.com/api/img/1d264976ae6bc27da10c.jpg",
