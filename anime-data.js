@@ -1,5 +1,55 @@
 const animeList = [
 
+                 {
+        "title": "แหวน ธาตุทั้งสี่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/daf703a82bddd22ca0c7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Four-Elemental-Rings.html"
+    },
+
+     {
+        "title": "ฉันซื้อภรรยาในวันสิ้นโลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/05a4c09fe4377c0a0819.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/I-Bought-Wives-at-the-End-of-the-World.html"
+    },
+
+     {
+        "title": "ชาติหน้า ไม่ขอเป็นคนเดิม พากย์ไทย",
+        "img": "https://series-love.com/api/img/c7e6b4c9617ecf5af70a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Next-Life-I-Wont-Be-Her-Again.html"
+    },
+
+     {
+        "title": "เกิดใหม่ ผูกชะตากับมังกรต้องคำสาป พากย์ไทย",
+        "img": "https://series-love.com/api/img/80f6135e9496c3577dab.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-Bound-to-the-Cursed-Dragon.html"
+    },
+
+     {
+        "title": "ลูกน้อยกระหายเลือด ราชาแห่งพลัง พากย์ไทย",
+        "img": "https://series-love.com/api/img/70db3a816f34b86e879c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Bloodthirsty-Child-and-the-King.html"
+    },
+
+     {
+        "title": "ตำรวจลับ ในคราบนักเรียน พากย์ไทย",
+        "img": "https://series-love.com/api/img/abcbd2a02b76a803c067.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Undercover-Cop-in-School.html"
+    },
+
+     {
+        "title": "บัญชีแค้นสาวบ้านไร่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/5a8b863fa213f8ae188c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Farm-Girls-Reckoning.html"
+    },
+
+
             {
         "title": "ราชินีของสองพี่น้อง พากย์ไทย",
         "img": "https://series-love.com/api/img/b7f5c06b0df5e04b4867.jpg",
