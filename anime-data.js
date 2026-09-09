@@ -1,5 +1,27 @@
 const animeList = [
 
+                 {
+        "title": "คุณหนูลวงสังหาร ซับไทย",
+        "img": "https://series-love.com/api/img/414f10ddf5450765a80f.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Ladys-Deadly-Disguise.html"
+    },
+
+     {
+        "title": "จอมเวทชุดขาว คนสุดท้าย พากย์ไทย",
+        "img": "https://series-love.com/api/img/0793f902adb3a20f68de.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Last-White-Mage.html"
+    },
+
+     {
+        "title": "เสพติดพิษรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/78a37d0d80ce760b4744.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Addicted-to-a-Poisonous-Love.html"
+    },
+
+
             {
         "title": "เพียงตะวัน พากย์ไทย",
         "img": "https://series-love.com/api/img/6ffd7b7f989039a3ef07.jpg",
