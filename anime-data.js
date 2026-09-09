@@ -1,5 +1,12 @@
 const animeList = [
 
+            {
+        "title": "เพียงตะวัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/6ffd7b7f989039a3ef07.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Only-the-Sun.html"
+    },
+
        {
         "title": "ลูกสาวคนโปรด ของท่านลอร์ดทั้งห้า ซับไทย",
         "img": "https://series-love.com/api/img/3071e324ea0af055254a.jpg",
