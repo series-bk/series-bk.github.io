@@ -1,5 +1,118 @@
 const animeList = [
 
+       {
+        "title": "ลูกสาวคนโปรด ของท่านลอร์ดทั้งห้า ซับไทย",
+        "img": "https://series-love.com/api/img/3071e324ea0af055254a.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Beloved-Daughter-of-Five-Lords.html"
+    },
+
+     {
+        "title": "พันธะรักชดใช้ของเจ้าหญิง พากย์ไทย",
+        "img": "https://series-love.com/api/img/9b8371706e1fa614ac97.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Princess-Debt-of-Love.html"
+    },
+
+     {
+        "title": "กัปตัน ผู้กล้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/cf10e541e34ae6da2978.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Fearless-Captain.html"
+    },
+
+     {
+        "title": "ฉันแต่งงาน กับอัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/9f005714ea46b142affe.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/I-Married-the-Alpha.html"
+    },
+
+     {
+        "title": "ลูกมาเฟียเรียกฉันว่าแม่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/34f39f85b2ba91c4fa8d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafias-Child-Calls-Me-Mom.html"
+    },
+
+     {
+        "title": "เทพแห่งความเร็ว หวนคืนสนาม พากย์ไทย",
+        "img": "https://series-love.com/api/img/0b64e3ebc71b0879eade.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Speed-God-Returns.html"
+    },
+
+     {
+        "title": "รถเก่ากับ ราชันความเร็ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/5e2e8b04a22293dedef0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Old-Truck-and-the-Speed-King.html"
+    },
+
+     {
+        "title": "เอซนักบิน คืนสมรภูมิ พากย์ไทย",
+        "img": "https://series-love.com/api/img/fb58439f479538938a3f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Ace-Pilot-Returns.html"
+    },
+
+     {
+        "title": "ราชันหมาป่าหลงรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/61dba258f6bfcc9ae435.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Wolf-King-in-Love.html"
+    },
+
+     {
+        "title": "ความหมกมุ่นของทรราช พากย์ไทย",
+        "img": "https://series-love.com/api/img/e7e2b14413a999286ab0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Tyrants-Obsession.html"
+    },
+
+     {
+        "title": "เกิดใหม่ เลือกคนที่ใช่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/bf06ed8a33274e0e7f0b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-Choosing-the-Right-One.html"
+    },
+
+     {
+        "title": "หญิงสาว ผู้เห็นโชคชะตา พากย์ไทย",
+        "img": "https://series-love.com/api/img/78b97e054213f40f5721.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Girl-Who-Sees-Fate.html"
+    },
+
+     {
+        "title": "ฉันเป็นแชมป์มวย ด้วยพลังซ่อนเร้น พากย์ไทย",
+        "img": "https://series-love.com/api/img/dd02deacbf2847e8480f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Boxing-Champion-with-Hidden-Power.html"
+    },
+
+     {
+        "title": "ไม่รออีกแล้ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/c3e971ff19ce50b79e65.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/No-Longer-Waiting-for-Him.html"
+    },
+
+     {
+        "title": "น้องสาวของฉัน คือจอมเวท พากย์ไทย",
+        "img": "https://series-love.com/api/img/4228d0aa834c0af1f1e5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Sister-Is-the-Archmage.html"
+    },
+
+     {
+        "title": "หมัดมรณะ ราชายมโลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/c2aa67ede37135c2c6bf.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Death-Fist-King-of-Hades.html"
+    },
+
+
                  {
         "title": "แหวน ธาตุทั้งสี่ พากย์ไทย",
         "img": "https://series-love.com/api/img/daf703a82bddd22ca0c7.jpg",
