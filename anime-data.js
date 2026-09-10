@@ -1,5 +1,20 @@
 const animeList = [
 
+            {
+        "title": "สายใยรักภรรยาเก่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/bd04b202b97b04691f32.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Bond-with-My-Ex-Wife.html"
+    },
+
+     {
+        "title": "นั่วหน้วลงมาจากภูเขาและเหล่าศิษย์ของเธอก็แตกตื่น ภาค 2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/f8405259e43a6ceb4445.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Nuwa-Comes-Down-from-the-Mountain-Season-2.html"
+    },
+
+
        {
         "title": "เทพสายฟ้า จากสลัม พากย์ไทย",
         "img": "https://series-love.com/api/img/0ce491a5760eb5819e08.jpg",
