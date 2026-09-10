@@ -1,5 +1,69 @@
 const animeList = [
 
+       {
+        "title": "เทพสายฟ้า จากสลัม พากย์ไทย",
+        "img": "https://series-love.com/api/img/0ce491a5760eb5819e08.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Lightning-God-from-the-Slums.html"
+    },
+
+     {
+        "title": "เกิดใหม่ผงาดเหนือฟ้ากับมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/b76bd41f64e7a2e05118.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-Soaring-with-My-Dragon.html"
+    },
+
+     {
+        "title": "เกิดใหม่ครานี้ ข้าขอแต่งกับราชาแวมไพร์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/8d78e54dc1e4fa447255.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Time-I-Marry-the-Vampire-King.html"
+    },
+
+     {
+        "title": "ประตูเหล็กปิดรัก เปิดชะตาใหม่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/b70e7e74695adc827fa3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Iron-Gate-That-Shut-Me-Out.html"
+    },
+
+     {
+        "title": "รักที่ซ่อนใต้โรคร้าย พากย์ไทย",
+        "img": "https://series-love.com/api/img/f87abf463c6971209c6b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Love-She-Hid-Behind-Her-Illness.html"
+    },
+
+     {
+        "title": "แผนลวงโค่นมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/01446920fc594a649455.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Undercover-Against-the-Mafia.html"
+    },
+
+     {
+        "title": "แก๊งต่างขั้วตะลุยวันสิ้นโลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/e02fde8fea7bfda9f1d6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Odd-Squad-of-the-Apocalypse.html"
+    },
+
+     {
+        "title": "จอมราชันย์แดนเถื่อน พากย์ไทย",
+        "img": "https://series-love.com/api/img/e425ffd6e05a2d507624.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-War-God-of-the-Wastelands.html"
+    },
+
+     {
+        "title": "เจ้าสาวงูพิษสีเงิน พากย์ไทย",
+        "img": "https://series-love.com/api/img/5f7a446a7908818d6927.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Silver-Serpents-Bride.html"
+    },
+
+
                  {
         "title": "คุณหนูลวงสังหาร ซับไทย",
         "img": "https://series-love.com/api/img/414f10ddf5450765a80f.jpg",
