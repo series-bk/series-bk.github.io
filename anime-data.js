@@ -1,5 +1,34 @@
 const animeList = [
 
+            {
+        "title": "ปราชญ์อัจฉริยะ กลับมา พากย์ไทย",
+        "img": "https://series-love.com/api/img/c93f3c8e828ef2132ef4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Genius-Sage-Returns.html"
+    },
+
+     {
+        "title": "แฟนหนุ่มในเน็ตคือเจ้าพ่อมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/b9ecbc1aa648680d684c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Online-Boyfriend-Is-the-Don.html"
+    },
+
+     {
+        "title": "จากขยะสู่เทพสายฟ้า SSS พากย์ไทย",
+        "img": "https://series-love.com/api/img/5369e7b26c60361b64b6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Trash-to-SSS-Lightning-God.html"
+    },
+
+     {
+        "title": "ใต้ผืนหิมะที่ฝังทั้งความรักและความตาย พากย์ไทย",
+        "img": "https://series-love.com/api/img/b7d5195bbc34c5ca8159.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Buried-Under-the-Snow.html"
+    },
+
+
        {
         "title": "ความผูกพันคืนเดียวที่ถูกสาปกับเจ้ามังกร พากย์ไทย",
         "img": "https://series-love.com/api/img/a9c7a36e4a6beccf5cc5.jpg",
