@@ -1,5 +1,13 @@
 const animeList = [
 
+       {
+        "title": "ความผูกพันคืนเดียวที่ถูกสาปกับเจ้ามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/a9c7a36e4a6beccf5cc5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Cursed-One-Night-Bond.html"
+    },
+
+
                  {
         "title": "ราชาบอลแห่งยุโรป พากย์ไทย",
         "img": "https://series-love.com/api/img/80f09f8a0877fbbc09cf.jpg",
