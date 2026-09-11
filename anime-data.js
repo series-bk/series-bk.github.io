@@ -1,5 +1,13 @@
 const animeList = [
 
+                 {
+        "title": "วิญญาณลูกสาวที่ถูกมองข้าม พากย์ไทย",
+        "img": "https://series-love.com/api/img/fd0ff03b61960d2f730b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Overlooked-Daughters-Ghost.html"
+    },
+
+
             {
         "title": "ปราชญ์อัจฉริยะ กลับมา พากย์ไทย",
         "img": "https://series-love.com/api/img/c93f3c8e828ef2132ef4.jpg",
