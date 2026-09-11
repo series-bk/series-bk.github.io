@@ -1,5 +1,48 @@
 const animeList = [
 
+                 {
+        "title": "ราชาบอลแห่งยุโรป พากย์ไทย",
+        "img": "https://series-love.com/api/img/80f09f8a0877fbbc09cf.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-King-of-European-Football.html"
+    },
+
+     {
+        "title": "ชาตินี้ ขอเลือกฮาเดส พากย์ไทย",
+        "img": "https://series-love.com/api/img/73928cb2584816c3cb6a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Life-I-Choose-Hades.html"
+    },
+
+     {
+        "title": "สยบแทบเท้าราชินีมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/787cabb35a4bf3a781f8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Bow-to-the-Dragon-Queen.html"
+    },
+
+     {
+        "title": "สายเลือดลับแห่งเอลฟ์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/60dd50c8b4f0cc08e7a6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Secret-Elf-Bloodline.html"
+    },
+
+     {
+        "title": "อย่ามายุ่งกับข้า ข้าแค่อยากเก็บตัว ภาค 2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/fb918f66a766a3d0165e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Leave-Me-Alone-Season-2.html"
+    },
+
+     {
+        "title": "ย้อนคืนช่วยชีวิตลูก พากย์ไทย",
+        "img": "https://series-love.com/api/img/dc6ffe8174524bb05c5b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-to-Save-My-Son.html"
+    },
+
+
             {
         "title": "สายใยรักภรรยาเก่า พากย์ไทย",
         "img": "https://series-love.com/api/img/bd04b202b97b04691f32.jpg",
