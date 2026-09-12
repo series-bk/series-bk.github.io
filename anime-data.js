@@ -1,5 +1,54 @@
 const animeList = [
 
+       {
+        "title": "มนต์สะกดแห่งพญานาคมาร",
+        "img": "https://series-love.com/api/img/b3d6032a8ff80cd92b20.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Serpent-Demons-Spell.html",
+        "updated": "2026-09-12T11:49:38.177Z"
+    },
+
+     {
+        "title": "คว่ำคู่ปรับ F1 ตัวฉกาจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/d0239bdd2f71836e75b4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Beating-My-Fierce-F1-Rival.html",
+        "updated": "2026-09-12T11:09:38.177Z"
+    },
+
+     {
+        "title": "เกมสยองขวัญเหรอ น่ารักดีนี่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/36b4c8a7b319d6d638ae.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Horror-Game-How-Cute.html",
+        "updated": "2026-09-12T11:05:38.177Z"
+    },
+
+     {
+        "title": "จ้างนักฆ่ามาเป็นพ่อ ซับไทย",
+        "img": "https://series-love.com/api/img/e36eae900d12d0ae4b75.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/I-Hired-an-Assassin-to-Be-My-Dad.html",
+        "updated": "2026-09-12T10:30:08.177Z"
+    },
+
+     {
+        "title": "เจ้าสาวผู้ท้าทายคำสาป พากย์ไทย",
+        "img": "https://series-love.com/api/img/ab91056913b7914aa25d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Bride-Who-Defied-the-Curse.html",
+        "updated": "2026-09-12T03:30:08.177Z"
+    },
+
+     {
+        "title": "นายแบบยมโลก เมียอสูรอย่าแย่งกัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/dd9a555d2c7952228532.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Underworld-Model-Demon-Wives.html",
+        "updated": "2026-09-12T03:30:08.177Z"
+    }
+
+
                  {
         "title": "วิญญาณลูกสาวที่ถูกมองข้าม พากย์ไทย",
         "img": "https://series-love.com/api/img/fd0ff03b61960d2f730b.jpg",
