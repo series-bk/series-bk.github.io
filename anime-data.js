@@ -55,7 +55,7 @@ const animeList = [
         "type": "พากย์ไทย",
         "link": "https://series-bk.github.io/Underworld-Model-Demon-Wives.html",
         "updated": "2026-09-12T03:30:08.177Z"
-    }
+   },
 
 
                  {
