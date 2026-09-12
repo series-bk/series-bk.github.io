@@ -1,5 +1,22 @@
 const animeList = [
 
+                 {
+        "title": "ปีศาจที่ล่อใจ",
+        "img": "https://series-love.com/api/img/87f794c1764c126d8869.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Demon-of-Temptation.html",
+        "updated": "2026-09-12T21:32:00.125Z"
+    },
+
+     {
+        "title": "เลือดหยดสุดท้ายแด่รักทรยศ พากย์ไทย",
+        "img": "https://series-love.com/api/img/d1e70af4a0cfeb3f99ef.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Last-Drop-of-Blood-for-a-Betrayed-Love.html",
+        "updated": "2026-09-12T14:03:30.125Z"
+    }
+
+
             {
         "title": "ชายาบูชายัญ แห่งมังกรหุบเหว ซับไทย",
         "img": "https://series-love.com/api/img/e80e61d8a26957c5102d.jpg",
