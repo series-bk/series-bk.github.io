@@ -14,7 +14,7 @@ const animeList = [
         "type": "พากย์ไทย",
         "link": "https://series-bk.github.io/The-Last-Drop-of-Blood-for-a-Betrayed-Love.html",
         "updated": "2026-09-12T14:03:30.125Z"
-    }
+    },
 
 
             {
