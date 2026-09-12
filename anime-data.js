@@ -2,7 +2,7 @@ const animeList = [
 
                  {
         "title": "ปีศาจที่ล่อใจ",
-        "img": "https://series-love.com/api/img/87f794c1764c126d8869.jpg",
+        "img": "https://series-love.com/api/img/a58a9aa203f0aaaebaca.jpg",
         "type": "พากย์ไทย",
         "link": "https://series-bk.github.io/The-Demon-of-Temptation.html",
         "updated": "2026-09-12T21:32:00.125Z"
