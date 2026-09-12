@@ -6,7 +6,7 @@ const animeList = [
         "type": "ซับไทย",
         "link": "https://series-bk.github.io/The-Sacrificial-Bride-of-the-Abyss-Dragon.html",
         "updated": "2026-09-12T12:46:49.101Z"
-    }
+   },
 
 
        {
