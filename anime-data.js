@@ -1,5 +1,14 @@
 const animeList = [
 
+       {
+        "title": "อัจฉริยะแฝดสี่จอมป่วน ซับไทย",
+        "img": "https://series-love.com/api/img/960a1a5b7c2d53a9f715.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Genius-Quadruplets-Troublemakers.html",
+        "updated": "2026-09-12T22:06:32.736Z"
+    },
+
+
                  {
         "title": "ปีศาจที่ล่อใจ",
         "img": "https://series-love.com/api/img/a58a9aa203f0aaaebaca.jpg",
