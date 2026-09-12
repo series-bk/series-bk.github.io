@@ -1,5 +1,14 @@
 const animeList = [
 
+            {
+        "title": "กว่าจะรู้ว่ารัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/bd8477436be1acf13360.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Before-He-Knew-It-Was-Love.html",
+        "updated": "2026-09-12T22:35:03.055Z"
+    },
+
+
        {
         "title": "อัจฉริยะแฝดสี่จอมป่วน ซับไทย",
         "img": "https://series-love.com/api/img/960a1a5b7c2d53a9f715.jpg",
