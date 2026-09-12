@@ -1,5 +1,14 @@
 const animeList = [
 
+            {
+        "title": "ชายาบูชายัญ แห่งมังกรหุบเหว ซับไทย",
+        "img": "https://series-love.com/api/img/e80e61d8a26957c5102d.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Sacrificial-Bride-of-the-Abyss-Dragon.html",
+        "updated": "2026-09-12T12:46:49.101Z"
+    }
+
+
        {
         "title": "มนต์สะกดแห่งพญานาคมาร",
         "img": "https://series-love.com/api/img/b3d6032a8ff80cd92b20.png",
