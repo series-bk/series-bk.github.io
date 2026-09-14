@@ -1,5 +1,30 @@
 const animeList = [
 
+       {
+        "title": "หลังจากตื่นขึ้นจากการหลับใหล 300 ปี พากย์ไทย",
+        "img": "https://series-love.com/api/img/85be53a0e6e4748b3625.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Waking-Up-After-300-Years-of-Sleep.html",
+        "updated": "2026-09-14T11:58:08.859Z"
+    },
+
+     {
+        "title": "พ่ออัลฟ่าเลือกคนอื่น จนเสียลูกสาวไป พากย์ไทย",
+        "img": "https://series-love.com/api/img/633db172404fdc5cd12d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Alpha-Father-Who-Chose-Another.html",
+        "updated": "2026-09-14T10:58:08.859Z"
+    },
+
+     {
+        "title": "ระบบรักทำให้ฉันเป็นราชาแห่งวันสิ้นโลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/cd9a84720b4e5c485db8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Love-System-Made-Me-King-of-the-Apocalypse.html",
+        "updated": "2026-09-14T10:58:08.859Z"
+    },
+
+
                  {
         "title": "วีรบุรุษไร้พรมแดน พากย์ไทย",
         "img": "https://series-love.com/api/img/0ce266cb2eb467a243e3.jpg",
