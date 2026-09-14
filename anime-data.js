@@ -1,5 +1,110 @@
 const animeList = [
 
+                 {
+        "title": "วีรบุรุษไร้พรมแดน พากย์ไทย",
+        "img": "https://series-love.com/api/img/0ce266cb2eb467a243e3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Hero-Without-Borders.html",
+        "updated": "2026-09-14T09:24:01.077Z"
+    },
+
+     {
+        "title": "จอมเวทน้อยสยบอเวจี พากย์ไทย",
+        "img": "https://series-love.com/api/img/d8982419cc94b09dd0bd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Little-Mage-Who-Conquered-the-Abyss.html",
+        "updated": "2026-09-14T07:05:31.077Z"
+    },
+
+     {
+        "title": "เจ้าสาวตัวแทน ของราชาอสูร พากย์ไทย",
+        "img": "https://series-love.com/api/img/2fcc3435743a43c23f7e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Substitute-Bride-of-the-Demon-King.html",
+        "updated": "2026-09-14T07:05:31.077Z"
+    },
+
+     {
+        "title": "บริกรคนนั้น เป็นมหาเศรษฐี พากย์ไทย",
+        "img": "https://series-love.com/api/img/7827bf8feb25ddae1b62.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/That-Waiter-Is-a-Billionaire.html",
+        "updated": "2026-09-14T07:05:31.077Z"
+    },
+
+     {
+        "title": "ขอโทษที! บังเอิญผมมีมิติพิเศษ",
+        "img": "https://series-love.com/api/img/3c4c6fbfcd9f69e8475e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Sorry-I-Happen-to-Have-a-Secret-Realm.html",
+        "updated": "2026-09-13T16:05:31.077Z"
+    },
+
+     {
+        "title": "เจ้าบ่าวคู่ชะตา ของราชามังกร ซับไทย",
+        "img": "https://series-love.com/api/img/a647ce51c3cee8aa4fbe.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Fated-Groom-of-the-Dragon-King.html",
+        "updated": "2026-09-12T21:35:31.077Z"
+    },
+
+     {
+        "title": "บังเอิญเป็นสามี พากย์ Ai",
+        "img": "https://series-love.com/api/img/422ebcc4dc8aa046e8dc.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Accidentally-My-Husband.html",
+        "updated": "2026-09-12T21:35:31.077Z"
+    },
+
+     {
+        "title": "ฮองเฮาพลิกแผ่นดิน พากย์ไทย",
+        "img": "https://series-love.com/api/img/3a07dfd8ea2e5ecb33d9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Empress-Who-Turned-the-Land.html",
+        "updated": "2026-09-12T21:35:31.077Z"
+    },
+
+     {
+        "title": "คำลวงบนโอลิมปัส พากย์ไทย",
+        "img": "https://series-love.com/api/img/9ca763b91cac0f544eee.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Lies-on-Olympus.html",
+        "updated": "2026-09-12T21:35:31.077Z"
+    },
+
+     {
+        "title": "คู่หูในเกม ดันเป็นคู่ปรับของฉัน ซับไทย",
+        "img": "https://series-love.com/api/img/2f4029ddfb8f25769563.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/My-Game-Partner-Is-My-Rival.html",
+        "updated": "2026-09-12T21:35:31.077Z"
+    },
+
+     {
+        "title": "ปีศาจใต้หน้ากากพ่อ ซับไทย",
+        "img": "https://series-love.com/api/img/dd6e8b1b16b3f1f2b6f0.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Demon-Behind-the-Fathers-Mask.html",
+        "updated": "2026-09-12T21:35:31.077Z"
+    },
+
+     {
+        "title": "สายเปย์รวยร้อยเท่า ซับไทย",
+        "img": "https://series-love.com/api/img/0308c50d840f06ae4790.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Spend-to-Get-a-Hundredfold.html",
+        "updated": "2026-09-12T21:35:31.077Z"
+    },
+
+     {
+        "title": "4 ของสั่งลา เจ้าพ่อฟัลคอน พากย์ไทย",
+        "img": "https://series-love.com/api/img/5c69160f7b925d7e384d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Four-Farewell-Gifts-for-the-Falcon-Don.html",
+        "updated": "2026-09-12T21:35:31.077Z"
+    },
+
+
             {
         "title": "กว่าจะรู้ว่ารัก พากย์ไทย",
         "img": "https://series-love.com/api/img/bd8477436be1acf13360.jpg",
