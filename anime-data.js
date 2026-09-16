@@ -1,5 +1,182 @@
 const animeList = [
 
+            {
+        "title": "แฝดลับๆ ทายาทมาเฟีย ซับไทย",
+        "img": "https://series-love.com/api/img/46daa946d6b6ffdc6b7a.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Secret-Twins-of-the-Mafia-Heir.html",
+        "updated": "2026-09-16T14:51:43.085Z"
+    },
+
+     {
+        "title": "หมาป่าน้อย พลิกชะตาฝูง พากย์ไทย",
+        "img": "https://series-love.com/api/img/6826d57d69a72eda199b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Little-Wolf-Who-Changed-the-Packs-Fate.html",
+        "updated": "2026-09-16T12:02:13.085Z"
+    },
+
+     {
+        "title": "ภารกิจล่ารักเจ้าหญิงหมาป่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/21c62dc1c70f9ee15049.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Wolf-Princess-Love-Hunt.html",
+        "updated": "2026-09-16T12:02:13.085Z"
+    },
+
+     {
+        "title": "ปฏิเสธความผิดของลูกชายฉัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/502aea29a99e8741cf87.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Son-Is-Not-Guilty.html",
+        "updated": "2026-09-16T11:02:13.085Z"
+    },
+
+     {
+        "title": "จากสามีที่ถูกทิ้ง สู่ทายาทตระกูลสเตอร์ลิง พากย์ไทย",
+        "img": "https://series-love.com/api/img/9072d8bba29ce9d87947.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Discarded-Husband-to-Sterling-Heir.html",
+        "updated": "2026-09-16T10:02:13.085Z"
+    },
+
+     {
+        "title": "เงาจอมเวท ผู้ถูกเนรเทศ พากย์ไทย",
+        "img": "https://series-love.com/api/img/8838c4c63426b92e8563.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Exiled-Shadow-Mage.html",
+        "updated": "2026-09-16T09:02:13.085Z"
+    },
+
+     {
+        "title": "ช่างซ่อมรถที่เธอทิ้ง คือนักแข่งรถระดับตำนาน พากย์ไทย",
+        "img": "https://series-love.com/api/img/c5caa7a6dfb721e45770.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mechanic-She-Dumped-Is-a-Racing-Legend.html",
+        "updated": "2026-09-16T07:02:13.085Z"
+    },
+
+     {
+        "title": "แม่ใหม่มีวิญญาณแค้น พากย์ Ai",
+        "img": "https://series-love.com/api/img/f0e7cace52498293ff50.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-New-Mother-with-a-Vengeful-Spirit.html",
+        "updated": "2026-09-16T05:02:13.085Z"
+    },
+
+     {
+        "title": "แต่งผิดแต่รักจริง พากย์ไทย",
+        "img": "https://series-love.com/api/img/16f5b6989e59a3b8a59a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Married-the-Wrong-One-but-Loved-Her-for-Real.html",
+        "updated": "2026-09-16T04:02:13.085Z"
+    },
+
+     {
+        "title": "ลูกหมาป่า ในเงาจันทร์อัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/cb04d4e8a94511fc19aa.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Wolf-Pups-Under-the-Alphas-Moon.html",
+        "updated": "2026-09-16T04:02:13.085Z"
+    },
+
+     {
+        "title": "กุหลาบงามในวังวนแค้น พากย์ Ai",
+        "img": "https://series-love.com/api/img/cb78c20cc999f972fa9a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Rose-in-the-Cycle-of-Revenge.html",
+        "updated": "2026-09-16T04:02:13.085Z"
+    },
+
+     {
+        "title": "รักติดไซเรน ซับไทย",
+        "img": "https://series-love.com/api/img/600945b6ceda4bd3686a.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Hooked-on-a-Siren.html",
+        "updated": "2026-09-15T16:02:13.085Z"
+    },
+
+     {
+        "title": "หนูน้อยวาจาศักดิ์สิทธิ์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/2623f36e919f53ad2c9a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Little-Girl-Whose-Words-Come-True.html",
+        "updated": "2026-09-15T16:02:13.085Z"
+    },
+
+     {
+        "title": "ยอดแพทย์หญิงเจ้าสำนัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/caba63938a2ef805c55e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Master-Physician-of-the-Sect.html",
+        "updated": "2026-09-15T16:02:13.085Z"
+    },
+
+     {
+        "title": "พ่อเพื่อนซี้ คนนี้เกินห้ามใจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/bc630283f02feac43590.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Best-Friends-Father.html",
+        "updated": "2026-09-15T03:32:13.085Z"
+    },
+
+     {
+        "title": "คู่ปรับสุดที่รัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/340109173f2191392a30.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Beloved-Rival.html",
+        "updated": "2026-09-15T03:32:13.085Z"
+    },
+
+     {
+        "title": "รักออนไลน์ป่วนใจพี่ชายยัยเพื่อนซี้ ซับไทย",
+        "img": "https://series-love.com/api/img/a59d0deb6416771a22e4.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Online-Love-and-My-Best-Friends-Brother.html",
+        "updated": "2026-09-15T03:32:13.085Z"
+    },
+
+     {
+        "title": "เมดบอท โปรโตคอลพิศวาส ซับไทย",
+        "img": "https://series-love.com/api/img/f2022f1c9abe288ea905.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Maidbot-Desire-Protocol.html",
+        "updated": "2026-09-15T03:32:13.085Z"
+    },
+
+     {
+        "title": "พิชิตใจ ราชาไลแคนผู้เย็นชา ซับไทย",
+        "img": "https://series-love.com/api/img/9ad02e9a464fe61debe6.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Winning-the-Cold-Lycan-Kings-Heart.html",
+        "updated": "2026-09-15T03:32:13.085Z"
+    },
+
+     {
+        "title": "เทพในคราบคนไร้ค่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/14274c00b020e9784159.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-God-in-the-Guise-of-a-Nobody.html",
+        "updated": "2026-09-15T03:32:13.085Z"
+    },
+
+     {
+        "title": "พันธะรักอัลฟ่า กับลูกในอ้อมแขน พากย์ไทย",
+        "img": "https://series-love.com/api/img/83672a40698a02ba390c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Alpha-Bond-and-the-Child-in-Her-Arms.html",
+        "updated": "2026-09-15T03:32:13.085Z"
+    },
+
+     {
+        "title": "ทายาทพายเรือ หวนคืนบัลลังก์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/14621d04dffb3790fc7e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Rowing-Heir-Reclaims-His-Throne.html",
+        "updated": "2026-09-15T03:32:13.085Z"
+    },
+
+
        {
         "title": "หลังจากตื่นขึ้นจากการหลับใหล 300 ปี พากย์ไทย",
         "img": "https://series-love.com/api/img/85be53a0e6e4748b3625.jpg",
