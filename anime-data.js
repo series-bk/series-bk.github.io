@@ -1,5 +1,46 @@
 const animeList = [
 
+       {
+        "title": "เผลอใจ ให้พี่ชายผิดคน ซับไทย",
+        "img": "https://series-love.com/api/img/1ff019a0c9e50408f687.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Falling-for-the-Wrong-Brother.html",
+        "updated": "2026-09-17T19:02:29.569Z"
+    },
+
+     {
+        "title": "เปิดระบบพลิกชะตาชีวิต พากย์ไทย",
+        "img": "https://series-love.com/api/img/0535721bdbce69040c30.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-System-That-Rewrote-My-Life.html",
+        "updated": "2026-09-17T14:33:59.569Z"
+    },
+
+     {
+        "title": "ตูม! ราชินีไซซ์ XXXL เอาคืน ซับไทย",
+        "img": "https://series-love.com/api/img/aea7599a0a3f467829ba.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Boom-The-XXXL-Queen-Strikes-Back.html",
+        "updated": "2026-09-17T12:33:59.569Z"
+    },
+
+     {
+        "title": "สุสานมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/6133f087fa446d785f2a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Tomb.html",
+        "updated": "2026-09-17T12:33:59.569Z"
+    },
+
+     {
+        "title": "เจ้าสาวของราชานักบิด พากย์ไทย",
+        "img": "https://series-love.com/api/img/32b6e69e65f233215a8c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Biker-Kings-Bride.html",
+        "updated": "2026-09-17T07:33:59.569Z"
+    },
+
+
                  {
         "title": "ไม่มีใครหยุดพลังตาทิพย์ฉันได้ พากย์ไทย",
         "img": "https://series-love.com/api/img/b330e63440b09f9b0b98.jpg",
