@@ -1,5 +1,38 @@
 const animeList = [
 
+                 {
+        "title": "ไม่มีใครหยุดพลังตาทิพย์ฉันได้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/b330e63440b09f9b0b98.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/No-One-Can-Stop-My-X-Ray-Eyes.html",
+        "updated": "2026-09-17T07:01:27.749Z"
+    },
+
+     {
+        "title": "อดีตสามีไร้ค่าคือเทพโพไซดอน พากย์ไทย",
+        "img": "https://series-love.com/api/img/b8b905f70d1de15129be.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Worthless-Ex-Husband-Is-Poseidon.html",
+        "updated": "2026-09-17T06:59:27.749Z"
+    },
+
+     {
+        "title": "ฝ่าบาท กุ้ยเฟยกลับยุคปัจจุบันแล้ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/24fb5e3f046ee0923a78.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Your-Majesty-the-Consort-Has-Returned.html",
+        "updated": "2026-09-17T06:51:27.749Z"
+    },
+
+     {
+        "title": "มังกรซ่อนคม พากย์ไทย",
+        "img": "https://series-love.com/api/img/b7762b67c17316a1fbf6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Hidden-Dragon-Knight.html",
+        "updated": "2026-09-17T06:50:27.749Z"
+    },
+
+
             {
         "title": "แฝดลับๆ ทายาทมาเฟีย ซับไทย",
         "img": "https://series-love.com/api/img/46daa946d6b6ffdc6b7a.jpg",
