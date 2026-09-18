@@ -1,5 +1,150 @@
 const animeList = [
 
+            {
+        "title": "รักที่ซ่อนอยู่ในใจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/7657d0c82e191826dc69.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Love-She-Kept-Hidden.html",
+        "updated": "2026-09-18T16:08:37.612Z"
+    },
+
+     {
+        "title": "เธอค้นพบตัวเองบนผิวน้ำแข็ง พากย์ Ai",
+        "img": "https://series-love.com/api/img/7318ea1c429f0b1ddd1a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/She-Found-Herself-on-the-Ice.html",
+        "updated": "2026-09-18T16:08:37.612Z"
+    },
+
+     {
+        "title": "คืนเดียวกับผู้อำนวยการ สู่แรงก์ S ซับไทย",
+        "img": "https://series-love.com/api/img/bad46d25c9de65511a39.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/One-Night-with-the-Director-to-S-Rank.html",
+        "updated": "2026-09-18T15:08:37.612Z"
+    },
+
+     {
+        "title": "ผู้การหญิง กัปตันขอยอมแพ้ ซับไทย",
+        "img": "https://series-love.com/api/img/51dfa6545a4f4b56c602.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Commander-and-the-Captains-Surrender.html",
+        "updated": "2026-09-18T15:08:37.612Z"
+    },
+
+     {
+        "title": "เกิดใหม่ผ่านรักของมนุษย์สัตว์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/cab9c6265b93ab6519dd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-Through-Beastmen-Love.html",
+        "updated": "2026-09-18T14:08:37.612Z"
+    },
+
+     {
+        "title": "ความลับของร็อกสตาร์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/497e476798743c77d7aa.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Rock-Stars-Secret.html",
+        "updated": "2026-09-18T13:08:37.612Z"
+    },
+
+     {
+        "title": "เจ้าหญิงเผ่าหมาป่าจากไปไม่หวนกลับ พากย์ไทย",
+        "img": "https://series-love.com/api/img/2abd8159622a8b2950e7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Wolf-Princess-Who-Never-Came-Back.html",
+        "updated": "2026-09-18T13:08:37.612Z"
+    },
+
+     {
+        "title": "เธอเป็นแค่เลขา แต่ฉันคือเจ้าของตัวจริง พากย์ไทย",
+        "img": "https://series-love.com/api/img/8e4a556714f000cbb6b0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Shes-Just-the-Secretary-I-Own-the-Company.html",
+        "updated": "2026-09-18T13:08:37.612Z"
+    },
+
+     {
+        "title": "คู่ชะตาคืออัลฟ่าคู่อริ ซับไทย",
+        "img": "https://series-love.com/api/img/4ebcf4feedafeebea136.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/My-Fated-Mate-Is-My-Rival-Alpha.html",
+        "updated": "2026-09-18T08:08:37.612Z"
+    },
+
+     {
+        "title": "เทพเชฟเปิดร้านสุดเถื่อน ภาค 2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/484a39a0a30ac44180a5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Godly-Chefs-Wild-Restaurant-Season-2.html",
+        "updated": "2026-09-18T08:08:37.612Z"
+    },
+
+     {
+        "title": "เทพเชฟเปิดร้านสุดเถื่อน พากย์ไทย",
+        "img": "https://series-love.com/api/img/f8c81ba93a2bee9b7fe6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Godly-Chefs-Wild-Restaurant.html",
+        "updated": "2026-09-18T08:08:37.612Z"
+    },
+
+     {
+        "title": "ทำลายไตฉัน ก็ทำลายฝันเธอ พากย์ไทย",
+        "img": "https://series-love.com/api/img/20c1914b7b8f31ffc063.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/You-Ruined-My-Kidney-I-Ruined-Your-Dream.html",
+        "updated": "2026-09-18T08:08:37.612Z"
+    },
+
+     {
+        "title": "พันปีที่เธอลืมเลือน พากย์ไทย",
+        "img": "https://series-love.com/api/img/40a891334b1f2133aaed.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Thousand-Years-She-Forgot.html",
+        "updated": "2026-09-18T07:08:37.612Z"
+    },
+
+     {
+        "title": "ปรารถนาอัลฟ่าต้องห้าม พากย์ Ai",
+        "img": "https://series-love.com/api/img/919e7a5bf483b329170d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Forbidden-Alpha-Desire.html",
+        "updated": "2026-09-18T07:08:37.612Z"
+    },
+
+     {
+        "title": "คนขับรถ/คนขับแท็กซี่ ซับไทย",
+        "img": "https://series-love.com/api/img/fd0a3151fc532ed364c1.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Taxi-Driver.html",
+        "updated": "2026-09-18T06:08:37.612Z"
+    },
+
+     {
+        "title": "เล่ห์รักสามีเจ้าชู้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/fec81c665bffbba545fe.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Cheating-Husbands-Game.html",
+        "updated": "2026-09-18T05:08:37.612Z"
+    },
+
+     {
+        "title": "รักใหม่มาต่อคิว พากย์ไทย",
+        "img": "https://series-love.com/api/img/ed0ee329f86c920dc7ba.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-New-Love-in-Line.html",
+        "updated": "2026-09-18T05:08:37.612Z"
+    },
+
+     {
+        "title": "วิญญาณราชินีพลิกชีวิต พากย์ไทย",
+        "img": "https://series-love.com/api/img/d58331264600f64f301e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Queens-Spirit-Turned-My-Life-Around.html",
+        "updated": "2026-09-18T05:08:37.612Z"
+    },
+
+
        {
         "title": "เผลอใจ ให้พี่ชายผิดคน ซับไทย",
         "img": "https://series-love.com/api/img/1ff019a0c9e50408f687.jpg",
