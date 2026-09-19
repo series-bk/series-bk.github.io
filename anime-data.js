@@ -1,5 +1,70 @@
 const animeList = [
 
+                 {
+        "title": "ใช่ ข้าคือเจ้าสาวของมังกร ซับไทย",
+        "img": "https://series-love.com/api/img/1c72259734ff0b6495a0.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Yes-I-Am-the-Dragons-Bride.html",
+        "updated": "2026-09-19T08:50:45.457Z"
+    },
+
+     {
+        "title": "แสร้งทำเป็นรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/b391a416d2f6f49bb64f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Pretending-to-Be-in-Love.html",
+        "updated": "2026-09-19T06:14:15.457Z"
+    },
+
+     {
+        "title": "หนีเจ้าพ่อค้าอาวุธกับลูกหกคน ที่แท้เขาคือราชาอัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/e055b7a9a833ef396fa5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Running-from-the-Arms-Dealer-with-Six-Kids.html",
+        "updated": "2026-09-19T05:14:15.457Z"
+    },
+
+     {
+        "title": "แม่ครับ หนูกับพ่อเป็นหมาป่านะ พากย์ Ai",
+        "img": "https://series-love.com/api/img/27107845bec03b7fb807.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Mom-Dad-and-I-Are-Wolves.html",
+        "updated": "2026-09-19T05:14:15.457Z"
+    },
+
+     {
+        "title": "ถูกผูกพันกับทั้งอัลฟ่าและเบต้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/a572c80b60e0ee1ad631.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Bonded-to-Both-the-Alpha-and-the-Beta.html",
+        "updated": "2026-09-19T05:14:15.457Z"
+    },
+
+     {
+        "title": "ตาเทพทะเลครองโลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/66fda3be7ccf7e012592.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Sea-Gods-Eye-Rules-the-World.html",
+        "updated": "2026-09-19T05:14:15.457Z"
+    },
+
+     {
+        "title": "ชาตินี้ฉันจะขยี้พวกแกเอง พากย์ Ai",
+        "img": "https://series-love.com/api/img/aaee5a6ee311e886df1e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Time-I-Will-Crush-You-All.html",
+        "updated": "2026-09-19T05:14:15.457Z"
+    },
+
+     {
+        "title": "บัลลังก์ทะเลที่ทวงคืน พากย์ Ai",
+        "img": "https://series-love.com/api/img/242fdec10b5e71567b01.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reclaiming-the-Throne-of-the-Sea.html",
+        "updated": "2026-09-19T03:14:15.457Z"
+    },
+
+
             {
         "title": "รักที่ซ่อนอยู่ในใจ พากย์ไทย",
         "img": "https://series-love.com/api/img/7657d0c82e191826dc69.jpg",
