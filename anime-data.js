@@ -1,5 +1,45 @@
 const animeList = [
 
+       {
+        "title": "แฟนลูกสาว หลงรักฉัน ซับไทย",
+        "img": "https://series-love.com/api/img/b46222d7b359f77206ae.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/My-Daughters-Boyfriend-Fell-for-Me.html",
+        "updated": "2026-09-19T12:21:37.064Z"
+    },
+
+     {
+        "title": "สามีไร้บ้านคือเทพสายฟ้า ซับไทย",
+        "img": "https://series-love.com/api/img/e8968f3c4c3e1bd8c616.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/My-Homeless-Husband-Is-the-God-of-Thunder.html",
+        "updated": "2026-09-19T11:18:07.064Z"
+    },
+
+     {
+        "title": "แต่งกับศัตรูหัวใจ ซับไทย",
+        "img": "https://series-love.com/api/img/0b29e680dfddc1e2d1d8.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Married-to-My-Hearts-Enemy.html",
+        "updated": "2026-09-19T10:18:07.064Z"
+    },
+
+     {
+        "title": "เครื่องสังเวย แด่เจ้าแห่งท้องทะเล ซับไทย",
+        "img": "https://series-love.com/api/img/929b6c32fddac9bfee61.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Offering-to-the-Lord-of-the-Sea.html",
+        "updated": "2026-09-19T10:18:07.064Z"
+    },
+
+     {
+        "title": "คนรักลับๆ ของมิสเตอร์เดรก ซับไทย",
+        "img": "https://series-love.com/api/img/5fe39c1d10cdcf81cded.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Mr-Drakes-Secret-Lover.html",
+        "updated": "2026-09-19T10:18:07.064Z"
+    },
+
                  {
         "title": "ใช่ ข้าคือเจ้าสาวของมังกร ซับไทย",
         "img": "https://series-love.com/api/img/1c72259734ff0b6495a0.jpg",
