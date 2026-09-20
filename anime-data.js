@@ -1,5 +1,47 @@
 const animeList = [
 
+                 {
+        "title": "ภายใต้การสิงสู่ของเชฟฝีมือฉกาจ ฉันได้เปลี่ยนร้านอาหารชาเซียนให้กลายเป็นธุรกิจที่ฉ้อฉล ซีซั่น1 พากย์ai",
+        "img": "https://series-love.com/api/img/e13ab4b921a9e74307a7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Godly-Chefs-Wild-Restaurant.html",
+        "updated": "2026-09-20T02:11:17.643Z"
+    },
+
+     {
+        "title": "ภายใต้การสิงสู่ของเชฟฝีมือฉกาจ ฉันได้เปลี่ยนร้านอาหารชาเซียนให้กลายเป็นธุรกิจที่ฉ้อฉล ซีซั่น2 พากย์ai",
+        "img": "https://series-love.com/api/img/8ca597e0d8f8715bbfae.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Godly-Chefs-Wild-Restaurant-Season-2.html",
+        "updated": "2026-09-20T02:12:17.643Z"
+    },
+
+
+                 {
+        "title": "ฉันอู้ในห้องฉุกเฉิน แล้วคนทั้งโรงพยาบาลก็มาขอร้องให้ฉันช่วย พากย์ai",
+        "img": "https://series-love.com/api/img/8f55e0f487dffc612d7d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/I-Slacked-Off-in-the-ER.html",
+        "updated": "2026-09-20T01:58:04.539Z"
+    },
+
+     {
+        "title": "มหาเศรษฐี ระบบทรงอำนาจที่ถูกพัดพามาโดยสายลม พากย์ai",
+        "img": "https://series-love.com/api/img/ff41c4480b0687fcb84b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Tycoon-System-Carried-by-the-Wind.html",
+        "updated": "2026-09-20T01:56:04.539Z"
+    },
+
+     {
+        "title": "ทายาทตัวจริงผู้เข้าใจภาษาสัตว์มีโทรศัพท์ที่เต็มไปด้วยรายชื่อเทพเจ้า พากย์ai",
+        "img": "https://series-love.com/api/img/1ea84f85abb5d0e8df1f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-True-Heir-Who-Speaks-to-Animals.html",
+        "updated": "2026-09-20T01:54:04.539Z"
+    },
+
+
             {
         "title": "กุญแจมือล็อกผิดคน ซับไทย",
         "img": "https://series-love.com/api/img/b83a29094d7fe6f9a261.jpg",
