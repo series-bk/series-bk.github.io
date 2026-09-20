@@ -1,5 +1,62 @@
 const animeList = [
 
+            {
+        "title": "กุญแจมือล็อกผิดคน ซับไทย",
+        "img": "https://series-love.com/api/img/b83a29094d7fe6f9a261.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Handcuffed-the-Wrong-Man.html",
+        "updated": "2026-09-19T16:32:38.361Z"
+    },
+
+     {
+        "title": "พระราชวังฟีนิกช์ในสันติสุข พากย์ Ai",
+        "img": "https://series-love.com/api/img/277e74e05da6c43224ce.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Phoenix-Palace-at-Peace.html",
+        "updated": "2026-09-19T14:32:38.361Z"
+    },
+
+     {
+        "title": "เกิดใหม่! การกลับมาของลูกเป็ดขี้เหร่ สู่การเป็นที่ชื่นชอบ พากย์ Ai",
+        "img": "https://series-love.com/api/img/9b12cc5f5255c3b32d38.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-The-Ugly-Ducklings-Return.html",
+        "updated": "2026-09-19T14:32:38.361Z"
+    },
+
+     {
+        "title": "แม่ของวายร้าย พากย์ Ai",
+        "img": "https://series-love.com/api/img/b939acd04c151f7c3cc6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Villains-Mother.html",
+        "updated": "2026-09-19T14:32:38.361Z"
+    },
+
+     {
+        "title": "เกิดใหม่เป็นลูกจระเข้ เริ่มจากการซื้อของออนไลน์ สู่การวิวัฒนาการ พากย์ Ai",
+        "img": "https://series-love.com/api/img/a421cb7e4e91c297d846.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-as-a-Baby-Crocodile.html",
+        "updated": "2026-09-19T14:32:38.361Z"
+    },
+
+     {
+        "title": "มิลค์บอล ชูการ์เบบี้ คือปลาคาร์ฟนำโชค พากย์ Ai",
+        "img": "https://series-love.com/api/img/78e70e875495cea22c8c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Milkball-Sugar-Baby-the-Lucky-Koi.html",
+        "updated": "2026-09-19T14:32:38.361Z"
+    },
+
+     {
+        "title": "ทาสชะตามังกร พากย์ Ai",
+        "img": "https://series-love.com/api/img/c7fabf907313f4986b16.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Slave-of-the-Dragons-Fate.html",
+        "updated": "2026-09-19T13:32:38.361Z"
+    },
+
+
        {
         "title": "แฟนลูกสาว หลงรักฉัน ซับไทย",
         "img": "https://series-love.com/api/img/b46222d7b359f77206ae.jpg",
