@@ -1,5 +1,110 @@
 const animeList = [
 
+       {
+        "title": "ซีซั่นลับของคอมมานเดอร์ Z พากย์ไทย",
+        "img": "https://series-love.com/api/img/3d8c183eb1d1e1da51a0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Commander-Zs-Secret-Season.html",
+        "updated": "2026-09-20T14:45:07.823Z"
+    },
+
+     {
+        "title": "คำสั่งของโอเมก้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/189d233b10f797a4d272.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Omegas-Command.html",
+        "updated": "2026-09-20T14:45:07.823Z"
+    },
+
+     {
+        "title": "เจ้าสาวตัวแทนจักรพรรดิมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/4f883ccaa44beb4f0565.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Emperors-Substitute-Bride.html",
+        "updated": "2026-09-20T13:45:07.823Z"
+    },
+
+     {
+        "title": "อำลาเหนือม่านเมฆ โบยบินรับสายลม พากย์ไทย",
+        "img": "https://series-love.com/api/img/f6f0f922ff041b5ce5fa.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Farewell-Above-the-Clouds.html",
+        "updated": "2026-09-20T12:45:07.823Z"
+    },
+
+     {
+        "title": "หวนคืนพันปี สะเทือนยุทธภพ พากย์ไทย",
+        "img": "https://series-love.com/api/img/f77f425ef942bfabb852.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Return-After-a-Thousand-Years.html",
+        "updated": "2026-09-20T12:45:07.823Z"
+    },
+
+     {
+        "title": "ภูตแห่งตะเกียงวิเศษ พากย์ไทย",
+        "img": "https://series-love.com/api/img/9842b4b1b914ddcbd7e8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Genie-of-the-Magic-Lamp.html",
+        "updated": "2026-09-20T12:45:07.823Z"
+    },
+
+     {
+        "title": "โปรแกรมเมอร์ครองเผ่าอสูร/กุญแจมือล็อกผิดคน พากย์ Ai",
+        "img": "https://series-love.com/api/img/8b4d2e1fb08b88c9b3cc.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Handcuffed-the-Wrong-Man-AI-Dub.html",
+        "updated": "2026-09-20T10:45:07.823Z"
+    },
+
+     {
+        "title": "ปีกอีกาซ่อนหงส์อเวจี พากย์ Ai",
+        "img": "https://series-love.com/api/img/44828342f25bcd642f1b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Crows-Wings-Hiding-a-Phoenix.html",
+        "updated": "2026-09-20T10:45:07.823Z"
+    },
+
+     {
+        "title": "สองสุนัขภักดี ของซัคคิวบัส ซับไทย",
+        "img": "https://series-love.com/api/img/2fe89be683c858207939.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Succubus-Two-Loyal-Dogs.html",
+        "updated": "2026-09-20T09:45:07.823Z"
+    },
+
+     {
+        "title": "วันที่เขา เสียเธอไป พากย์ไทย",
+        "img": "https://series-love.com/api/img/4bffe9f861c1bcc7ea8f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Day-He-Lost-Her.html",
+        "updated": "2026-09-20T09:45:07.823Z"
+    },
+
+     {
+        "title": "สามีไร้ค่าคือราชาตัวจริง พากย์ไทย",
+        "img": "https://series-love.com/api/img/3a8ef0528c0fc406ae28.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Worthless-Husband-Is-the-True-King.html",
+        "updated": "2026-09-20T08:45:07.823Z"
+    },
+
+     {
+        "title": "เรียกพ่อสิหนู พากย์ Ai",
+        "img": "https://series-love.com/api/img/43e0e8962d52c01a4837.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Call-Me-Dad.html",
+        "updated": "2026-09-20T07:45:07.823Z"
+    },
+
+     {
+        "title": "พ่อมหาเศรษฐี เจอแล้ว ซับไทย",
+        "img": "https://series-love.com/api/img/d4c34d42797c469357b5.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Found-My-Billionaire-Father.html",
+        "updated": "2026-09-20T06:45:07.823Z"
+    },
+
+
                  {
         "title": "ภายใต้การสิงสู่ของเชฟฝีมือฉกาจ ฉันได้เปลี่ยนร้านอาหารชาเซียนให้กลายเป็นธุรกิจที่ฉ้อฉล ซีซั่น1 พากย์ai",
         "img": "https://series-love.com/api/img/e13ab4b921a9e74307a7.jpg",
