@@ -1,5 +1,94 @@
 const animeList = [
 
+            {
+        "title": "ขีดพลังกลายพันธุ์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/dac903214152fe8eb07c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mutant-Power-Limit.html",
+        "updated": "2026-09-21T12:51:27.489Z"
+    },
+
+     {
+        "title": "เจ้าพ่อผู้ปกครอง กับรักต้องห้ามของเธอ พากย์ไทย",
+        "img": "https://series-love.com/api/img/fa718bffb1a366f02231.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Guardian-the-Don.html",
+        "updated": "2026-09-21T10:51:27.489Z"
+    },
+
+     {
+        "title": "สายไปแล้ว อัลฟ่าของฉัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/3f23952d76faf1c7fc47.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Too-Late-My-Alpha.html",
+        "updated": "2026-09-21T10:51:27.489Z"
+    },
+
+     {
+        "title": "เกิดใหม่ในคืนวิวาห์ สามีเธอพลิกเกมเอาคืน พากย์ไทย",
+        "img": "https://series-love.com/api/img/a0a4613a90934f97be3f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-on-Her-Wedding-Night.html",
+        "updated": "2026-09-21T09:51:27.489Z"
+    },
+
+     {
+        "title": "คืนเดียวได้ลูกกับราชามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/62d553d2554b98b1ff39.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/One-Night-with-the-Dragon-King.html",
+        "updated": "2026-09-21T08:51:27.489Z"
+    },
+
+     {
+        "title": "ปฏิเสธวิวาห์ 5 คู่แห่งโชคชะตา พากย์ไทย",
+        "img": "https://series-love.com/api/img/8baa0529043460d218a4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Rejecting-My-Five-Fated-Mates.html",
+        "updated": "2026-09-21T08:51:27.489Z"
+    },
+
+     {
+        "title": "โอเมก้าร่างนี้ คือราชินีอัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/0e039d9b78c95ad0a23a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Omega-Is-the-Alpha-Queen.html",
+        "updated": "2026-09-21T07:51:27.489Z"
+    },
+
+     {
+        "title": "อสูร คู่ครองสามราชัน ซับไทย",
+        "img": "https://series-love.com/api/img/cb8a1e3b15e73118e1bb.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Beast-Mate-of-Three-Kings.html",
+        "updated": "2026-09-21T07:51:27.489Z"
+    },
+
+     {
+        "title": "แฟนซามอยด์ ของเจ้าชายสิงโต ซับไทย",
+        "img": "https://series-love.com/api/img/3de84f6b548c4bd84faa.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Lion-Princes-Samoyed.html",
+        "updated": "2026-09-21T07:51:27.489Z"
+    },
+
+     {
+        "title": "ฤดูร้อนสุดท้าย แห่งความบริสุทธิ์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/47bf6ea9e6a50e40709e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Last-Innocent-Summer.html",
+        "updated": "2026-09-21T05:51:27.489Z"
+    },
+
+     {
+        "title": "ลูกสาวบอสมาเฟีย ขอทวงทุกอย่างคืน พากย์ไทย",
+        "img": "https://series-love.com/api/img/76774ab76846377da30a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Bosss-Daughter-Takes-It-All.html",
+        "updated": "2026-09-21T05:51:27.489Z"
+    },
+
+
        {
         "title": "ซีซั่นลับของคอมมานเดอร์ Z พากย์ไทย",
         "img": "https://series-love.com/api/img/3d8c183eb1d1e1da51a0.jpg",
