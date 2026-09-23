@@ -1,5 +1,126 @@
 const animeList = [
 
+       {
+        "title": "รถหรูเป็นเหตุ สังเกตได้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/59a3984d9a42b75b6988.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Bugatti-That-Gave-Him-Away.html",
+        "updated": "2026-09-23T10:45:54.183Z"
+    },
+
+     {
+        "title": "ตราบาปจากเมียเก่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/8a5691491b6f24f0d998.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Sin-of-the-Ex-Wife.html",
+        "updated": "2026-09-23T10:37:54.183Z"
+    },
+
+     {
+        "title": "สายใยรักอัลฟ่าคิง พากย์ไทย",
+        "img": "https://series-love.com/api/img/1d535eaaa11210a07316.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Bound-to-the-Alpha-King.html",
+        "updated": "2026-09-23T10:27:54.183Z"
+    },
+
+     {
+        "title": "สู้สุดใจเพื่ออสูรน้อยทั้งห้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/5eeb0e9dd16605b91182.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Fighting-for-Five-Little-Beasts.html",
+        "updated": "2026-09-23T10:20:54.183Z"
+    },
+
+     {
+        "title": "พี่หมาป่า รักข้ามขอบเขต พากย์ไทย",
+        "img": "https://series-love.com/api/img/f88b1f60853df84b1d00.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Wolf-Stepbrothers-Obsession.html",
+        "updated": "2026-09-23T09:41:24.183Z"
+    },
+
+     {
+        "title": "หลีกไป! ช่างตีเหล็กสายฟ้ากลับมาแล้ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/965b98cdf2481777bbd1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Make-Way-the-Thunder-Blacksmith-Returns.html",
+        "updated": "2026-09-23T09:41:24.183Z"
+    },
+
+     {
+        "title": "คุณกองหน้า มาไม่ทัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/210f9770dd90bce57e8a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Too-Late-Mr-Striker.html",
+        "updated": "2026-09-23T09:41:24.183Z"
+    },
+
+     {
+        "title": "พ่อของลูกนักล่าปีศาจ คือแวมไพร์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/b757ca8357f45dbe7fc9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Daughters-Father-Is-a-Vampire.html",
+        "updated": "2026-09-23T08:41:24.183Z"
+    },
+
+     {
+        "title": "ศูนย์ทดลอง ผู้ไม่ตาย พากย์ Ai",
+        "img": "https://series-love.com/api/img/ff49622dbf8da1a64478.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Subject-Zero-the-Undying.html",
+        "updated": "2026-09-23T08:41:24.183Z"
+    },
+
+     {
+        "title": "จากเด็กเนิร์ดสู่ตัวพ่อ พากย์ไทย",
+        "img": "https://series-love.com/api/img/61c11a9384b72c20e9fc.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Nerd-to-Boss.html",
+        "updated": "2026-09-23T07:41:24.183Z"
+    },
+
+     {
+        "title": "ลูกหมาขนฟูของฉันคือ CEO อัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/f1bea3132a3739bec903.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Fluffy-Puppy-Is-an-Alpha-CEO.html",
+        "updated": "2026-09-23T07:41:24.183Z"
+    },
+
+     {
+        "title": "นั่วหนัวลงมาจากภูเขาและเหล่าศิษย์ของเธอก็แตกตื่น ภาค 3 พากย์ไทย",
+        "img": "https://series-love.com/api/img/d3c9191872cae9292f8d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Nuwa-Comes-Down-from-the-Mountain-Season-3.html",
+        "updated": "2026-09-23T07:41:24.183Z"
+    },
+
+     {
+        "title": "จากลูกจ้างสู่ราชาเกาะ พากย์ไทย",
+        "img": "https://series-love.com/api/img/e5751c7ff8a5cb7646b1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Employee-to-Island-King.html",
+        "updated": "2026-09-23T07:41:24.183Z"
+    },
+
+     {
+        "title": "จอมยุทธ์สำนักเร้นลับ พากย์ไทย",
+        "img": "https://series-love.com/api/img/ea00e245fdc3a2edf06c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Hidden-Sects-Warrior.html",
+        "updated": "2026-09-23T07:41:24.183Z"
+    },
+
+     {
+        "title": "หนูน้อยนำโชค เธอมาจากป่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/81c5d2849331231d5a56.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Lucky-Little-Girl-from-the-Forest.html",
+        "updated": "2026-09-23T07:41:24.183Z"
+    },
+
+
                  {
         "title": "เลี้ยงสัตว์น้อย กลายเป็นราชา พากย์ไทย",
         "img": "https://series-love.com/api/img/e5d01038712b3edb402d.jpg",
