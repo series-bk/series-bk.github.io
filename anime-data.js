@@ -1,5 +1,198 @@
 const animeList = [
 
+                 {
+        "title": "เลี้ยงสัตว์น้อย กลายเป็นราชา พากย์ไทย",
+        "img": "https://series-love.com/api/img/e5d01038712b3edb402d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Little-Pets-Who-Became-Kings.html",
+        "updated": "2026-09-22T20:16:08.359Z"
+    },
+
+     {
+        "title": "หิมะตกไร้รอย แผลใจก้องกังวาน พากย์ไทย",
+        "img": "https://series-love.com/api/img/7e76e3bc4e6e6806d1f6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Snow-That-Leaves-No-Trace.html",
+        "updated": "2026-09-22T20:16:08.359Z"
+    },
+
+     {
+        "title": "เสน่ห์ร้ายพี่ชายแบดบอย พากย์ไทย",
+        "img": "https://series-love.com/api/img/c7afcfbdd2f001e1a87c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Bad-Boy-Stepbrother.html",
+        "updated": "2026-09-22T20:16:08.359Z"
+    },
+
+     {
+        "title": "เจ้าสำนักวันสิ้นโลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/ab34ea5805880ba05e46.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Sect-Master-of-the-Apocalypse.html",
+        "updated": "2026-09-22T20:16:08.359Z"
+    },
+
+     {
+        "title": "เจ้าพ่อคลั่งรักเมียท้องแฝด ซับไทย",
+        "img": "https://series-love.com/api/img/d9528db47f91d64f6e59.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Don-and-His-Pregnant-Wife.html",
+        "updated": "2026-09-22T20:16:08.359Z"
+    },
+
+     {
+        "title": "หญิงสาวผู้สูญหายจากใจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/8c6c65f69cc215483bf1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Girl-Who-Vanished-from-His-Heart.html",
+        "updated": "2026-09-22T20:16:08.359Z"
+    },
+
+     {
+        "title": "ดาวดวงนั้นหายไปไหน พากย์ไทย",
+        "img": "https://series-love.com/api/img/5b163b5928cb05797d16.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Where-Did-That-Star-Go.html",
+        "updated": "2026-09-22T20:16:08.359Z"
+    },
+
+     {
+        "title": "ลู่หมิง พนักงานเงินเดือน พากย์ไทย",
+        "img": "https://series-love.com/api/img/613aea3af16af74a1e6e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Lu-Ming-the-Salaryman.html",
+        "updated": "2026-09-22T18:16:08.359Z"
+    },
+
+     {
+        "title": "วันที่ฉันบินขึ้นฟ้า คือวันที่เขาต้องเสียใจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/cd9e1a099ac87315710e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Day-I-Took-to-the-Sky.html",
+        "updated": "2026-09-22T18:16:08.359Z"
+    },
+
+     {
+        "title": "ลูน่าที่เจ้าทอดทิ้ง คือราชินี ซับไทย",
+        "img": "https://series-love.com/api/img/ea80f2c1505e987520ec.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Luna-You-Abandoned-Is-a-Queen.html",
+        "updated": "2026-09-22T18:16:08.359Z"
+    },
+
+     {
+        "title": "เรียกเทพ กู้โลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/cdc25e1cbc460a2ca6d6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Summon-the-Gods-Save-the-World.html",
+        "updated": "2026-09-22T18:16:08.359Z"
+    },
+
+     {
+        "title": "โจรสลัด ผู้ครองหัวใจดยุก พากย์ Ai",
+        "img": "https://series-love.com/api/img/9a79b1a3da375f3a7a97.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Pirate-Who-Won-the-Dukes-Heart.html",
+        "updated": "2026-09-22T18:16:08.359Z"
+    },
+
+     {
+        "title": "บทเรียนต้องห้าม วิชารัก พากย์ Ai",
+        "img": "https://series-love.com/api/img/873ca296e7850349e243.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Forbidden-Lessons-in-Love.html",
+        "updated": "2026-09-22T17:16:08.359Z"
+    },
+
+     {
+        "title": "จักรพรรดินีแห่ง ดวงตาสวรรค์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/717d951d130b92c46f41.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Empress-of-Heavenly-Eyes.html",
+        "updated": "2026-09-22T17:16:08.359Z"
+    },
+
+     {
+        "title": "สัตว์เลี้ยงของซีอีโอ พากย์ Ai",
+        "img": "https://series-love.com/api/img/fcbd3062c1d5ca7316ab.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-CEOs-Pet.html",
+        "updated": "2026-09-22T17:16:08.359Z"
+    },
+
+     {
+        "title": "คู่แท้ต้องห้าม ของอัลฟ่า พากย์ Ai",
+        "img": "https://series-love.com/api/img/72ade3be343683611cda.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Alphas-Forbidden-Mate.html",
+        "updated": "2026-09-22T17:16:08.359Z"
+    },
+
+     {
+        "title": "จักรพรรดิอ่านใจ พระสนมป่วนวัง พากย์ไทย",
+        "img": "https://series-love.com/api/img/9e1e90cb0f3e3629b9cb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mind-Reading-Emperor.html",
+        "updated": "2026-09-22T17:16:08.359Z"
+    },
+
+     {
+        "title": "ฉันไม่มีวันรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/fff4487dc48bbf3648d6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/I-Will-Never-Love.html",
+        "updated": "2026-09-22T17:16:08.359Z"
+    },
+
+     {
+        "title": "พลิกฟ้าด้วยมีดเชือดหมู พากย์ไทย",
+        "img": "https://series-love.com/api/img/799c4be0d9c70a3b3895.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Turning-the-Sky-with-a-Butchers-Knife.html",
+        "updated": "2026-09-22T16:16:08.359Z"
+    },
+
+     {
+        "title": "พลิกเกมด้วยเสียงลับ พากย์ไทย",
+        "img": "https://series-love.com/api/img/ef786af318a5c63e1459.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Turning-the-Game-with-a-Secret-Voice.html",
+        "updated": "2026-09-22T16:16:08.359Z"
+    },
+
+     {
+        "title": "เถ้าศึกเก้าดินแดน พากย์ Ai",
+        "img": "https://series-love.com/api/img/7e2a09e398d6b4f7c5ab.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Ashes-of-the-Nine-Lands.html",
+        "updated": "2026-09-22T16:16:08.359Z"
+    },
+
+     {
+        "title": "ล่าขุมทรัพย์ไปกับตาวิเศษ พากย์ไทย",
+        "img": "https://series-love.com/api/img/1146adff9140dd0bec29.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Treasure-Hunting-with-the-Magic-Eye.html",
+        "updated": "2026-09-22T06:16:08.359Z"
+    },
+
+     {
+        "title": "หลินเฟิง เนตรทิพย์มองทะลุ พากย์ไทย",
+        "img": "https://series-love.com/api/img/cd127a07a3fb0e14d120.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Lin-Feng-the-All-Seeing-Eye.html",
+        "updated": "2026-09-22T06:16:08.359Z"
+    },
+
+     {
+        "title": "โชคชะตานำพา พ่อฉันคือรัชทายาท ซับไทย",
+        "img": "https://series-love.com/api/img/9905a4c34b338cbeab31.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Fate-Says-My-Father-Is-the-Crown-Prince.html",
+        "updated": "2026-09-21T16:46:08.359Z"
+    },
+
+
             {
         "title": "ขีดพลังกลายพันธุ์ พากย์ Ai",
         "img": "https://series-love.com/api/img/dac903214152fe8eb07c.jpg",
