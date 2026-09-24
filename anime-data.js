@@ -1,5 +1,158 @@
 const animeList = [
 
+                 {
+        "title": "คืนลับแห่งวันเกิดอายุ18 ซับไทย",
+        "img": "https://series-love.com/api/img/ed88bfeb1d28a487b2f2.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Secret-Night-of-My-18th-Birthday.html",
+        "updated": "2026-09-24T17:56:59.534Z"
+    },
+
+     {
+        "title": "ลูกเลี้ยงอยากได้ฉัน พากย์ Ai",
+        "img": "https://series-love.com/api/img/6b67c114f1e10375adb2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Stepson-Wants-Me.html",
+        "updated": "2026-09-24T17:56:59.534Z"
+    },
+
+     {
+        "title": "คนไข้ส่วนตัวของเขา พากย์ Ai",
+        "img": "https://series-love.com/api/img/049b0976e581a0ff15d9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/His-Private-Patient.html",
+        "updated": "2026-09-24T16:56:59.534Z"
+    },
+
+     {
+        "title": "ซูเปอร์มัมมี่ของฉัน พากย์ Ai",
+        "img": "https://series-love.com/api/img/679b96518284cc74fd2e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Super-Mommy.html",
+        "updated": "2026-09-24T16:56:59.534Z"
+    },
+
+     {
+        "title": "ปรารถนาในร้านนวด พากย์ Ai",
+        "img": "https://series-love.com/api/img/9fb5e193a146011bf843.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Desire-at-the-Massage-Parlor.html",
+        "updated": "2026-09-24T16:56:59.534Z"
+    },
+
+     {
+        "title": "เขาเลือกข้างผิด พากย์ไทย",
+        "img": "https://series-love.com/api/img/8e28782396874486cfbb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/He-Picked-the-Wrong-Side.html",
+        "updated": "2026-09-24T13:56:59.534Z"
+    },
+
+     {
+        "title": "โทษที ที่นี่ไม่มีทายาทมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/152de038e0094ff937f7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Sorry-No-Dragon-Heir-Here.html",
+        "updated": "2026-09-24T13:56:59.534Z"
+    },
+
+     {
+        "title": "ถลำรัก กับพี่สาวต่างสายเลือด พากย์ไทย",
+        "img": "https://series-love.com/api/img/204fbd75ced3b08ab726.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Falling-for-My-Stepsister.html",
+        "updated": "2026-09-24T13:56:59.534Z"
+    },
+
+     {
+        "title": "อสูรเลือดทรยศ พากย์ Ai",
+        "img": "https://series-love.com/api/img/9ad3d062bb7394463627.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Beast-of-Betrayed-Blood.html",
+        "updated": "2026-09-24T13:56:59.534Z"
+    },
+
+     {
+        "title": "เกมหลอนซ่อนรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/036ac70c8f869aed7012.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Horror-Game-with-a-Romance-System.html",
+        "updated": "2026-09-24T11:56:59.534Z"
+    },
+
+     {
+        "title": "ทารกสื่อจิตกู้ตระกูล ซับไทย",
+        "img": "https://series-love.com/api/img/da81e80c2029e6755a20.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Telepathic-Baby-Who-Saved-the-Family.html",
+        "updated": "2026-09-24T10:56:59.534Z"
+    },
+
+     {
+        "title": "วิวาห์ล้างแค้นตระกูลมาเฟีย ซับไทย",
+        "img": "https://series-love.com/api/img/9f26f2fd29f3c7348416.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/A-Mafia-Wedding-of-Vengeance.html",
+        "updated": "2026-09-24T10:56:59.534Z"
+    },
+
+     {
+        "title": "ชาตินี้ฉันขอใช้ชีวิตเอง พากย์ไทย",
+        "img": "https://series-love.com/api/img/439b007fb56e6a140d8f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Life-I-Live-for-Myself.html",
+        "updated": "2026-09-24T09:56:59.534Z"
+    },
+
+     {
+        "title": "วิวาห์ฟ้าแลบ เธอน่ารักเกินต้าน พากย์ไทย",
+        "img": "https://series-love.com/api/img/9d6b18e23e517eb76a18.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Flash-Marriage-Too-Cute-to-Resist.html",
+        "updated": "2026-09-24T08:56:59.534Z"
+    },
+
+     {
+        "title": "สายเกินไปที่จะมาร้องไห้ให้ลูกเรา ท่านจ่าฝูง พากย์ไทย",
+        "img": "https://series-love.com/api/img/af5265b8cff62d5030d7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Too-Late-to-Cry-for-Our-Daughter-Alpha.html",
+        "updated": "2026-09-24T08:56:59.534Z"
+    },
+
+     {
+        "title": "ทำฉันใหม่ คุณหมอ พากย์ Ai",
+        "img": "https://series-love.com/api/img/66ca04bb501fc46273f5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Remake-Me-Doctor.html",
+        "updated": "2026-09-24T07:56:59.534Z"
+    },
+
+     {
+        "title": "หมัดพิฆาตเทพ พากย์ไทย",
+        "img": "https://series-love.com/api/img/892781537edac6f75d4e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-God-Slaying-Fist.html",
+        "updated": "2026-09-24T07:56:59.534Z"
+    },
+
+     {
+        "title": "สัญญาลับของราชามาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/031f8eb7b47fddfc083f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Kings-Secret-Contract.html",
+        "updated": "2026-09-24T06:56:59.534Z"
+    },
+
+     {
+        "title": "ทวงคืนอาณาจักร ธุรกิจหลังหย่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/f1613fb0415ce79d5065.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reclaiming-My-Empire-After-the-Divorce.html",
+        "updated": "2026-09-24T06:56:59.534Z"
+    },
+
+
             {
         "title": "เลือกตัวเองก่อน ซับไทย",
         "img": "https://series-love.com/api/img/c240ac49f5beafd40696.jpg",
