@@ -1,5 +1,54 @@
 const animeList = [
 
+            {
+        "title": "เลือกตัวเองก่อน ซับไทย",
+        "img": "https://series-love.com/api/img/c240ac49f5beafd40696.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Choose-Yourself-First.html",
+        "updated": "2026-09-24T02:58:20.172Z"
+    },
+
+     {
+        "title": "รอยแค้นตำหนักเซินกง พากย์ไทย",
+        "img": "https://series-love.com/api/img/3b400f7c7d379a95c274.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Vengeance-in-Shengong-Palace.html",
+        "updated": "2026-09-24T02:58:20.172Z"
+    },
+
+     {
+        "title": "องค์หญิงน้อยจอมป่วน พากย์ไทย",
+        "img": "https://series-love.com/api/img/4f47a8651399b5a2a925.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Little-Troublemaker-Princess.html",
+        "updated": "2026-09-24T01:58:20.172Z"
+    },
+
+     {
+        "title": "เหนือชะตา คุณหนูเทพพยากรณ์/ราชครูธิดาเอก พากย์ไทย",
+        "img": "https://series-love.com/api/img/6d300f9801816894b930.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Imperial-Tutors-Daughter.html",
+        "updated": "2026-09-23T15:58:20.172Z"
+    },
+
+     {
+        "title": "ราชครูธิดาเอก/เหนือชะตา คุณหนูเทพพยากรณ์ ภาค 2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/3d7e750c66e39d957daa.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Imperial-Tutors-Daughter-Season-2.html",
+        "updated": "2026-09-23T16:58:20.172Z"
+    },
+
+     {
+        "title": "ซิ่งกลับเข้าหัวใจ พากย์ Ai",
+        "img": "https://series-love.com/api/img/4490980ca7083313e3f5.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Racing-Back-into-My-Heart.html",
+        "updated": "2026-09-23T15:58:20.172Z"
+    },
+
+
        {
         "title": "รถหรูเป็นเหตุ สังเกตได้ พากย์ไทย",
         "img": "https://series-love.com/api/img/59a3984d9a42b75b6988.jpg",
