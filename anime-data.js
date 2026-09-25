@@ -1,5 +1,166 @@
 const animeList = [
 
+       {
+        "title": "เพื่อนเล่นเกมของผมทุกคนล้วนเป็นคนใหญ่คนโตในชีวิตจริง พากย์ai",
+        "img": "https://series-love.com/api/img/094b67f1c6ffc2d10b87.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Gaming-Friends-Are-All-Big-Shots.html",
+        "updated": "2026-09-25T08:20:48.486Z"
+    },
+
+     {
+        "title": "การยกเลิกการหมั้นเริ่มต้นจากการที่ที่จอดรถของฉันถูกขโมย พากย์ai",
+        "img": "https://series-love.com/api/img/5ab6636328ae8c39f83e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Engagement-Ended-Over-a-Parking-Space.html",
+        "updated": "2026-09-25T08:19:48.486Z"
+    },
+
+     {
+        "title": "ตัวร้ายถูกปราบแล้ว พากย์ai",
+        "img": "https://series-love.com/api/img/49e34562bf22de47524d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Villain-Has-Been-Defeated.html",
+        "updated": "2026-09-25T08:17:48.486Z"
+    },
+
+     {
+        "title": "มงกุฎใต้เกล็ดลวง พากย์ไทย",
+        "img": "https://series-love.com/api/img/7662df4d19404ed80edd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Crown-Beneath-False-Scales.html",
+        "updated": "2026-09-25T08:01:48.486Z"
+    },
+
+     {
+        "title": "เดอะ อะพอคาลิปส์ซิสเต็ม แอนด์ ฮิส ธรี ไบรด์ส พากย์ไทย",
+        "img": "https://series-love.com/api/img/15bc7f0fbadf5ebfb122.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Apocalypse-System-and-His-Three-Brides.html",
+        "updated": "2026-09-25T07:43:48.486Z"
+    },
+
+     {
+        "title": "สายเดียว พาฉันกลับบ้าน พากย์ Ai",
+        "img": "https://series-love.com/api/img/40566b30ff623eea6e67.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/One-Call-Home.html",
+        "updated": "2026-09-25T06:55:18.486Z"
+    },
+
+     {
+        "title": "ราชินีทนายทวงแค้น พากย์ Ai",
+        "img": "https://series-love.com/api/img/7849498c1a3762cb3543.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Queen-of-Lawyers-Takes-Revenge.html",
+        "updated": "2026-09-25T06:55:18.486Z"
+    },
+
+     {
+        "title": "เดิมพันรักบนเส้นทางเดือด ซับไทย",
+        "img": "https://series-love.com/api/img/8bca4d4e6bf03bf11918.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Love-on-a-Deadly-Road.html",
+        "updated": "2026-09-25T06:55:18.486Z"
+    },
+
+     {
+        "title": "พี่สาว 109 คน กับศึกนักเลงโรงเรียน 2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/1855a2e4bf8cc2de1e6e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/109-Sisters-and-the-School-Bullies-2.html",
+        "updated": "2026-09-25T06:55:18.486Z"
+    },
+
+     {
+        "title": "สละกระจกตา เพื่อเปลี่ยนชะตา พากย์ไทย",
+        "img": "https://series-love.com/api/img/7a3cb97a7a4c353b2c41.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Giving-Up-My-Corneas-to-Change-Fate.html",
+        "updated": "2026-09-25T06:55:18.486Z"
+    },
+
+     {
+        "title": "แฟนเก่าตัวแสบชิงนกในกรงทอง พากย์ไทย",
+        "img": "https://series-love.com/api/img/e1786b77312bf515f231.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Ex-Who-Came-for-the-Caged-Bird.html",
+        "updated": "2026-09-25T06:55:18.486Z"
+    },
+
+     {
+        "title": "ลิขิตรัก ราชามังกร พากย์ Ai",
+        "img": "https://series-love.com/api/img/e84f1b21226601deb442.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Fated-to-the-Dragon-King.html",
+        "updated": "2026-09-25T06:55:18.486Z"
+    },
+
+     {
+        "title": "อัลฟ่าหกคน ราชินีหนึ่งเดียว พากย์ Ai",
+        "img": "https://series-love.com/api/img/ca9960274b1bb1f947c9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Six-Alphas-One-Queen.html",
+        "updated": "2026-09-25T05:55:18.486Z"
+    },
+
+     {
+        "title": "รักต้องห้าม ของ เทวทูตตกสวรรค์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/453e9e0bd1d1e3a8aaba.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Forbidden-Love-of-the-Fallen-Angel.html",
+        "updated": "2026-09-25T05:55:18.486Z"
+    },
+
+     {
+        "title": "คนรักอัลฟ่า ของเจ้าพ่อ พากย์ Ai",
+        "img": "https://series-love.com/api/img/8f4933fcdd32244181da.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Bosss-Alpha-Lover.html",
+        "updated": "2026-09-25T05:55:18.486Z"
+    },
+
+     {
+        "title": "ยั่วยวน คู่แท้ของผู้รังแก พากย์ Ai",
+        "img": "https://series-love.com/api/img/11023d9064ea3966bf93.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Seducing-My-Bullys-Mate.html",
+        "updated": "2026-09-25T05:55:18.486Z"
+    },
+
+     {
+        "title": "ลูกของราชันอัลฟ่า พากย์ Ai",
+        "img": "https://series-love.com/api/img/74f60d11c8e3be66b819.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Alpha-Kings-Baby.html",
+        "updated": "2026-09-25T05:55:18.486Z"
+    },
+
+     {
+        "title": "ศึกชิงหัวใจ ของทายาทอัลฟ่า พากย์ Ai",
+        "img": "https://series-love.com/api/img/a785ada10e7dfd2a848f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Battle-for-the-Alpha-Heirs-Heart.html",
+        "updated": "2026-09-25T05:55:18.486Z"
+    },
+
+     {
+        "title": "หมกมุ่น กับร่างกายเธอ พากย์ Ai",
+        "img": "https://series-love.com/api/img/5c6e4b43ea6e41e83b55.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Obsessed-with-Her-Touch.html",
+        "updated": "2026-09-25T05:55:18.486Z"
+    },
+
+     {
+        "title": "พี่ชายนักแข่ง กับเกมไล่ล่ารัก พากย์ Ai",
+        "img": "https://series-love.com/api/img/9d7a6cfa748000ea5890.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Racer-and-the-Forbidden-Chase.html",
+        "updated": "2026-09-25T04:55:18.486Z"
+    },
+
+
                  {
         "title": "คืนลับแห่งวันเกิดอายุ18 ซับไทย",
         "img": "https://series-love.com/api/img/ed88bfeb1d28a487b2f2.jpg",
