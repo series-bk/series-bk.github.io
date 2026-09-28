@@ -1,5 +1,278 @@
 const animeList = [
 
+            {
+        "title": "ลูกมังกรลับของราชามังกร พากย์ Ai",
+        "img": "https://series-love.com/api/img/fd8cf3425bc3444f8e29.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Kings-Secret-Twins.html",
+        "updated": "2026-09-27T14:24:37.622Z"
+    },
+
+     {
+        "title": "หมาป่าใต้จันทร์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/d3cb2606e5243ee8db36.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Wolf-Beneath-the-Moon.html",
+        "updated": "2026-09-27T14:21:37.622Z"
+    },
+
+     {
+        "title": "พ่อคนนี้คือนักฆ่ามือฉมัง พากย์ Ai",
+        "img": "https://series-love.com/api/img/28385baa7be78f007267.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Dad-Is-a-Master-Assassin.html",
+        "updated": "2026-09-27T13:32:07.622Z"
+    },
+
+     {
+        "title": "จักรพรรดิยุทธ์คืนบัลลังก์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/ab8a5e5cc6ecc78a1bca.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Martial-Emperor-Returns-to-the-Throne.html",
+        "updated": "2026-09-27T12:32:07.622Z"
+    },
+
+     {
+        "title": "ราชินีสเกตที่หายไป พากย์ไทย",
+        "img": "https://series-love.com/api/img/f6ffed233200278cc0a3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Lost-Skating-Queen.html",
+        "updated": "2026-09-27T12:32:07.622Z"
+    },
+
+     {
+        "title": "พ่อของลูกข้าคือมหาจอมเวท พากย์ไทย",
+        "img": "https://series-love.com/api/img/e12c59472a235bda4abc.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Babys-Father-Is-the-Archmage.html",
+        "updated": "2026-09-27T11:32:07.622Z"
+    },
+
+     {
+        "title": "วันสิ้นโลกกับสามหนุ่มสุดเทพ พากย์ Ai",
+        "img": "https://series-love.com/api/img/01011f0af2c0e7fb05c7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Three-Godly-Men-at-the-End-of-the-World.html",
+        "updated": "2026-09-27T10:32:07.622Z"
+    },
+
+     {
+        "title": "พ่อจอมเวทล่าทวงลูก พากย์ Ai",
+        "img": "https://series-love.com/api/img/bc1e6d19c1180e2a23c0.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Archmage-Hunts-for-His-Daughter.html",
+        "updated": "2026-09-27T10:32:07.622Z"
+    },
+
+     {
+        "title": "พี่สาวผมคือ CEO พากย์ไทย",
+        "img": "https://series-love.com/api/img/98706b974c6f51a8dcd5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Sister-Is-the-CEO.html",
+        "updated": "2026-09-27T10:32:07.622Z"
+    },
+
+     {
+        "title": "ก็ผมกลัวเมีย แล้วไงล่ะ/สยบรักคุณภรรยา ภาค 2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/eba0b48609d088daa44f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Taming-My-Wife-Season-2.html",
+        "updated": "2026-09-27T10:32:07.622Z"
+    },
+
+     {
+        "title": "สยบรักคุณภรรยา พากย์ไทย",
+        "img": "https://series-love.com/api/img/64cb4fcf8f8db2f65801.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Taming-My-Wife.html",
+        "updated": "2026-09-27T10:32:07.622Z"
+    },
+
+     {
+        "title": "ระบบสื่อรักในยุคกันดาร พากย์ไทย",
+        "img": "https://series-love.com/api/img/8538f612c2e5d134b3ec.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Wife-System-in-a-Barren-Age.html",
+        "updated": "2026-09-27T09:32:07.622Z"
+    },
+
+     {
+        "title": "ระบบสยบสตรีแห่งโชคชะตา พากย์ไทย",
+        "img": "https://series-love.com/api/img/9c464ee2a5e1a7e27186.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-System-of-Fated-Women.html",
+        "updated": "2026-09-27T09:32:07.622Z"
+    },
+
+     {
+        "title": "ระบบพลิกสำนัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/f22efbd36cc9153b60bd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-System-That-Saved-the-Sect.html",
+        "updated": "2026-09-27T09:32:07.622Z"
+    },
+
+     {
+        "title": "ไอ้ระบบตัวดี พาพี่ช่วยสาวงาม พากย์ไทย",
+        "img": "https://series-love.com/api/img/6386f489df09b1b00aef.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Rascal-System-and-the-Beauty.html",
+        "updated": "2026-09-27T09:32:07.622Z"
+    },
+
+     {
+        "title": "วิวาห์พลิกชะตา พากย์ไทย",
+        "img": "https://series-love.com/api/img/11d4c69096fb6471b171.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Wedding-That-Changed-Fate.html",
+        "updated": "2026-09-27T09:32:07.622Z"
+    },
+
+     {
+        "title": "เมียแกร่งค้ำจุนบ้าน 5/สะใภ้แกร่งสยบแล้งพารวย ภาค 5 พากย์ Ai",
+        "img": "https://series-love.com/api/img/6ed520dd729d9405e463.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Strong-Daughter-in-Law-Season-5.html",
+        "updated": "2026-09-27T08:32:07.622Z"
+    },
+
+     {
+        "title": "เมียสายโหดปราบคนอ่อนแอ/สะใภ้แกร่งสยบแล้งพารวย ภาค 4 พากย์ไทย",
+        "img": "https://series-love.com/api/img/8b09bc4cd7b00332aaba.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Strong-Daughter-in-Law-Season-4.html",
+        "updated": "2026-09-27T08:32:07.622Z"
+    },
+
+     {
+        "title": "เมียเหล็ก คุมบ้านซ่าส์ ภาค 3/สะใภ้แกร่งสยบแล้งพารวย ภาค 3 พากย์ไทย",
+        "img": "https://series-love.com/api/img/ffe4e2b77fbd5c9bb3cb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Strong-Daughter-in-Law-Season-3.html",
+        "updated": "2026-09-27T08:32:07.622Z"
+    },
+
+     {
+        "title": "การกลับมาของลูกเป็ดขี้เหร่สู่ซีซั่นโปรด ซีซั่น 2 พากย์ai",
+        "img": "https://series-love.com/api/img/77620c10c8267b8987be.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Ugly-Ducklings-Return-Season-2.html",
+        "updated": "2026-09-26T17:32:07.622Z"
+    },
+
+     {
+        "title": "จากแม่บ้านสู่คู่หมั้น CEO พากย์ไทย",
+        "img": "https://series-love.com/api/img/1730d2a8fd0b131714d4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Maid-to-CEOs-Fiancee.html",
+        "updated": "2026-09-26T17:32:07.622Z"
+    },
+
+     {
+        "title": "ขอโง่ต่อไม่ได้หรือไง พากย์ไทย",
+        "img": "https://series-love.com/api/img/95dc2ffbd6c4de51e661.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Cant-I-Just-Keep-Playing-Dumb.html",
+        "updated": "2026-09-26T17:32:07.622Z"
+    },
+
+     {
+        "title": "โรงเตี๊ยมสุดแปลก พากย์ Ai",
+        "img": "https://series-love.com/api/img/149590418cdbf4c7b29a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Strangest-Inn.html",
+        "updated": "2026-09-26T03:02:07.622Z"
+    },
+
+     {
+        "title": "พลังเทพ พิชิตสวรรค์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/c89e6227ce736e0e14fd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Divine-Power-Conquers-Heaven.html",
+        "updated": "2026-09-26T03:02:07.622Z"
+    },
+
+     {
+        "title": "องค์หญิงหญิงหงส์ทมิฬ 1 พากย์ Ai",
+        "img": "https://series-love.com/api/img/00785c2e80a202584298.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Black-Phoenix-Princess-1.html",
+        "updated": "2026-09-26T03:02:07.622Z"
+    },
+
+     {
+        "title": "หลังซื้อสเปิร์มมหาเศรษฐีอัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/9d6ff3f6389966dcd10b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/After-Buying-the-Alpha-Billionaires-Sperm.html",
+        "updated": "2026-09-26T03:02:07.622Z"
+    },
+
+     {
+        "title": "จากไปให้เธอเสียดาย พากย์ไทย",
+        "img": "https://series-love.com/api/img/113ec81fe57acc71a4ba.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Leave-and-Let-Him-Regret.html",
+        "updated": "2026-09-26T03:02:07.622Z"
+    },
+
+     {
+        "title": "ซ่อนรักไว้ในวันลา พากย์ไทย",
+        "img": "https://series-love.com/api/img/64466a1aafb83b277b8b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-Hidden-on-the-Day-I-Left.html",
+        "updated": "2026-09-26T03:02:07.622Z"
+    },
+
+     {
+        "title": "ตัวสำรองคนนี้ขอเลือกตัวเอง พากย์ไทย",
+        "img": "https://series-love.com/api/img/a8ee8b0ca632669a8c7a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Backup-Chooses-Herself.html",
+        "updated": "2026-09-26T03:02:07.622Z"
+    },
+
+     {
+        "title": "ทะเลเหนือ ราชินีแห่งพายุและเกล็ด พากย์ไทย",
+        "img": "https://series-love.com/api/img/42e669028bbee49a944c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/North-Sea-Queen-of-Storms-and-Scales.html",
+        "updated": "2026-09-26T03:02:07.622Z"
+    },
+
+     {
+        "title": "สะใภ้แกร่งสยบแล้งพารวย2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/1968c5ea74201d449a3e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Strong-Daughter-in-Law-Season-2.html",
+        "updated": "2026-09-25T03:02:07.622Z"
+    },
+
+     {
+        "title": "สะใภ้แกร่งสยบแล้งพารวย1 พากย์ไทย",
+        "img": "https://series-love.com/api/img/8d02e7526e5cff5712e7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Strong-Daughter-in-Law-Season-1.html",
+        "updated": "2026-09-25T03:02:07.622Z"
+    },
+
+     {
+        "title": "แม่เลี้ยงสายแกร่ง พากย์ไทย",
+        "img": "https://series-love.com/api/img/53594d1a2cde30537cba.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Tough-Stepmother.html",
+        "updated": "2026-09-25T03:02:07.622Z"
+    },
+
+     {
+        "title": "เทพราชันคืนชีพ: สายเกินจะขอร้อง พากย์ Ai",
+        "img": "https://series-love.com/api/img/821bf8ade94036544dbe.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-God-King-Returns-Too-Late-to-Beg.html",
+        "updated": "2026-09-25T03:02:07.622Z"
+    },
+
+
        {
         "title": "เพื่อนเล่นเกมของผมทุกคนล้วนเป็นคนใหญ่คนโตในชีวิตจริง พากย์ai",
         "img": "https://series-love.com/api/img/094b67f1c6ffc2d10b87.jpg",
