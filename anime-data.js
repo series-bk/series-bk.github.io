@@ -1,5 +1,54 @@
 const animeList = [
 
+       {
+        "title": "ห้าปีที่ให้เขา อนาคตที่ให้ตัวเอง ซับไทย",
+        "img": "https://series-love.com/api/img/52a19012bac12afce362.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Five-Years-for-Him-a-Future-for-Me.html",
+        "updated": "2026-09-28T16:09:01.688Z"
+    },
+
+     {
+        "title": "ปีศาจกระดูกเยือนหมู่บ้าน/แม่ใหม่มีวิญญาณแค้น พากย์ไทย",
+        "img": "https://series-love.com/api/img/417829c01f902ab6d25a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Bone-Demon-Comes-to-the-Village.html",
+        "updated": "2026-09-28T15:48:01.688Z"
+    },
+
+     {
+        "title": "สังเวยรักแด่ฟาโรห์ ซับไทย",
+        "img": "https://series-love.com/api/img/baacd2f27e087f585ab2.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/A-Sacrifice-of-Love-for-the-Pharaoh.html",
+        "updated": "2026-09-28T14:41:31.688Z"
+    },
+
+     {
+        "title": "นักสู้กู้สังเวียน พากย์ไทย",
+        "img": "https://series-love.com/api/img/9dd08f6761b09a2c1ae1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Fighter-Who-Saved-the-Gym.html",
+        "updated": "2026-09-28T14:41:31.688Z"
+    },
+
+     {
+        "title": "ผมขโมยหัวใจเจ้าพ่อ ซับไทย",
+        "img": "https://series-love.com/api/img/7b94b9c8a83db365676d.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/I-Stole-the-Mafia-Bosss-Heart.html",
+        "updated": "2026-09-28T13:41:31.688Z"
+    },
+
+     {
+        "title": "ลูกสาวที่พวกเขาไม่เลือก พากย์ไทย",
+        "img": "https://series-love.com/api/img/fa4e6d997fe82be7e6bd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Daughter-They-Didnt-Choose.html",
+        "updated": "2026-09-28T13:41:31.688Z"
+    },
+
+
                  {
         "title": "หลายปีต่อมา เธอเติมโตขึ้นในที่สุด พากย์ai",
         "img": "https://series-love.com/api/img/6865fa98b23de2652fc1.jpg",
