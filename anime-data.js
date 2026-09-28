@@ -1,5 +1,78 @@
 const animeList = [
 
+                 {
+        "title": "หลายปีต่อมา เธอเติมโตขึ้นในที่สุด พากย์ai",
+        "img": "https://series-love.com/api/img/6865fa98b23de2652fc1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Years-Later-She-Finally-Grew-Up.html",
+        "updated": "2026-09-28T09:01:53.608Z"
+    },
+
+     {
+        "title": "รักออนไลน์ป่วนใจพี่ชายยัยเพื่อนซี้ พากย์ Ai",
+        "img": "https://series-love.com/api/img/497a8021440a3dbafe0e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Online-Love-with-My-Best-Friends-Brother.html",
+        "updated": "2026-09-28T08:34:53.608Z"
+    },
+
+     {
+        "title": "สมาชิกแพลทินัมไล่ผมลงจากเครื่องบิน แต่สุดท้ายผมกลับถูกลงโทษแทน พากย์ai",
+        "img": "https://series-love.com/api/img/d8d0904e2cad3fb68995.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Kicked-Off-the-Plane-by-a-Platinum-Member.html",
+        "updated": "2026-09-28T07:46:23.608Z"
+    },
+
+     {
+        "title": "สตาร์ เมคานิค พากย์ai",
+        "img": "https://series-love.com/api/img/8faaf8bd0621555e6718.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Star-Mechanic.html",
+        "updated": "2026-09-28T07:46:23.608Z"
+    },
+
+     {
+        "title": "คุณเชน ทีมขายผงนมของคุณกำลังตั้งแผงขายของในจัตุรัสอีกแล้ว พากย์ai",
+        "img": "https://series-love.com/api/img/c96c9999944d731f76de.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Mr-Chen-Your-Milk-Powder-Team-Is-Selling-Again.html",
+        "updated": "2026-09-28T07:46:23.608Z"
+    },
+
+     {
+        "title": "คู่แท้แห่งราชาอัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/4bbf03c1368492273f8f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/True-Mate-of-the-Alpha-King.html",
+        "updated": "2026-09-28T05:46:23.608Z"
+    },
+
+     {
+        "title": "4 ของสั่งลา เจ้าพ่อฟัลคอน ภาค 2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/3d6b5f3f6452a5e4ab39.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Four-Farewell-Gifts-for-the-Falcon-Don-2.html",
+        "updated": "2026-09-28T05:46:23.608Z"
+    },
+
+     {
+        "title": "เจ้าสาวแทน พิชิตใจเศรษฐี พากย์ Ai",
+        "img": "https://series-love.com/api/img/558e0d3ec4db4cb9d22d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Substitute-Bride-Wins-the-Tycoon.html",
+        "updated": "2026-09-28T05:46:23.608Z"
+    },
+
+     {
+        "title": "ของขวัญแค้นแด่สามี ซับไทย",
+        "img": "https://series-love.com/api/img/2167d9431a90bf18dba5.webp",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/A-Revenge-Gift-for-My-Husband.html",
+        "updated": "2026-09-28T05:46:23.608Z"
+    },
+
+
             {
         "title": "ลูกมังกรลับของราชามังกร พากย์ Ai",
         "img": "https://series-love.com/api/img/fd8cf3425bc3444f8e29.jpg",
