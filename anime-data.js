@@ -1,5 +1,70 @@
 const animeList = [
 
+            {
+        "title": "พลิกเกมแค้น พากย์ai",
+        "img": "https://series-love.com/api/img/a91c7c7825f105f92260.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Turning-the-Tables-on-Revenge.html",
+        "updated": "2026-09-29T09:03:29.240Z"
+    },
+
+     {
+        "title": "ราชันไลแคนเยือกเย็นทวงเจ้าสาว พากย์ไทย",
+        "img": "https://series-love.com/api/img/644040cb6f84d94f23aa.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Frozen-Lycan-King-Claims-His-Bride.html",
+        "updated": "2026-09-29T08:49:29.240Z"
+    },
+
+     {
+        "title": "เจ้าพ่อเลเวลสูงสุด กลับมา พากย์ไทย",
+        "img": "https://series-love.com/api/img/14dcdbcc588422c3ca04.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Max-Level-Boss-Returns.html",
+        "updated": "2026-09-29T07:33:59.240Z"
+    },
+
+     {
+        "title": "สละปิ่นหงส์ สยบใต้หล้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/7ffebef41030f2e5dbc0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Casting-Off-the-Phoenix-Hairpin.html",
+        "updated": "2026-09-29T07:33:59.240Z"
+    },
+
+     {
+        "title": "ฉันยอมมาห้าปี วันนี้พอแล้ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/21a3ef3676fda8cfed08.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Five-Years-Was-Enough.html",
+        "updated": "2026-09-29T05:33:59.240Z"
+    },
+
+     {
+        "title": "ทางเลือกสุดท้ายของดอนน่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/09d44e1a987f28351736.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Donnas-Last-Choice.html",
+        "updated": "2026-09-29T05:33:59.240Z"
+    },
+
+     {
+        "title": "หนีหย่าไม่ทัน ดันต้องมาเลี้ยงลูกในยุคโบราณ พากย์ไทย",
+        "img": "https://series-love.com/api/img/f66e661b587bf06c561c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Too-Late-to-Divorce-Raising-Kids-in-Ancient-Times.html",
+        "updated": "2026-09-29T05:33:59.240Z"
+    },
+
+     {
+        "title": "ทะลุมิติเข้าด่านผีสุดพิศวง พากย์ไทย",
+        "img": "https://series-love.com/api/img/df291ee071f73b9acb47.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Transported-into-a-Ghost-Stage.html",
+        "updated": "2026-09-29T04:33:59.240Z"
+    },
+
+
        {
         "title": "ห้าปีที่ให้เขา อนาคตที่ให้ตัวเอง ซับไทย",
         "img": "https://series-love.com/api/img/52a19012bac12afce362.jpg",
