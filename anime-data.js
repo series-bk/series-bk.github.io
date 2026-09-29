@@ -1,5 +1,62 @@
 const animeList = [
 
+                 {
+        "title": "หลังจากไข่ดำฟักออกมาเป็นสัตว์ในตำนานจากภูเขาและทะเล ฉันก็กลายเป็นผู้ไร้เทียมทาน/ไข่ดำฟักสัตว์เทพไร้พ่าย พากย์ Ai",
+        "img": "https://series-love.com/api/img/12194c1aa3d54f89d3ce.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Black-Egg-Hatched-a-Legendary-Beast.html",
+        "updated": "2026-09-29T15:40:05.053Z"
+    },
+
+     {
+        "title": "วิวาห์ทรยศ ซับไทย",
+        "img": "https://series-love.com/api/img/4c9fa43a3763b40d97e5.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Betrayed-Wedding.html",
+        "updated": "2026-09-29T15:17:05.053Z"
+    },
+
+     {
+        "title": "รักนี้หนีไม่พ้นจอมปีศาจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/96ffe6a095933e826cb3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/No-Escape-from-the-Demon-King.html",
+        "updated": "2026-09-29T14:44:35.053Z"
+    },
+
+     {
+        "title": "สาวใช้ส่วนตัวของซีอีโอ พากย์ Ai",
+        "img": "https://series-love.com/api/img/fde3ffeb8084ddba1aa4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-CEOs-Personal-Maid.html",
+        "updated": "2026-09-29T13:44:35.053Z"
+    },
+
+     {
+        "title": "หมออัจฉริยะตัวจริง พากย์ไทย",
+        "img": "https://series-love.com/api/img/6e42dbe54282ee3c8f44.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Real-Genius-Doctor.html",
+        "updated": "2026-09-29T13:44:35.053Z"
+    },
+
+     {
+        "title": "ปลุกตาทิพย์ ข้าจะกวาดล้างทุกสิ่ง พากย์ไทย",
+        "img": "https://series-love.com/api/img/7bd54e64ec9c80fa1ee7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Awakening-the-Divine-Eye.html",
+        "updated": "2026-09-29T12:44:35.053Z"
+    },
+
+     {
+        "title": "ศาสตราเทพหลอม เศษเหล็กสิบชิ้น พากย์ไทย",
+        "img": "https://series-love.com/api/img/5535a43ae5ff273f6df3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Ten-Scraps-of-Iron-a-Godly-Forge.html",
+        "updated": "2026-09-29T08:44:35.053Z"
+    },
+
+
             {
         "title": "พลิกเกมแค้น พากย์ai",
         "img": "https://series-love.com/api/img/a91c7c7825f105f92260.png",
