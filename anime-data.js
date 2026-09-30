@@ -1,5 +1,62 @@
 const animeList = [
 
+       {
+        "title": "ขยะไร้ตราสยบมังกร พากย์ Ai",
+        "img": "https://series-love.com/api/img/61f7935915a0000419f6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Markless-Reject-Who-Commands-Dragons.html",
+        "updated": "2026-09-30T13:23:12.580Z"
+    },
+
+     {
+        "title": "ปราบรัก ซีอีโออัลฟ่า ซับไทย",
+        "img": "https://series-love.com/api/img/561467e5011a2ae843f1.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Taming-the-Alpha-CEO.html",
+        "updated": "2026-09-30T13:23:12.580Z"
+    },
+
+     {
+        "title": "จากอัลฟ่าสู่ราชาไลแคน พากย์ไทย",
+        "img": "https://series-love.com/api/img/af8f56fb9ddd506a77db.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Alpha-to-Lycan-King.html",
+        "updated": "2026-09-30T09:23:12.580Z"
+    },
+
+     {
+        "title": "น้ำแข็งร้อน 2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/1eae7554cd0baecf305b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Hot-Ice-2.html",
+        "updated": "2026-09-30T05:23:12.580Z"
+    },
+
+     {
+        "title": "สามีมนุษย์ ผู้ทำสวรรค์สยบ ซับไทย",
+        "img": "https://series-love.com/api/img/110d07c21337ad075c32.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/My-Human-Husband-Humbled-Heaven.html",
+        "updated": "2026-09-30T05:23:12.580Z"
+    },
+
+     {
+        "title": "คืนต้องห้าม หลังม่านกับลูกเลี้ยง ซับไทย",
+        "img": "https://series-love.com/api/img/85119800e3e9c2d50416.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Forbidden-Night-with-My-Stepson.html",
+        "updated": "2026-09-30T05:23:12.580Z"
+    },
+
+     {
+        "title": "หนีรักไม่พ้น พี่ชายต่างสายเลือด ซับไทย",
+        "img": "https://series-love.com/api/img/a609872c6fad44e0b00e.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/No-Escape-from-My-Stepbrother.html",
+        "updated": "2026-09-30T05:23:12.580Z"
+    },
+
+
                  {
         "title": "หลังจากไข่ดำฟักออกมาเป็นสัตว์ในตำนานจากภูเขาและทะเล ฉันก็กลายเป็นผู้ไร้เทียมทาน/ไข่ดำฟักสัตว์เทพไร้พ่าย พากย์ Ai",
         "img": "https://series-love.com/api/img/12194c1aa3d54f89d3ce.png",
