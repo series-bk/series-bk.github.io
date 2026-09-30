@@ -1,5 +1,22 @@
 const animeList = [
 
+            {
+        "title": "สาวใช้บนเตียงของคุณสิงห์",
+        "img": "https://series-love.com/api/img/abe99af933e72c44beba.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Maid-in-Mr-Singhs-Bed.html",
+        "updated": "2026-09-30T16:47:33.080Z"
+    },
+
+     {
+        "title": "คลินิกลับทนายพันล้าน ซับไทย",
+        "img": "https://series-love.com/api/img/09e377394a50d1d542c1.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Billionaire-Judges-Secret-Clinic.html",
+        "updated": "2026-09-30T16:09:33.080Z"
+    },
+
+
        {
         "title": "ขยะไร้ตราสยบมังกร พากย์ Ai",
         "img": "https://series-love.com/api/img/61f7935915a0000419f6.jpg",
