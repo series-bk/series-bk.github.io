@@ -1,5 +1,54 @@
 const animeList = [
 
+       {
+        "title": "แม่นมต้องห้าม ตกเป็นของเจ้าชาย พากย์ไทย",
+        "img": "https://series-love.com/api/img/1ae2526da0eba9e57d69.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Forbidden-Wet-Nurse-and-the-Prince.html",
+        "updated": "2026-10-01T12:01:45.222Z"
+    },
+
+     {
+        "title": "ข้ามเส้นรักพี่ชายต่างพ่อ พากย์ไทย",
+        "img": "https://series-love.com/api/img/f5da5b15cffeedf668c8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Crossing-the-Line-with-My-Stepbrother.html",
+        "updated": "2026-10-01T12:01:45.222Z"
+    },
+
+     {
+        "title": "ระบบฝึกสัตว์ไร้เทียมทาน พากย์ไทย",
+        "img": "https://series-love.com/api/img/adca7089798abad9be4a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Unrivaled-Beast-Taming-System.html",
+        "updated": "2026-10-01T11:01:45.222Z"
+    },
+
+     {
+        "title": "เกิดใหม่ครั้งนี้ ฉันเป็นคุณหนูมหาเศรษฐี พากย์ไทย",
+        "img": "https://series-love.com/api/img/abb055dd33cd49c40c91.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-as-the-Billionaires-Daughter.html",
+        "updated": "2026-10-01T11:01:45.222Z"
+    },
+
+     {
+        "title": "ปั้นหุ่นใหม่ปั้นชีวิตใหม่ ซับไทย",
+        "img": "https://series-love.com/api/img/ec092ef90c36005bad76.webp",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/New-Body-New-Life.html",
+        "updated": "2026-10-01T10:01:45.222Z"
+    },
+
+     {
+        "title": "เปย์สาวอสูร พลิกชะตาวันสิ้นโลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/aefab33fc4a2664e9edb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Spoiling-Monster-Girls-at-the-End-of-the-World.html",
+        "updated": "2026-10-01T10:01:45.222Z"
+    },
+
+
                  {
         "title": "ฮาเร็มสร้างราชา พากย์ Ai",
         "img": "https://series-love.com/api/img/f70d13aee3c44419f211.jpg",
