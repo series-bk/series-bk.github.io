@@ -1,5 +1,70 @@
 const animeList = [
 
+                 {
+        "title": "ฮาเร็มสร้างราชา พากย์ Ai",
+        "img": "https://series-love.com/api/img/f70d13aee3c44419f211.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Harem-Fit-for-a-Dragon-Queen.html",
+        "updated": "2026-10-01T07:34:38.563Z"
+    },
+
+     {
+        "title": "เจ้าพ่อคลั่งรักเมียท้องแฝด พากย์ไทย",
+        "img": "https://series-love.com/api/img/3502487877cd90de7f02.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Boss-and-His-Pregnant-Twins-Mother.html",
+        "updated": "2026-10-01T06:34:38.563Z"
+    },
+
+     {
+        "title": "สายลับโคตรอันตราย พากย์ไทย",
+        "img": "https://series-love.com/api/img/8a06c6adadaa5bb79778.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Most-Dangerous-Spy.html",
+        "updated": "2026-10-01T06:34:38.563Z"
+    },
+
+     {
+        "title": "ราชินีหมาป่าน้ำแข็ง พากย์ไทย",
+        "img": "https://series-love.com/api/img/0332ca1fccd7373c81cb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Ice-Wolf-Queen.html",
+        "updated": "2026-10-01T06:34:38.563Z"
+    },
+
+     {
+        "title": "ค่ำคืนนี้มีแค่ฉันกับท่านประธาน พากย์ไทย",
+        "img": "https://series-love.com/api/img/919163de04006e4a8b4b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Tonight-Its-Just-Me-and-the-CEO.html",
+        "updated": "2026-10-01T05:34:38.563Z"
+    },
+
+     {
+        "title": "รักสุดใจของเจ้าพ่ออำพราง พากย์ไทย",
+        "img": "https://series-love.com/api/img/7a778b6f021f9554361c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Hidden-Godfathers-True-Love.html",
+        "updated": "2026-10-01T05:34:38.563Z"
+    },
+
+     {
+        "title": "วิวาห์เลือด เดิมพันหัวใจ ซับไทย",
+        "img": "https://series-love.com/api/img/d3744dcb2b9927647479.webp",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/A-Blood-Wedding-and-a-Wager-of-Hearts.html",
+        "updated": "2026-10-01T05:34:38.563Z"
+    },
+
+     {
+        "title": "รักแท้ในตลาดสด พากย์ Ai",
+        "img": "https://series-love.com/api/img/dcea16cfe4e549daed8b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/True-Love-at-the-Fresh-Market.html",
+        "updated": "2026-10-01T04:34:38.563Z"
+    },
+
+
             {
         "title": "สาวใช้บนเตียงของคุณสิงห์",
         "img": "https://series-love.com/api/img/abe99af933e72c44beba.jpg",
