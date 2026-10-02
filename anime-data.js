@@ -1,5 +1,46 @@
 const animeList = [
 
+            {
+        "title": "กับดักรัก นายมาเฟีย พากย์ Ai",
+        "img": "https://series-love.com/api/img/26056a2c4108b62be318.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-Trap-of-the-Mafia-Boss.html",
+        "updated": "2026-10-02T07:08:59.683Z"
+    },
+
+     {
+        "title": "วิวาห์ ที่ซ่อนรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/986373e765e85f205ea9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Marriage-That-Hid-His-Love.html",
+        "updated": "2026-10-02T06:08:59.683Z"
+    },
+
+     {
+        "title": "จากลาสามอัลฟ่า ซับไทย",
+        "img": "https://series-love.com/api/img/120d1aea2bc90a1468d1.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Farewell-to-My-Three-Alphas.html",
+        "updated": "2026-10-02T06:08:59.683Z"
+    },
+
+     {
+        "title": "สวมรอยแค้น แทนฝาแฝด พากย์ไทย",
+        "img": "https://series-love.com/api/img/4a81f33d735cefe41ba0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Taking-My-Twins-Place-for-Revenge.html",
+        "updated": "2026-10-02T05:08:59.683Z"
+    },
+
+     {
+        "title": "สามีไร้บ้านคือเทพสายฟ้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/f3252482d7883a9cf16b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Homeless-Husband-Is-the-God-of-Thunder-Dub.html",
+        "updated": "2026-10-02T05:08:59.683Z"
+    },
+
+
        {
         "title": "แม่นมต้องห้าม ตกเป็นของเจ้าชาย พากย์ไทย",
         "img": "https://series-love.com/api/img/1ae2526da0eba9e57d69.jpg",
