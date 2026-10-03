@@ -1,5 +1,102 @@
 const animeList = [
 
+                 {
+        "title": "นักเล่นแร่ สร้างครอบครัว พากย์ Ai",
+        "img": "https://series-love.com/api/img/70d0d485c8bdf995b548.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Alchemist-Builds-a-Family.html",
+        "updated": "2026-10-03T07:29:05.335Z"
+    },
+
+     {
+        "title": "สี่ภรรยา หนึ่งราชาเพลิง ซับไทย",
+        "img": "https://series-love.com/api/img/87f8ab023a61f0d44b80.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Four-Wives-One-Fire-King.html",
+        "updated": "2026-10-03T07:29:05.335Z"
+    },
+
+     {
+        "title": "พี่ชายต่างสายเลือด อัลฟ่าคู่ชะตา ซับไทย",
+        "img": "https://series-love.com/api/img/214f6bf90cce7c6de643.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/My-Stepbrother-Is-My-Fated-Alpha.html",
+        "updated": "2026-10-03T07:29:05.335Z"
+    },
+
+     {
+        "title": "เจ้าเนิร์ดเปิดโลกฮาเร็ม ซับไทย",
+        "img": "https://series-love.com/api/img/11a44f17e70388e40b39.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Nerds-Harem-Adventure.html",
+        "updated": "2026-10-03T07:29:05.335Z"
+    },
+
+     {
+        "title": "ข้ามภพบรรจบรัก พากย์ Ai",
+        "img": "https://series-love.com/api/img/a037a4a28d24da10c6a7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-Across-Three-Thousand-Years.html",
+        "updated": "2026-10-03T06:29:05.335Z"
+    },
+
+     {
+        "title": "เปลวแค้นแห่งสายเลือดมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/406f33e8067429ba14dd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Vengeance-of-the-Dragon-Bloodline.html",
+        "updated": "2026-10-03T04:29:05.335Z"
+    },
+
+     {
+        "title": "เผลอใจ ให้พี่ชายผิดคน พากย์ไทย",
+        "img": "https://series-love.com/api/img/ab96ee08b71842a39c82.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Falling-for-the-Wrong-Brother-Dub.html",
+        "updated": "2026-10-03T04:29:05.335Z"
+    },
+
+     {
+        "title": "เปลวเพลิงฟีนิกซ์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/dcf784512cb0df5dd7b4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Flames-of-the-Phoenix.html",
+        "updated": "2026-10-03T04:29:05.335Z"
+    },
+
+     {
+        "title": "พิโรธเทพมังกรเพื่อลูก พากย์ Ai",
+        "img": "https://series-love.com/api/img/2e5c6ab2d5e9ffe29688.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Gods-Wrath-for-His-Daughter.html",
+        "updated": "2026-10-03T04:29:05.335Z"
+    },
+
+     {
+        "title": "คู่แข่งร้ายซ่อนรัก พากย์ Ai",
+        "img": "https://series-love.com/api/img/3e8ef3e1149af56b37c4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Rivals-with-a-Hidden-Love.html",
+        "updated": "2026-10-03T04:29:05.335Z"
+    },
+
+     {
+        "title": "สังเวยรักแด่ฟาโรห์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/ab9ffa3b81d061fff9a3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Sacrifice-of-Love-for-the-Pharaoh-Dub.html",
+        "updated": "2026-10-03T03:29:05.335Z"
+    },
+
+     {
+        "title": "เสียงหัวใจพลิกชะตาฝูง พากย์ Ai",
+        "img": "https://series-love.com/api/img/c5fea24cab997c327940.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Heartbeats-That-Saved-the-Pack.html",
+        "updated": "2026-10-03T03:29:05.335Z"
+    },
+
+
             {
         "title": "กับดักรัก นายมาเฟีย พากย์ Ai",
         "img": "https://series-love.com/api/img/26056a2c4108b62be318.jpg",
