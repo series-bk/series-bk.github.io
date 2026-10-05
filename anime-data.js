@@ -1,5 +1,126 @@
 const animeList = [
 
+       {
+        "title": "จากภรรยาผู้แสนดีสู่นางพญาผู้กระหายเลือด พากย์ไทย",
+        "img": "https://series-love.com/api/img/00c5b8352910c1cea8c8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Devoted-Wife-to-Bloodthirsty-Queen.html",
+        "updated": "2026-10-05T09:27:04.786Z"
+    },
+
+     {
+        "title": "แต่งงานกับราชาเอลฟ์ด้วยความเข้าใจผิด พากย์ไทย",
+        "img": "https://series-love.com/api/img/5a18fbc4a5e916dac398.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Married-the-Elf-King-by-Mistake.html",
+        "updated": "2026-10-05T08:27:04.786Z"
+    },
+
+     {
+        "title": "ภารกิจพิชิตใจสามีอสูรทั้งสี่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/3a18ad25a8485acbf08a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Winning-Over-My-Four-Beast-Husbands.html",
+        "updated": "2026-10-05T05:27:04.786Z"
+    },
+
+     {
+        "title": "วิวาห์ต้องห้าม กับอัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/4da2012399edcd21cf71.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Forbidden-Marriage-to-the-Alpha.html",
+        "updated": "2026-10-05T05:27:04.786Z"
+    },
+
+     {
+        "title": "แตะต้องน้องสาวฉัน ก็ต้องเจอกับราชามาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/771bd6d2b253e76794c9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Touch-My-Sister-and-Face-the-Mafia-King.html",
+        "updated": "2026-10-05T04:27:04.786Z"
+    },
+
+     {
+        "title": "แอบรักผิดคน ซับไทย",
+        "img": "https://series-love.com/api/img/f89e182cd80c9e44da75.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Secretly-Loving-the-Wrong-One.html",
+        "updated": "2026-10-05T03:27:04.786Z"
+    },
+
+     {
+        "title": "ฉันนอนไม่หลับถ้าขาดเธอ ซับไทย",
+        "img": "https://series-love.com/api/img/6b51024c67dbb454ca05.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/I-Cant-Sleep-Without-You.html",
+        "updated": "2026-10-05T03:27:04.786Z"
+    },
+
+     {
+        "title": "ราชาเอลฟ์ กับเจ้าสาวผู้ถูกเนรเทศ ซับไทย",
+        "img": "https://series-love.com/api/img/76ca445e8169b2f0ee5c.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Elf-King-and-the-Exiled-Bride.html",
+        "updated": "2026-10-05T03:27:04.786Z"
+    },
+
+     {
+        "title": "เขาคือยา หรือพิษ พากย์ Ai",
+        "img": "https://series-love.com/api/img/f7c063e574421ea92d8e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Is-He-My-Cure-or-My-Poison.html",
+        "updated": "2026-10-05T03:27:04.786Z"
+    },
+
+     {
+        "title": "รักในแดนมรณะ พากย์ Ai",
+        "img": "https://series-love.com/api/img/29e8aec58df8942aeba3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-in-the-Land-of-Death.html",
+        "updated": "2026-10-05T03:27:04.786Z"
+    },
+
+     {
+        "title": "ฝ่าบาท แม่มดขอรับใช้ พากย์ Ai",
+        "img": "https://series-love.com/api/img/41d7622ca581f02e9ea2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Your-Majesty-the-Witch-Serves-You.html",
+        "updated": "2026-10-05T03:27:04.786Z"
+    },
+
+     {
+        "title": "ชดใช้ด้วยชีวิต พากย์ Ai",
+        "img": "https://series-love.com/api/img/5c7cf9f96cf6f583bb98.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Paid-For-with-a-Life.html",
+        "updated": "2026-10-04T14:27:04.786Z"
+    },
+
+     {
+        "title": "แต่งกับคนจน พบรักเศรษฐี พากย์ไทย",
+        "img": "https://series-love.com/api/img/91ca2a96c2ca20a0c592.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Married-a-Poor-Man-Found-a-Billionaire.html",
+        "updated": "2026-10-03T23:57:04.786Z"
+    },
+
+     {
+        "title": "ผู้การหญิง กัปตันขอยอมแพ้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/9bce6051f9239d356757.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Commander-and-the-Captains-Surrender-Dub.html",
+        "updated": "2026-10-03T23:57:04.786Z"
+    },
+
+     {
+        "title": "รักออนไลน์สู่รักจริงกับเจ้าพ่อมาเฟีย ซับไทย",
+        "img": "https://series-love.com/api/img/191b31297819af33693d.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/From-Online-Love-to-the-Mafia-Boss.html",
+        "updated": "2026-10-03T23:57:04.786Z"
+    },
+
+
                  {
         "title": "นักเล่นแร่ สร้างครอบครัว พากย์ Ai",
         "img": "https://series-love.com/api/img/70d0d485c8bdf995b548.jpg",
