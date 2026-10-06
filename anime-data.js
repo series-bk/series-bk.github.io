@@ -1,5 +1,118 @@
 const animeList = [
 
+            {
+        "title": "เจ้าสาวตัวแสบแห่งเดอมาร์โก ซับไทย",
+        "img": "https://series-love.com/api/img/7929deb13c4deea28b12.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Wild-Bride-of-the-DeMarco-Family.html",
+        "updated": "2026-10-06T14:44:39.074Z"
+    },
+
+     {
+        "title": "อุปส์ ฉันยั่วมาเฟีย พากย์ Ai",
+        "img": "https://series-love.com/api/img/7b0492acb2175dd38dba.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Oops-I-Seduced-the-Mafia.html",
+        "updated": "2026-10-06T14:25:39.074Z"
+    },
+
+     {
+        "title": "ของหวงห้ามเจ้าพ่อ พากย์ Ai",
+        "img": "https://series-love.com/api/img/59d514c52cd55d19f56d.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Kings-Forbidden-One.html",
+        "updated": "2026-10-06T12:35:09.074Z"
+    },
+
+     {
+        "title": "มหาเศรษฐีสลัม พากย์ Ai",
+        "img": "https://series-love.com/api/img/6d59ce4637ce518afbbd.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Slum-Billionaire.html",
+        "updated": "2026-10-06T12:35:09.074Z"
+    },
+
+     {
+        "title": "ถอนหมั้นแล้วขึ้นเป็นอ๋อง พากย์ไทย",
+        "img": "https://series-love.com/api/img/932c1942001253569c25.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Broke-the-Engagement-Became-a-Prince.html",
+        "updated": "2026-10-06T08:35:09.074Z"
+    },
+
+     {
+        "title": "วิวาห์ท่านอ๋องโง่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/9ead57fa96fbb148102b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Married-to-the-Foolish-Prince.html",
+        "updated": "2026-10-06T08:35:09.074Z"
+    },
+
+     {
+        "title": "ชำระแค้นคืนอำนาจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/9b9309f7f093f5e4c8b1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Revenge-and-Reclaimed-Power.html",
+        "updated": "2026-10-06T07:35:09.074Z"
+    },
+
+     {
+        "title": "ฮองเฮายอดดวงใจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/447ff5dbfa7abefbedee.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Emperors-Beloved-Empress.html",
+        "updated": "2026-10-06T07:35:09.074Z"
+    },
+
+     {
+        "title": "ชีวิตจอมมารของฉัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/b2143bc5c90531705de4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Life-as-the-Demon-Lord.html",
+        "updated": "2026-10-06T07:35:09.074Z"
+    },
+
+     {
+        "title": "สัญญาแต่งงานที่ถอนตัวไม่ได้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/d029713c092c67720b04.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Contract-Marriage-No-One-Can-Escape.html",
+        "updated": "2026-10-06T07:35:09.074Z"
+    },
+
+     {
+        "title": "แฝดที่ถูกขโมย พากย์ไทย",
+        "img": "https://series-love.com/api/img/eb882e6388ce7534e64c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Stolen-Twin.html",
+        "updated": "2026-10-06T04:35:09.074Z"
+    },
+
+     {
+        "title": "เพลิงพิโรธของพ่อมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/ee7b890a560c649e885a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Fathers-Fury.html",
+        "updated": "2026-10-06T04:35:09.074Z"
+    },
+
+     {
+        "title": "กว่าจะรู้ว่ารัก ฉันก็ไม่อยู่แล้ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/eadd512496c79f46f79a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/By-the-Time-He-Knew-I-Was-Gone.html",
+        "updated": "2026-10-06T03:35:09.074Z"
+    },
+
+     {
+        "title": "เจ้าแม่มาเฟีย กับชายคนรักของเธอ พากย์ไทย",
+        "img": "https://series-love.com/api/img/6cb41f46c4eb36fdc703.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Queen-and-Her-Man.html",
+        "updated": "2026-10-05T15:35:09.074Z"
+    },
+
+
        {
         "title": "จากภรรยาผู้แสนดีสู่นางพญาผู้กระหายเลือด พากย์ไทย",
         "img": "https://series-love.com/api/img/00c5b8352910c1cea8c8.jpg",
