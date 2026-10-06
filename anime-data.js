@@ -1,5 +1,38 @@
 const animeList = [
 
+                 {
+        "title": "นั่วหนัวลงมาจากภูเขาและเหล่าศิษย์ของเธอก็แตกตื่น ภาค 4 พากย์ไทย",
+        "img": "https://series-love.com/api/img/e5235582079033b2bffa.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Nuwa-Comes-Down-from-the-Mountain-Season-4.html",
+        "updated": "2026-10-06T16:09:01.740Z"
+    },
+
+     {
+        "title": "ไล่ฉันออก สุดท้ายบริษัทก็เจ๊ง พากย์ Ai",
+        "img": "https://series-love.com/api/img/75f1240bf5909ada90c9.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Fire-Me-and-Watch-the-Company-Collapse.html",
+        "updated": "2026-10-06T15:49:01.740Z"
+    },
+
+     {
+        "title": "วิวาห์เลือด เดิมพันหัวใจ พากย์ Ai",
+        "img": "https://series-love.com/api/img/7be802bf6aafae73483a.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Blood-Wedding-and-a-Wager-of-Hearts-Dub.html",
+        "updated": "2026-10-06T15:45:01.740Z"
+    },
+
+     {
+        "title": "ที่โหล่ของห้อง คือนักบินมือหนึ่ง ซับไทย",
+        "img": "https://series-love.com/api/img/e6cd702650319fcc8afa.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Class-Dunce-Is-the-Top-Pilot.html",
+        "updated": "2026-10-06T15:23:01.740Z"
+    },
+
+
             {
         "title": "เจ้าสาวตัวแสบแห่งเดอมาร์โก ซับไทย",
         "img": "https://series-love.com/api/img/7929deb13c4deea28b12.jpg",
