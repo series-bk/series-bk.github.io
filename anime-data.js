@@ -1,5 +1,118 @@
 const animeList = [
 
+       {
+        "title": "ฝึกทรราชกลายเป็นทาสรัก พากย์ Ai",
+        "img": "https://series-love.com/api/img/460a9e815c7f752dcdb9.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Taming-the-Tyrant-Into-a-Lovesick-Slave.html",
+        "updated": "2026-10-07T09:59:02.283Z"
+    },
+
+     {
+        "title": "แม่เลี้ยงจอมพลังมัดใจเจ้าพ่อ พากย์ Ai",
+        "img": "https://series-love.com/api/img/30dd2ab8e03409e46fcc.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Superpowered-Stepmom-and-the-Mafia-Boss.html",
+        "updated": "2026-10-07T09:59:02.283Z"
+    },
+
+     {
+        "title": "เผยแค้นเพื่อสุนัขรัก ซับไทย",
+        "img": "https://series-love.com/api/img/6848e271014fc99c2a43.webp",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Revenge-for-My-Beloved-Dog.html",
+        "updated": "2026-10-07T09:59:02.283Z"
+    },
+
+     {
+        "title": "หกแฝดลับของท่านประธาน พากย์ Ai",
+        "img": "https://series-love.com/api/img/39c798429277e559c204.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-CEOs-Secret-Sextuplets.html",
+        "updated": "2026-10-07T08:59:02.283Z"
+    },
+
+     {
+        "title": "คุณปู่ขอทาน พลิกชะตาหลาน พากย์ Ai",
+        "img": "https://series-love.com/api/img/efb2774e4e8a73824484.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Beggar-Grandpa-Who-Changed-My-Fate.html",
+        "updated": "2026-10-07T08:59:02.283Z"
+    },
+
+     {
+        "title": "งานนี้ต้องพึ่งสะใภ้ขาชอป พากย์ Ai",
+        "img": "https://series-love.com/api/img/7bde8784c84ebe81ba46.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Leave-It-to-the-Shopaholic-Daughter-in-Law.html",
+        "updated": "2026-10-07T06:59:02.283Z"
+    },
+
+     {
+        "title": "เกมสลับรักอันตราย พากย์ไทย",
+        "img": "https://series-love.com/api/img/8789ab43122372c2adcb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Dangerous-Partner-Swap-Game.html",
+        "updated": "2026-10-07T06:59:02.283Z"
+    },
+
+     {
+        "title": "คืนพลาดพลั้ง คนรักของพี่ชาย ซับไทย",
+        "img": "https://series-love.com/api/img/796660097919920f8593.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/One-Slip-with-My-Brothers-Lover.html",
+        "updated": "2026-10-07T05:59:02.283Z"
+    },
+
+     {
+        "title": "ราชินีอัลฟ่า XXL กลับมาแล้ว ซับไทย",
+        "img": "https://series-love.com/api/img/06af27f44d1235df2aeb.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-XXL-Alpha-Queen-Returns.html",
+        "updated": "2026-10-07T05:59:02.283Z"
+    },
+
+     {
+        "title": "ราชาอัลฟ่า กับเจ้าสาวพี่เลี้ยง พากย์ไทย",
+        "img": "https://series-love.com/api/img/357961942b8c0ee2d866.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Alpha-King-and-His-Nursemaid-Bride-Dub.html",
+        "updated": "2026-10-07T04:59:02.283Z"
+    },
+
+     {
+        "title": "เด็กน่ารักสามคนในครอบครัว พากย์ai",
+        "img": "https://series-love.com/api/img/cd60cb2de737e6fe737f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Three-Adorable-Kids-in-the-Family.html",
+        "updated": "2026-10-06T18:59:02.283Z"
+    },
+
+     {
+        "title": "เส้นทางแห่งสวรรค์ การแสวงหาหนทางแห่งสวรรค์ พากย์ai",
+        "img": "https://series-love.com/api/img/80c540a852ab8a617d4a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Path-to-Heaven.html",
+        "updated": "2026-10-06T18:59:02.283Z"
+    },
+
+     {
+        "title": "คู่รักคู่หนึ่งสามารถเลี้ยงดูทหารจำนวน 500,000 นายได้ด้วยระบบขับขี่กึ่งอัตโนมัติ พากย์ai",
+        "img": "https://series-love.com/api/img/a55d92aefd4d1b0ee920.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Couple-Who-Feeds-Half-a-Million-Soldiers.html",
+        "updated": "2026-10-06T18:59:02.283Z"
+    },
+
+     {
+        "title": "สามวันต่อมา ฉันเดินทางย้อนเวลากลับไปในสมัยโบราณและกู้เงินมาเพื่อกวาดซื้อสินค้าในห้างสรรพสินค้าทั้งหมด พากย์ai",
+        "img": "https://series-love.com/api/img/c7c7ca9bfc814b6d0eaf.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Three-Days-to-Buy-Out-the-Mall.html",
+        "updated": "2026-10-06T18:59:02.283Z"
+    },
+
+
                  {
         "title": "นั่วหนัวลงมาจากภูเขาและเหล่าศิษย์ของเธอก็แตกตื่น ภาค 4 พากย์ไทย",
         "img": "https://series-love.com/api/img/e5235582079033b2bffa.png",
