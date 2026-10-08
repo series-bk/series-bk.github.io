@@ -1,5 +1,78 @@
 const animeList = [
 
+            {
+        "title": "เพื่อศักดิ์ศรี ชู้ตเลย พากย์ไทย",
+        "img": "https://series-love.com/api/img/f88d8704b230d09c27be.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Shoot-for-Pride.html",
+        "updated": "2026-10-08T11:10:52.146Z"
+    },
+
+     {
+        "title": "เสียงกล่อมใจในคฤหาสน์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/e0d0b5d552a9ed0c8be7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Hypnotist-of-the-Mansion.html",
+        "updated": "2026-10-08T11:10:52.146Z"
+    },
+
+     {
+        "title": "ทาสหนุ่ม ทายาทลับแห่งโพไซดอน พากย์ Ai",
+        "img": "https://series-love.com/api/img/f18081fab2041938600a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Slave-Who-Was-Poseidons-Heir.html",
+        "updated": "2026-10-08T10:10:52.146Z"
+    },
+
+     {
+        "title": "สัมผัสเชื่อมสองเรา ซับไทย",
+        "img": "https://series-love.com/api/img/eee4648ae822dfe25df2.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Our-Linked-Senses.html",
+        "updated": "2026-10-08T06:10:52.146Z"
+    },
+
+     {
+        "title": "ดอน ปะทะ ครัช พากย์ไทย",
+        "img": "https://series-love.com/api/img/ae40d16bf1d10ccbdfe2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Don-vs-Crush-Dub.html",
+        "updated": "2026-10-08T06:10:52.146Z"
+    },
+
+     {
+        "title": "การไถ่บาป ของเทพีผู้ล่มสลาย พากย์ไทย",
+        "img": "https://series-love.com/api/img/f9384b166de7c080e559.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Fallen-Goddess-Redemption.html",
+        "updated": "2026-10-08T06:10:52.146Z"
+    },
+
+     {
+        "title": "ช่วยสาวทีไร เงินเด้งทุกที พากย์ไทย",
+        "img": "https://series-love.com/api/img/e759a7ec58e9b241aae9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Save-a-Girl-Get-Paid-System.html",
+        "updated": "2026-10-08T06:10:52.146Z"
+    },
+
+     {
+        "title": "ราชินีอัลฟ่า ที่เขาขับไล่ ซับไทย",
+        "img": "https://series-love.com/api/img/7c0486515baea5dcec5b.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Alpha-Queen-He-Exiled.html",
+        "updated": "2026-10-07T13:10:52.146Z"
+    },
+
+     {
+        "title": "แม่ทัพน้อยพิทักษ์แดนเหนือ 1 พากย์ไทย",
+        "img": "https://series-love.com/api/img/94fb04918c34bea44dbe.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Young-General-of-the-North-Part-1.html",
+        "updated": "2026-10-07T13:10:52.146Z"
+    },
+
+
        {
         "title": "ฝึกทรราชกลายเป็นทาสรัก พากย์ Ai",
         "img": "https://series-love.com/api/img/460a9e815c7f752dcdb9.webp",
