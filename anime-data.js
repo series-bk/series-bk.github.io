@@ -1,5 +1,94 @@
 const animeList = [
 
+                 {
+        "title": "รักไร้เสียง แต่เขายังรู้ พากย์ Ai",
+        "img": "https://series-love.com/api/img/2cfa038eaf6f748ecde7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Silent-Love-He-Still-Hears.html",
+        "updated": "2026-10-09T15:23:27.938Z"
+    },
+
+     {
+        "title": "ความลับของฉันกับน้องสามี ซับไทย",
+        "img": "https://series-love.com/api/img/a8cc4825834d030c7aa3.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/My-Secret-with-My-Brother-in-Law.html",
+        "updated": "2026-10-09T15:18:27.938Z"
+    },
+
+     {
+        "title": "จากหญิงไร้ค่า สู่ราชินีมังกร ซับไทย",
+        "img": "https://series-love.com/api/img/08f5e00fcf43f69a0449.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/From-Worthless-to-Dragon-Queen.html",
+        "updated": "2026-10-09T15:06:27.938Z"
+    },
+
+     {
+        "title": "เลิกเป็นตู้เอทีเอ็ม ฉันคือนางพญาหมาป่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/098a487514ad538ce175.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/No-Longer-Your-ATM-I-Am-the-Wolf-Queen.html",
+        "updated": "2026-10-09T13:26:57.938Z"
+    },
+
+     {
+        "title": "ท้องสามแฝดแล้วได้สามีเป็นประธาน พากย์ไทย",
+        "img": "https://series-love.com/api/img/a3eab0709b0445a96cad.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Pregnant-with-Triplets-Married-to-the-CEO.html",
+        "updated": "2026-10-09T13:26:57.938Z"
+    },
+
+     {
+        "title": "หัวหน้ามาเฟียจ้างฉันมาเป็นภรรยา ซับไทย",
+        "img": "https://series-love.com/api/img/4442aa979bd8f7431cd6.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Boss-Hired-Me-as-His-Wife.html",
+        "updated": "2026-10-09T06:26:57.938Z"
+    },
+
+     {
+        "title": "ตัวร้ายขอเลี้ยงลูก พากย์ Ai",
+        "img": "https://series-love.com/api/img/6aac34d89aed5e5593e3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Villain-Wants-to-Raise-His-Kids.html",
+        "updated": "2026-10-09T06:26:57.938Z"
+    },
+
+     {
+        "title": "คืนเดียวกับผู้อำนวยการ สู่แรงก์ S พากย์ไทย",
+        "img": "https://series-love.com/api/img/8c349472698a79ddec80.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/One-Night-with-the-Director-to-S-Rank-Dub.html",
+        "updated": "2026-10-09T05:26:57.938Z"
+    },
+
+     {
+        "title": "ความลับบนหลังม้า ซับไทย",
+        "img": "https://series-love.com/api/img/83962de79660b9361775.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Secret-on-Horseback.html",
+        "updated": "2026-10-08T03:56:57.938Z"
+    },
+
+     {
+        "title": "เชฟถูกไล่ออก ซับไทย",
+        "img": "https://series-love.com/api/img/752c390aa28f80914acf.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Fired-Chef.html",
+        "updated": "2026-10-08T03:56:57.938Z"
+    },
+
+     {
+        "title": "มหาเศรษฐีลับ ทวงคืนทุกสิ่ง ซับไทย",
+        "img": "https://series-love.com/api/img/4916fcfe993770ce162b.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Hidden-Billionaire-Takes-It-All-Back.html",
+        "updated": "2026-10-08T03:56:57.938Z"
+    },
+
+
             {
         "title": "เพื่อศักดิ์ศรี ชู้ตเลย พากย์ไทย",
         "img": "https://series-love.com/api/img/f88d8704b230d09c27be.jpg",
