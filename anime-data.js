@@ -1,5 +1,174 @@
 const animeList = [
 
+       {
+        "title": "ประธานฟู่เลิกแกล้งทำได้แล้ว เมียคุณจะคว่ำโต๊ะ พากย์ไทย",
+        "img": "https://series-love.com/api/img/394da294031698b84dfb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/President-Fu-Stop-Pretending.html",
+        "updated": "2026-10-10T14:59:45.472Z"
+    },
+
+     {
+        "title": "สามีล่องหน อย่าแหยม พากย์ai",
+        "img": "https://series-love.com/api/img/8bf8a8827dc92c2ba95b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Invisible-Husband-Dont-Mess-with-Him.html",
+        "updated": "2026-10-10T14:57:45.472Z"
+    },
+
+     {
+        "title": "ตัวร้ายถูกปราบแล้ว/วายร้ายพิชิตแล้ว พากย์ai",
+        "img": "https://series-love.com/api/img/f3204902b3196718bea6.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Villain-Has-Been-Defeated-Part-2.html",
+        "updated": "2026-10-10T14:54:45.472Z"
+    },
+
+     {
+        "title": "แม่ของวายร้าย/วายร้ายพิชิตแล้ว ซีซั่น 2 พากย์ai",
+        "img": "https://series-love.com/api/img/c172f26188eca916f029.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Villains-Mother-Season-2.html",
+        "updated": "2026-10-10T14:50:45.472Z"
+    },
+
+     {
+        "title": "โชคชะตานำพา พ่อฉันคือรัชทายาท พากย์ไทย",
+        "img": "https://series-love.com/api/img/365fd552c3627efbdc96.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Fate-Says-My-Father-Is-the-Crown-Prince-Dub.html",
+        "updated": "2026-10-10T12:30:15.472Z"
+    },
+
+     {
+        "title": "ออลอิน กลโกงเซียนพนัน ซับไทย",
+        "img": "https://series-love.com/api/img/05d30c3235dafe489d7a.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/All-In-The-Ghost-of-Vegas.html",
+        "updated": "2026-10-10T12:30:15.472Z"
+    },
+
+     {
+        "title": "อ่านใจสุลต่าน ในคืนวิวาห์ ซับไทย",
+        "img": "https://series-love.com/api/img/daab2e3dce070d3645e6.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Reading-the-Sultans-Mind-on-Our-Wedding-Night.html",
+        "updated": "2026-10-10T12:30:15.472Z"
+    },
+
+     {
+        "title": "ตาทิพย์เห็นทรัพย์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/ec29318be9519e803d61.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Eye-That-Sees-Treasure.html",
+        "updated": "2026-10-10T09:30:15.472Z"
+    },
+
+     {
+        "title": "ความลับสายเลือดแห่งราชินีมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/1c996b56a0a5efba980e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Queens-Bloodline-Secret.html",
+        "updated": "2026-10-10T05:30:15.472Z"
+    },
+
+     {
+        "title": "เขาคือลูกชายที่หายไป พากย์ไทย",
+        "img": "https://series-love.com/api/img/026551b41ed916435bf7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/He-Is-the-Lost-Son.html",
+        "updated": "2026-10-10T05:30:15.472Z"
+    },
+
+     {
+        "title": "วิวาห์รักอัลฟ่าต้องคำสาป พากย์ไทย",
+        "img": "https://series-love.com/api/img/0dd1f815e6788a62c3c2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Married-to-the-Cursed-Alpha.html",
+        "updated": "2026-10-10T05:30:15.472Z"
+    },
+
+     {
+        "title": "ความเสียใจครั้งสุดท้ายของสามแฝด พากย์ไทย",
+        "img": "https://series-love.com/api/img/e1c5c345e4ac01ef5f69.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Triplets-Last-Regret.html",
+        "updated": "2026-10-10T05:30:15.472Z"
+    },
+
+     {
+        "title": "เสียงลับแห่งเจ้าป่ามาเฟีย ซับไทย",
+        "img": "https://series-love.com/api/img/432b49191da7da1b3821.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Secret-Voice-of-the-Mafia-Lion.html",
+        "updated": "2026-10-10T05:30:15.472Z"
+    },
+
+     {
+        "title": "คู่แท้ผู้แหลกสลายของอัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/12d08bdb141650484f99.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Alphas-Shattered-Mate.html",
+        "updated": "2026-10-10T05:30:15.472Z"
+    },
+
+     {
+        "title": "ฉันไม่เอาพี่ชายอัลฟ่าทั้งห้าแล้ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/3d5f0eb162f796062d8a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Im-Done-with-My-Five-Alpha-Brothers.html",
+        "updated": "2026-10-10T05:30:15.472Z"
+    },
+
+     {
+        "title": "เมื่อน้องสาวเติบใหญ่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/f02cae19758c7cc411bc.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/When-the-Little-Sister-Grows-Up.html",
+        "updated": "2026-10-10T04:30:15.472Z"
+    },
+
+     {
+        "title": "คู่ปรับตัวร้ายกลายเป็นสายเปย์ในไลฟ์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/b3f7d4ca9376bc33de22.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Rival-Is-My-Top-Livestream-Donor.html",
+        "updated": "2026-10-10T04:30:15.472Z"
+    },
+
+     {
+        "title": "เกมรักใต้เงาอดีต พากย์ไทย",
+        "img": "https://series-love.com/api/img/3f70937a22e41e07b344.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-Game-in-the-Shadow-of-the-Past.html",
+        "updated": "2026-10-10T04:30:15.472Z"
+    },
+
+     {
+        "title": "ชะตาสลับ ดาวยิงตำนานคืนสังเวียน พากย์ไทย",
+        "img": "https://series-love.com/api/img/552478aeea9317dd642c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Swapped-Fates-The-Striker-Returns.html",
+        "updated": "2026-10-10T04:30:15.472Z"
+    },
+
+     {
+        "title": "วิวาห์สายฟ้าแลบ สานรักเมื่อแปดปีก่อน พากย์ไทย",
+        "img": "https://series-love.com/api/img/49752308b29b78ef624b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Flash-Marriage-Eight-Years-in-the-Making.html",
+        "updated": "2026-10-09T18:30:15.472Z"
+    },
+
+     {
+        "title": "ติดกับดักรักคู่แข่ง ซับไทย",
+        "img": "https://series-love.com/api/img/27b6c5eb5a3db04a7859.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Trapped-with-My-Rival.html",
+        "updated": "2026-10-09T18:30:15.472Z"
+    },
+
+
                  {
         "title": "รักไร้เสียง แต่เขายังรู้ พากย์ Ai",
         "img": "https://series-love.com/api/img/2cfa038eaf6f748ecde7.jpg",
