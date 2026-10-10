@@ -16,8 +16,8 @@ const animeList = [
         "updated": "2026-10-10T14:57:45.472Z"
     },
 
-     {
-        "title": "ตัวร้ายถูกปราบแล้ว/วายร้ายพิชิตแล้ว พากย์ai",
+    {
+        "title": "ตัวร้ายถูกปราบแล้ว/วายร้ายพิชิตแล้ว2 พากย์ai",
         "img": "https://series-love.com/api/img/f3204902b3196718bea6.png",
         "type": "พากย์ไทย",
         "link": "https://series-bk.github.io/The-Villain-Has-Been-Defeated-Part-2.html",
@@ -25,12 +25,13 @@ const animeList = [
     },
 
      {
-        "title": "แม่ของวายร้าย/วายร้ายพิชิตแล้ว ซีซั่น 2 พากย์ai",
+        "title": "แม่ของวายร้าย/แม่แสนสวยของวายร้าย แม่แสนสวยของวายร้ายคือกระดูกดื้อรั้นหนักสิบปอนด์ ซีซั่น 2 พากย์ai",
         "img": "https://series-love.com/api/img/c172f26188eca916f029.png",
         "type": "พากย์ไทย",
         "link": "https://series-bk.github.io/The-Villains-Mother-Season-2.html",
         "updated": "2026-10-10T14:50:45.472Z"
     },
+
 
      {
         "title": "โชคชะตานำพา พ่อฉันคือรัชทายาท พากย์ไทย",
