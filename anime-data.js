@@ -1,5 +1,22 @@
 const animeList = [
 
+                 {
+        "title": "ฝึกสอนปั้นห้องทอง ผู้ปกครองจะเปลี่ยนครู",
+        "img": "https://series-love.com/api/img/e6b7e74adb16a3175cfa.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Student-Teacher-and-the-Golden-Class.html",
+        "updated": "2026-10-11T17:23:23.536Z"
+    },
+
+     {
+        "title": "เกิดใหม่! การกลับมาของลูกเป็ดขี้เหร่ สู่การเป็นที่ชื่นชอบ ซีซั่น3 พากย์ Ai",
+        "img": "https://series-love.com/api/img/ea46d639378f3007b912.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Ugly-Ducklings-Return-Season-3.html",
+        "updated": "2026-10-11T17:21:23.536Z"
+    },
+
+
             {
         "title": "เดิมพันรักฉบับยัยเวอร์จิ้น พากย์ไทย",
         "img": "https://series-love.com/api/img/df2507002dd8dbc4740d.jpg",
