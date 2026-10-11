@@ -1,5 +1,70 @@
 const animeList = [
 
+            {
+        "title": "เดิมพันรักฉบับยัยเวอร์จิ้น พากย์ไทย",
+        "img": "https://series-love.com/api/img/df2507002dd8dbc4740d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Virgins-Love-Bet.html",
+        "updated": "2026-10-11T14:40:15.132Z"
+    },
+
+     {
+        "title": "ราชินี เนรเทศข้า ซับไทย",
+        "img": "https://series-love.com/api/img/5271a2d3c5f5ea87adda.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Queen-Exiled-Me.html",
+        "updated": "2026-10-11T10:59:45.132Z"
+    },
+
+     {
+        "title": "พลิกเกมรักล่าความจริง พากย์ไทย",
+        "img": "https://series-love.com/api/img/f68abe4d3ce3ed41699e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Flipping-the-Love-Game-for-the-Truth.html",
+        "updated": "2026-10-11T10:59:45.132Z"
+    },
+
+     {
+        "title": "คนรักที่อัลฟ่าทอดทิ้ง ซับไทย",
+        "img": "https://series-love.com/api/img/03d8b948e775df43c941.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Lover-the-Alpha-Abandoned.html",
+        "updated": "2026-10-11T07:59:45.132Z"
+    },
+
+     {
+        "title": "ปาฏิหารย์รักข้ามเผ่าพันธุ์ ซับไทย",
+        "img": "https://series-love.com/api/img/9650c04be5c202f2679d.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/A-Love-Miracle-Across-Species.html",
+        "updated": "2026-10-11T06:59:45.132Z"
+    },
+
+     {
+        "title": "ทายาทฝาแฝดแห่งลูปาริ ซับไทย",
+        "img": "https://series-love.com/api/img/9740786bbe3c37ab8056.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Lupari-Twin-Heirs.html",
+        "updated": "2026-10-11T05:59:45.132Z"
+    },
+
+     {
+        "title": "ตุ๊กตาข้างห้อง ซับไทย",
+        "img": "https://series-love.com/api/img/328481ce67e3bffe8240.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Doll-Next-Door.html",
+        "updated": "2026-10-11T03:59:45.132Z"
+    },
+
+     {
+        "title": "จักรวาลดรากอนลอร์ด พากย์ Ai",
+        "img": "https://series-love.com/api/img/ab027bc535a727ddcdc0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Dragon-Lord-Universe.html",
+        "updated": "2026-10-11T03:59:45.132Z"
+    },
+
+
        {
         "title": "ประธานฟู่เลิกแกล้งทำได้แล้ว เมียคุณจะคว่ำโต๊ะ พากย์ไทย",
         "img": "https://series-love.com/api/img/394da294031698b84dfb.jpg",
