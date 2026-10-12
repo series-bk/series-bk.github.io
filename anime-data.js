@@ -1,5 +1,62 @@
 const animeList = [
 
+       {
+        "title": "ทิ้งมงกุฎ แล้วเชิดใส่ตระกูลมาเฟียพากย์ไทย",
+        "img": "https://series-love.com/api/img/531a3020514370d7db23.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Leaving-the-Crown-Behind.html",
+        "updated": "2026-10-12T08:55:36.397Z"
+    },
+
+     {
+        "title": "สาวขายเนื้อ ที่แท้คือทายาทมาเฟียตัวจริง พากย์ไทย",
+        "img": "https://series-love.com/api/img/3ccfb727665b0f4fbbbb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Butcher-Girl-Is-the-Real-Mafia-Heiress.html",
+        "updated": "2026-10-12T04:55:36.397Z"
+    },
+
+     {
+        "title": "มหาจอมเวท ในร่างเด็กอ่อนแอ ซับไทย",
+        "img": "https://series-love.com/api/img/e4289ea7a2e8ff5752bf.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Archmage-in-a-Weak-Boys-Body.html",
+        "updated": "2026-10-12T02:55:36.397Z"
+    },
+
+     {
+        "title": "นักโทษของสามอัลฟ่า ซับไทย",
+        "img": "https://series-love.com/api/img/2f3302aa3329ce326b04.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Prisoner-of-Three-Alphas.html",
+        "updated": "2026-10-12T02:55:36.397Z"
+    },
+
+     {
+        "title": "สามีที่ข้าทอดทิ้ง แท้จริงคือเจ้าชายเอลฟ์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/0c66fc8fd021ba9d60df.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Husband-I-Abandoned-Is-an-Elf-Prince.html",
+        "updated": "2026-10-11T19:55:36.397Z"
+    },
+
+     {
+        "title": "จุติยุคผืนฟ้าสีคราม จากขยะสู่เทพสมุทร พากย์ไทย",
+        "img": "https://series-love.com/api/img/92b6cd6184cabb1c6a49.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-in-the-Azure-Sky-Era-From-Trash-to-Sea-God.html",
+        "updated": "2026-10-11T19:55:36.397Z"
+    },
+
+     {
+        "title": "ย้อนเวลาสร้างป้อมวันสิ้นโลก ซับไทย",
+        "img": "https://series-love.com/api/img/ee43f167761f47bdf883.webp",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Reborn-to-Build-a-Doomsday-Fortress.html",
+        "updated": "2026-10-11T17:55:36.397Z"
+    },
+
+
                  {
         "title": "ฝึกสอนปั้นห้องทอง ผู้ปกครองจะเปลี่ยนครู",
         "img": "https://series-love.com/api/img/e6b7e74adb16a3175cfa.png",
