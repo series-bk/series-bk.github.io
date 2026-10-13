@@ -1,5 +1,86 @@
 const animeList = [
 
+            {
+        "title": "เกิดใหม่! การกลับมาของลูกเป็ดขี้เหร่ สู่การเป็นที่ชื่นชอบ ซีซั่น4 พากย์ Ai",
+        "img": "https://series-love.com/api/img/bf2f1a1194ec1505d2dc.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Ugly-Ducklings-Return-Season-4.html",
+        "updated": "2026-10-13T11:14:17.814Z"
+    },
+
+     {
+        "title": "อัญมณีลับของเจ้าพ่อมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/62d504b3090d659aa9cd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Dons-Secret-Jewel.html",
+        "updated": "2026-10-13T09:14:17.814Z"
+    },
+
+     {
+        "title": "คำสาบาน ของอัศวินหมาป่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/cb32effcfcd0ba0962be.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Wolf-Knights-Oath.html",
+        "updated": "2026-10-13T06:14:17.814Z"
+    },
+
+     {
+        "title": "วันที่นายรัก ฉันหมดรักไปแล้ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/9aadb2a3241c4da8a1ad.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Day-You-Loved-Me-I-Was-Done.html",
+        "updated": "2026-10-13T06:14:17.814Z"
+    },
+
+     {
+        "title": "ตกหลุมรัก แม่เลี้ยงมาเฟียของเพื่อน ซับไทย",
+        "img": "https://series-love.com/api/img/b0b4c5f30eb2381331b7.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Falling-for-My-Friends-Mafia-Stepmom.html",
+        "updated": "2026-10-13T06:14:17.814Z"
+    },
+
+     {
+        "title": "เบอร์เซิร์กเกอร์ คนสุดท้าย ซับไทย",
+        "img": "https://series-love.com/api/img/d3806276324254110082.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Last-Berserker.html",
+        "updated": "2026-10-13T04:14:17.814Z"
+    },
+
+     {
+        "title": "หัวใจพ่ายรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/a957f266f31f67942757.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Heart-Surrendered-to-Love.html",
+        "updated": "2026-10-13T04:14:17.814Z"
+    },
+
+     {
+        "title": "ทายาทมาเฟียหวนคืนทวงบัลลังก์ ซับไทย",
+        "img": "https://series-love.com/api/img/47da21dc69d5040e35be.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Heiress-Returns-for-the-Throne.html",
+        "updated": "2026-10-13T04:14:17.814Z"
+    },
+
+     {
+        "title": "ทายาทมาเฟียที่ไม่ควรล่วงเกิน ซับไทย",
+        "img": "https://series-love.com/api/img/43936a6a6b18758cfca9.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Heiress-You-Should-Not-Cross.html",
+        "updated": "2026-10-13T04:14:17.814Z"
+    },
+
+     {
+        "title": "ซ่อนรักออนไลน์ ละลายใจนายมาเฟีย/รักออนไลน์สู่รักจริงกับเจ้าพ่อมาเฟีย พากย์ Ai",
+        "img": "https://series-love.com/api/img/bafaff3738753a7ac0a6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Online-Love-to-the-Mafia-Boss-AI-Dub.html",
+        "updated": "2026-10-13T03:14:17.814Z"
+    },
+
+
        {
         "title": "ทิ้งมงกุฎ แล้วเชิดใส่ตระกูลมาเฟียพากย์ไทย",
         "img": "https://series-love.com/api/img/531a3020514370d7db23.jpg",
