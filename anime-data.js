@@ -1,5 +1,94 @@
 const animeList = [
 
+                 {
+        "title": "คลื่นมวย ซ่อนรัก",
+        "img": "https://series-love.com/api/img/5e7f9464e0631b55ee2a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Boxing-Waves-and-Hidden-Love.html",
+        "updated": "2026-10-14T11:07:39.730Z"
+    },
+
+     {
+        "title": "เชลยเจ้าพ่อ พ่อเลี้ยงของแฟนเก่า ซับไทย",
+        "img": "https://series-love.com/api/img/53ae087926f2d8212714.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Captive-of-My-Exs-Stepfather.html",
+        "updated": "2026-10-14T10:17:39.730Z"
+    },
+
+     {
+        "title": "แต่งกับคนที่เขากลัว ซับไทย",
+        "img": "https://series-love.com/api/img/586b61774c32979ede22.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Married-to-the-One-They-Fear.html",
+        "updated": "2026-10-14T10:09:39.730Z"
+    },
+
+     {
+        "title": "หมอสูติของฉันคือหัวหน้ามาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/f89f0dceaac4782c4a6e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-OB-GYN-Is-the-Mafia-King.html",
+        "updated": "2026-10-14T09:38:09.730Z"
+    },
+
+     {
+        "title": "พี่สาว 109 คน กับศึกนักเลงโรงเรียน 3 พากย์ไทย",
+        "img": "https://series-love.com/api/img/f464536b87700e2ea312.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/109-Sisters-and-the-School-Bullies-3.html",
+        "updated": "2026-10-14T06:38:09.730Z"
+    },
+
+     {
+        "title": "อาจารย์ผู้อ่อนแอ คือจอมเวทสูงสุด พากย์ Ai",
+        "img": "https://series-love.com/api/img/9f9217ad3bdbed61639d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Weakest-Teacher-Is-the-Supreme-Mage.html",
+        "updated": "2026-10-14T06:38:09.730Z"
+    },
+
+     {
+        "title": "ห้าลูกเทพจับพ่อ ซับไทย",
+        "img": "https://series-love.com/api/img/d5abaf0d0bce8c6b66f3.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Five-Little-Gods-Catch-Their-Daddy.html",
+        "updated": "2026-10-14T04:38:09.730Z"
+    },
+
+     {
+        "title": "ปลุกปีศาจร้ายในกายฉัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/8a1421ba3fea59c3d5ac.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Awakening-the-Demon-Within-Me.html",
+        "updated": "2026-10-13T17:38:09.730Z"
+    },
+
+     {
+        "title": "อัศวินตกอับ เทพสงครามคืนสนาม ซับไทย",
+        "img": "https://series-love.com/api/img/9143af8af4d0fcbe14e1.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Fallen-Knight-War-God-Returns.html",
+        "updated": "2026-10-13T17:38:09.730Z"
+    },
+
+     {
+        "title": "ถูกซูเปอร์สตาร์หนุ่มรุกกลับ ซับไทย",
+        "img": "https://series-love.com/api/img/f729e061834c358ba42c.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Superstar-Turned-the-Tables.html",
+        "updated": "2026-10-13T17:38:09.730Z"
+    },
+
+     {
+        "title": "ปราบพยศฉันที ราชินีของฉัน ซับไทย",
+        "img": "https://series-love.com/api/img/b37b407fd4f5ab486822.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Tame-Me-My-Queen.html",
+        "updated": "2026-10-13T16:38:09.730Z"
+    },
+
+
             {
         "title": "เกิดใหม่! การกลับมาของลูกเป็ดขี้เหร่ สู่การเป็นที่ชื่นชอบ ซีซั่น4 พากย์ Ai",
         "img": "https://series-love.com/api/img/bf2f1a1194ec1505d2dc.png",
