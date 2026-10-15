@@ -1,5 +1,54 @@
 const animeList = [
 
+            {
+        "title": "ความลับใต้เตียงตระกูลลวง",
+        "img": "https://series-love.com/api/img/3ba855267c8ae911b9bc.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Secret-Under-the-Deceitful-Familys-Bed.html",
+        "updated": "2026-10-15T19:23:49.947Z"
+    },
+
+     {
+        "title": "คำรักคำลวง พากย์ไทย",
+        "img": "https://series-love.com/api/img/a5eaa2ef48aa599bb3e7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Words-of-Love-Words-of-Lies.html",
+        "updated": "2026-10-15T16:54:19.947Z"
+    },
+
+     {
+        "title": "วันที่ฉันก้าวออกจากบ้าน พากย์ไทย",
+        "img": "https://series-love.com/api/img/ac6888dd94143f1b0e95.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Day-I-Walked-Out-of-Home.html",
+        "updated": "2026-10-15T15:54:19.947Z"
+    },
+
+     {
+        "title": "รักต้องห้าม กับเหล่าลูกเลี้ยง ซับไทย",
+        "img": "https://series-love.com/api/img/f106beee7eb9d841c6a8.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Forbidden-Love-with-My-Stepsons.html",
+        "updated": "2026-10-15T15:54:19.947Z"
+    },
+
+     {
+        "title": "ฉันทำให้เพลย์บอยตามจีบ ซับไทย",
+        "img": "https://series-love.com/api/img/c5469ef5d2560757d651.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/I-Made-the-Playboy-Chase-Me.html",
+        "updated": "2026-10-15T15:54:19.947Z"
+    },
+
+     {
+        "title": "ดาราสาวกับขอทาน พากย์ Ai",
+        "img": "https://series-love.com/api/img/142832a6b0f7f7caaf16.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Actress-and-the-Beggar.html",
+        "updated": "2026-10-15T15:54:19.947Z"
+    },
+
+
        {
         "title": "รักต้องห้าม",
         "img": "https://series-love.com/api/img/d68ec62b89d81973ee46.jpg",
