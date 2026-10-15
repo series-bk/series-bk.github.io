@@ -1,5 +1,54 @@
 const animeList = [
 
+       {
+        "title": "รักต้องห้าม",
+        "img": "https://series-love.com/api/img/d68ec62b89d81973ee46.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Forbidden-Love-The-Iris-Twins.html",
+        "updated": "2026-10-15T14:57:17.176Z"
+    },
+
+     {
+        "title": "กว่าจะรู้ว่ารัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/9c4c756c06ee9a230cc2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Before-They-Knew-It-Was-Love-The-Carter-Heiress.html",
+        "updated": "2026-10-15T10:30:47.176Z"
+    },
+
+     {
+        "title": "ตาสว่างในวันที่หัวใจตาย ซับไทย",
+        "img": "https://series-love.com/api/img/bc8e16a241bc5bfe65ee.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Eyes-Opened-the-Day-My-Heart-Died.html",
+        "updated": "2026-10-15T09:30:47.176Z"
+    },
+
+     {
+        "title": "เจ้าบ่าวคู่ชะตา ของราชามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/97ae332822b6ca4f2601.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Fated-Groom-of-the-Dragon-King-Dub.html",
+        "updated": "2026-10-15T06:30:47.176Z"
+    },
+
+     {
+        "title": "มนุษย์สาวผู้ถูกเลือก พากย์ไทย",
+        "img": "https://series-love.com/api/img/0edbeaa287e5ead6d31e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Chosen-Human-Girl.html",
+        "updated": "2026-10-14T03:00:47.176Z"
+    },
+
+     {
+        "title": "ระบบให้แฟนสามคน ซับไทย",
+        "img": "https://series-love.com/api/img/80ffc771dd5003a37e98.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-System-Gave-Me-Three-Girlfriends.html",
+        "updated": "2026-10-14T03:00:47.176Z"
+    },
+
+
                  {
         "title": "คลื่นมวย ซ่อนรัก",
         "img": "https://series-love.com/api/img/5e7f9464e0631b55ee2a.jpg",
