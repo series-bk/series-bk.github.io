@@ -1,5 +1,126 @@
 const animeList = [
 
+                 {
+        "title": "ไสน่ห์มนต์ดำ",
+        "img": "https://series-love.com/api/img/73f25344df622fda9099.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Black-Magic-Charm.html",
+        "updated": "2026-10-17T05:42:42.289Z"
+    },
+
+     {
+        "title": "ถึงวันที่พี่เสียใจ ก็ไม่มีวันหวนคืน พากย์ไทย",
+        "img": "https://series-love.com/api/img/d3ba2bf920654d61050a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Even-When-You-Regret-It-I-Wont-Come-Back.html",
+        "updated": "2026-10-16T20:14:12.289Z"
+    },
+
+     {
+        "title": "ย้อนเวลากลับมาแย่งนรก ฉันก็ยกให้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/44995ba9689a76096ccb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-to-Steal-My-Hell-Take-It.html",
+        "updated": "2026-10-16T20:14:12.289Z"
+    },
+
+     {
+        "title": "เมื่ออดีตภรรยากลายเป็นดาวเด่น พากย์ไทย",
+        "img": "https://series-love.com/api/img/4fba2db0c4fe6fcb549e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/When-the-Ex-Wife-Became-a-Star.html",
+        "updated": "2026-10-16T20:14:12.289Z"
+    },
+
+     {
+        "title": "ที่หนึ่งผู้ไร้ตัวตน พากย์ไทย",
+        "img": "https://series-love.com/api/img/ed8030311a6c4e464de6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Invisible-Number-One-Pick.html",
+        "updated": "2026-10-16T19:14:12.289Z"
+    },
+
+     {
+        "title": "ฉันตั้งท้องลูกแฝดสามของบอส พากย์ไทย",
+        "img": "https://series-love.com/api/img/fb7123b77ce49efe721d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Pregnant-with-the-Bosss-Triplets.html",
+        "updated": "2026-10-16T19:14:12.289Z"
+    },
+
+     {
+        "title": "การกลับมาของราชินีไลแคนผู้ถูกทอดทิ้ง พากย์ไทย",
+        "img": "https://series-love.com/api/img/9932d26c3f9a55153f86.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Return-of-the-Abandoned-Lycan-Queen.html",
+        "updated": "2026-10-16T16:14:12.289Z"
+    },
+
+     {
+        "title": "คู่ปรับสุดแสบ แอบแชตสุดแซ่บ พากย์ไทย",
+        "img": "https://series-love.com/api/img/122d5db6bda0ade6f4ab.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Rival-Sexting-Mixup.html",
+        "updated": "2026-10-16T16:14:12.289Z"
+    },
+
+     {
+        "title": "ป๊อปสตาร์สาวแห่งโรงเรียนไฮโซ! พากย์ไทย",
+        "img": "https://series-love.com/api/img/eb34569656a16526caee.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Popstar-of-the-Elite-High-School.html",
+        "updated": "2026-10-16T15:14:12.289Z"
+    },
+
+     {
+        "title": "วิวาห์ทรราชผิดคู่ เพื่อนซี้สลับสามี ซับไทย",
+        "img": "https://series-love.com/api/img/a04911dde643144872b8.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Wrong-Tyrant-Groom-Best-Friends-Swap-Husbands.html",
+        "updated": "2026-10-16T13:14:12.289Z"
+    },
+
+     {
+        "title": "ผจญโลกไร้พันธนาการ พากย์ไทย",
+        "img": "https://series-love.com/api/img/63046a3e124287a4d57e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Adventures-in-an-Unbound-World.html",
+        "updated": "2026-10-16T11:14:12.289Z"
+    },
+
+     {
+        "title": "ภรรยาตัวน้อย ที่ลูซิเฟอร์ไม่ยอมปล่อย ซับไทย",
+        "img": "https://series-love.com/api/img/92cdb802a3d65cb03d87.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Little-Wife-Lucifer-Wont-Let-Go.html",
+        "updated": "2026-10-16T09:14:12.289Z"
+    },
+
+     {
+        "title": "ฟักไข่แฝด ของอดีตคนรักราชามังกร ซับไทย",
+        "img": "https://series-love.com/api/img/cae3a1394536ef60318b.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Hatching-the-Dragon-Kings-Twin-Eggs.html",
+        "updated": "2026-10-16T06:14:12.289Z"
+    },
+
+     {
+        "title": "จ้างนักฆ่ามาเป็นพ่อ พากย์ไทย",
+        "img": "https://series-love.com/api/img/4e71990f3548bb0e9c28.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/I-Hired-an-Assassin-to-Be-My-Dad-Dub.html",
+        "updated": "2026-10-16T06:14:12.289Z"
+    },
+
+     {
+        "title": "ตาสว่างในวันที่หัวใจตาย พากย์ไทย",
+        "img": "https://series-love.com/api/img/9d09c238c00f02bcb76d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Eyes-Opened-the-Day-My-Heart-Died-Dub.html",
+        "updated": "2026-10-15T17:44:12.289Z"
+    },
+
+
             {
         "title": "ความลับใต้เตียงตระกูลลวง",
         "img": "https://series-love.com/api/img/3ba855267c8ae911b9bc.jpg",
