@@ -1,5 +1,54 @@
 const animeList = [
 
+       {
+        "title": "รักแท้ของสาวเจ้าเล่ห์กับเจ้าพ่อมาเฟีย ซับไทย",
+        "img": "https://series-love.com/api/img/c51d701b219fd3a6fae0.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Sly-Girls-True-Love-and-the-Mafia-Don.html",
+        "updated": "2026-10-18T18:06:24.006Z"
+    },
+
+     {
+        "title": "คาวเกิร์ลบุกโลกมหาเศรษฐี ซับไทย",
+        "img": "https://series-love.com/api/img/4bb1f663af084be75860.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Cowgirl-Takes-On-the-Billionaire-World.html",
+        "updated": "2026-10-18T18:06:24.006Z"
+    },
+
+     {
+        "title": "พี่ชายต่างสายเลือด อัลฟ่าคู่ชะตา พากย์ไทย",
+        "img": "https://series-love.com/api/img/772c713dd74f78165e0a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Stepbrother-Is-My-Fated-Alpha-Dub.html",
+        "updated": "2026-10-18T17:06:24.006Z"
+    },
+
+     {
+        "title": "พ่อมหาเศรษฐี เจอแล้ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/0791210a5967645b3768.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Found-My-Billionaire-Father-Dub.html",
+        "updated": "2026-10-18T15:06:24.006Z"
+    },
+
+     {
+        "title": "สามีมนุษย์ ผู้ทำสวรรค์สยบ พากย์ไทย",
+        "img": "https://series-love.com/api/img/00e8ef1ffc009cf35132.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Human-Husband-Humbled-Heaven-Dub.html",
+        "updated": "2026-10-18T11:06:24.006Z"
+    },
+
+     {
+        "title": "ตกหลุมรักมาเฟียที่ฆ่าคู่หมั้นของฉัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/07d2987966b678890fe2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/In-Love-with-the-Mafia-Who-Killed-My-Fiance.html",
+        "updated": "2026-10-17T11:36:24.006Z"
+    },
+
+
                  {
         "title": "ไสน่ห์มนต์ดำ",
         "img": "https://series-love.com/api/img/73f25344df622fda9099.png",
