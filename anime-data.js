@@ -1,5 +1,158 @@
 const animeList = [
 
+            {
+        "title": "อย่าแตะต้องลูกสาวฉัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/f71f0ffce8192280c247.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Dont-Touch-My-Daughter.html",
+        "updated": "2026-10-20T19:22:00.690Z"
+    },
+
+     {
+        "title": "เทพสุริยันพิพากษาแค้น พากย์ไทย",
+        "img": "https://series-love.com/api/img/8e011524a4cbda2ada94.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Sun-Gods-Judgment.html",
+        "updated": "2026-10-20T17:22:00.690Z"
+    },
+
+     {
+        "title": "โฉมใหม่ของสาว XXL พากย์ไทย",
+        "img": "https://series-love.com/api/img/da22e9d223437ea3cdb7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-XXL-Girls-New-Look.html",
+        "updated": "2026-10-20T17:22:00.690Z"
+    },
+
+     {
+        "title": "ซ่อนสวยไว้ ใครจะรู้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/0132cf38bc09f3ceab2b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Hidden-Beauty-Who-Knew.html",
+        "updated": "2026-10-20T17:22:00.690Z"
+    },
+
+     {
+        "title": "รอบนี้ขอรวยเอง พากย์ Ai",
+        "img": "https://series-love.com/api/img/edefd0ad2eb6bb9c2d3c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Time-I-Get-Rich-Myself.html",
+        "updated": "2026-10-20T17:22:00.690Z"
+    },
+
+     {
+        "title": "นักกำจัดขยะครัวเรือน พากย์ไทย",
+        "img": "https://series-love.com/api/img/c4f8b07911fe62520d23.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Household-Trash-Remover.html",
+        "updated": "2026-10-20T16:22:00.690Z"
+    },
+
+     {
+        "title": "พี่เลี้ยงสยบมาเฟีย ซับไทย",
+        "img": "https://series-love.com/api/img/cb3689bb4ba0cf37843e.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Nanny-Who-Tamed-the-Mafia.html",
+        "updated": "2026-10-20T14:22:00.690Z"
+    },
+
+     {
+        "title": "นายเลขามหาเศรษฐี พากย์ไทย",
+        "img": "https://series-love.com/api/img/f107233542a6461e0fce.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Billionaire-Assistant.html",
+        "updated": "2026-10-20T13:22:00.690Z"
+    },
+
+     {
+        "title": "ภรรยาลับทายาทมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/39f6f2991524518ebea5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Heirs-Secret-Wife.html",
+        "updated": "2026-10-20T10:22:00.690Z"
+    },
+
+     {
+        "title": "นักพนันเกิดใหม่ คือราชาเทพ พากย์ Ai",
+        "img": "https://series-love.com/api/img/af01552f4c78a18dc3b6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Reborn-Gambler-Is-the-God-King.html",
+        "updated": "2026-10-20T05:22:00.690Z"
+    },
+
+     {
+        "title": "ราชินี เนรเทศข้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/d8cc9fd1f8fc9addf688.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Queen-Exiled-Me-Dub.html",
+        "updated": "2026-10-20T05:22:00.690Z"
+    },
+
+     {
+        "title": "แฟนซามอยด์ ของเจ้าชายสิงโต พากย์ Ai",
+        "img": "https://series-love.com/api/img/5e9c0c0ffddebcba697a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Lion-Princes-Samoyed-AI-Dub.html",
+        "updated": "2026-10-20T05:22:00.690Z"
+    },
+
+     {
+        "title": "ฤดูหาคู่ บททดสอบลูน่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/395025c883d88f76f5fd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Mating-Season-The-Luna-Trial.html",
+        "updated": "2026-10-20T05:22:00.690Z"
+    },
+
+     {
+        "title": "คู่ชะตาทิ้ง วิวาห์เจ้าหญิงอัลฟ่า พากย์ Ai",
+        "img": "https://series-love.com/api/img/c5e10242eb579983b6b6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Rejected-Mate-Weds-the-Alpha-Princess.html",
+        "updated": "2026-10-20T05:22:00.690Z"
+    },
+
+     {
+        "title": "แต่งกับเจ้าพ่อมาสามปี รักแรกเขาก็อยู่ไม่สุข พากย์ไทย",
+        "img": "https://series-love.com/api/img/b934d26bc45fa6aa8464.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Married-to-the-Don-for-Three-Years.html",
+        "updated": "2026-10-19T15:52:00.690Z"
+    },
+
+     {
+        "title": "กลับมาสวยสะท้านวัง ซับไทย",
+        "img": "https://series-love.com/api/img/80cd98d9c074299b68ac.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Back-Stunningly-Beautiful-in-the-Palace.html",
+        "updated": "2026-10-19T15:52:00.690Z"
+    },
+
+     {
+        "title": "สิปปีที่ถูกหลอก ซับไทย",
+        "img": "https://series-love.com/api/img/51f752b0722dcaf9b85d.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Ten-Years-of-Deception.html",
+        "updated": "2026-10-19T15:52:00.690Z"
+    },
+
+     {
+        "title": "ลูกสาวคนโปรด ของท่านลอร์ดทั้งห้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/96dd38f7a50fe7a92cb9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Beloved-Daughter-of-Five-Lords-Dub.html",
+        "updated": "2026-10-19T15:52:00.690Z"
+    },
+
+     {
+        "title": "มิวส์มรณะ ของเจ้าพ่อมาเฟีย ซับไทย",
+        "img": "https://series-love.com/api/img/fd12ae7150b6d5ba2604.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Dons-Fatal-Muse.html",
+        "updated": "2026-10-19T15:52:00.690Z"
+    },
+
+
        {
         "title": "รักแท้ของสาวเจ้าเล่ห์กับเจ้าพ่อมาเฟีย ซับไทย",
         "img": "https://series-love.com/api/img/c51d701b219fd3a6fae0.jpg",
