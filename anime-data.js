@@ -1,5 +1,46 @@
 const animeList = [
 
+       {
+        "title": "ความหลงใหลของพ่อผู้คุมคุก ซับไทย",
+        "img": "https://series-love.com/api/img/66a9354405ff06236081.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Warden-Fathers-Obsession.html",
+        "updated": "2026-10-22T11:27:35.360Z"
+    },
+
+     {
+        "title": "สลับคู่หมั้นมาเป็นราชินีของเจ้าพ่อ พากย์ไทย",
+        "img": "https://series-love.com/api/img/4342b7b706fae3b7e525.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Swapped-Fiances-Became-the-Dons-Queen.html",
+        "updated": "2026-10-22T10:27:35.360Z"
+    },
+
+     {
+        "title": "ทิ้งสามีเก่า แล้วเริ่มรักใหม่ ซับไทย",
+        "img": "https://series-love.com/api/img/bf5db89811f2879efe57.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Leaving-My-Ex-to-Love-Again.html",
+        "updated": "2026-10-22T09:27:35.360Z"
+    },
+
+     {
+        "title": "วันสิ้นโลก: ระบบจีบสาวสร้างฮาเร็ม พากย์ไทย",
+        "img": "https://series-love.com/api/img/dcc0b75d5bab351144db.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Apocalypse-Romance-System-Harem.html",
+        "updated": "2026-10-22T09:27:35.360Z"
+    },
+
+     {
+        "title": "ราชินีอัลฟ่า ที่เขาขับไล่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/023e517f16c2618682c3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Alpha-Queen-He-Exiled-Dub.html",
+        "updated": "2026-10-22T08:27:35.360Z"
+    },
+
+
                  {
         "title": "ตัวแม่ไม่แคร์ผัวเก่า พากย์ไทย",
         "img": "https://series-love.com/api/img/9f4dcafdebe32b34b328.jpg",
