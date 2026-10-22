@@ -1,5 +1,78 @@
 const animeList = [
 
+                 {
+        "title": "ตัวแม่ไม่แคร์ผัวเก่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/9f4dcafdebe32b34b328.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Queen-Mom-Doesnt-Care-About-Her-Ex.html",
+        "updated": "2026-10-21T17:29:35.178Z"
+    },
+
+     {
+        "title": "ย้อนชะตา เลือกคู่แท้เป็นพี่ชายคู่หมั้น พากย์ไทย",
+        "img": "https://series-love.com/api/img/c5dd31583beebc080358.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Rewriting-Fate-Choosing-My-Fiances-Brother.html",
+        "updated": "2026-10-21T16:29:35.178Z"
+    },
+
+     {
+        "title": "การเอาคืนของน้องสาวมหาเศรษฐี พากย์ไทย",
+        "img": "https://series-love.com/api/img/2490c5cb0d0125426d9e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Billionaire-Sisters-Revenge.html",
+        "updated": "2026-10-21T14:29:35.178Z"
+    },
+
+     {
+        "title": "ลูลู่ เทพธิดาน้อย พากย์ไทย",
+        "img": "https://series-love.com/api/img/1198e2171943a2b54bb7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Lulu-the-Little-Goddess.html",
+        "updated": "2026-10-21T14:29:35.178Z"
+    },
+
+     {
+        "title": "ถูกห้าคู่ครองทิ้ง แต่ได้ใจราชามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/f4f08b18ee918e76d28b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Abandoned-by-Five-Won-by-the-Dragon-King.html",
+        "updated": "2026-10-21T14:29:35.178Z"
+    },
+
+     {
+        "title": "พ่อใจร้ายทิ้งลูกสาวจนตาย พากย์ Ai",
+        "img": "https://series-love.com/api/img/f773a7d36a4151b6f8be.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Cruel-Father-Left-His-Daughter-to-Die.html",
+        "updated": "2026-10-21T14:29:35.178Z"
+    },
+
+     {
+        "title": "เงาทางเลือกของหัวหน้าแก๊งค์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/6e160230e38614e3b52e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Gang-Leaders-Shadow-Choice.html",
+        "updated": "2026-10-21T14:29:35.178Z"
+    },
+
+     {
+        "title": "อย่าท้าพี่ชายเพื่อนสนิท ถ้าไม่อยากตกหลุมรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/adcf7b86a3073adec37c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Dont-Dare-Your-Best-Friends-Brother.html",
+        "updated": "2026-10-21T08:29:35.178Z"
+    },
+
+     {
+        "title": "ภารโรงสปาร์ตัน ล้างแค้น พากย์ไทย",
+        "img": "https://series-love.com/api/img/175b34a131f1a94c174b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Spartan-Janitors-Revenge.html",
+        "updated": "2026-10-21T07:29:35.178Z"
+    },
+
+
             {
         "title": "อย่าแตะต้องลูกสาวฉัน พากย์ไทย",
         "img": "https://series-love.com/api/img/f71f0ffce8192280c247.jpg",
