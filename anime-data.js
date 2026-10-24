@@ -1,5 +1,78 @@
 const animeList = [
 
+            {
+        "title": "ลาเทพซบบัลลังก์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/7162fb792cdbe5c19ddb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Leaving-the-God-for-the-Throne.html",
+        "updated": "2026-10-23T17:24:09.732Z"
+    },
+
+     {
+        "title": "จิ้งจอกสาวข้างกายมังกร พากย์ Ai",
+        "img": "https://series-love.com/api/img/213da4253377cf540cc2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Fox-Girl-Beside-the-Dragon.html",
+        "updated": "2026-10-23T17:24:09.732Z"
+    },
+
+     {
+        "title": "อ่านใจสุลต่าน ในคืนวิวาห์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/9bb273a051aca8349a17.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reading-the-Sultans-Mind-on-Our-Wedding-Night-AI-Dub.html",
+        "updated": "2026-10-23T16:24:09.732Z"
+    },
+
+     {
+        "title": "อัศวินตกอับ เทพสงครามคืนสนาม พากย์ Ai",
+        "img": "https://series-love.com/api/img/a9de7cb0d68e92e9b233.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Fallen-Knight-War-God-Returns-AI-Dub.html",
+        "updated": "2026-10-23T16:24:09.732Z"
+    },
+
+     {
+        "title": "เชลยเจ้าพ่อ พ่อเลี้ยงของแฟนเก่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/0712956b1e89ad46c592.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Captive-of-My-Exs-Stepfather-Dub.html",
+        "updated": "2026-10-23T14:24:09.732Z"
+    },
+
+     {
+        "title": "ที่โหล่ของห้อง คือนักบินมือหนึ่ง พากย์ไทย",
+        "img": "https://series-love.com/api/img/ba0b00c767f8f8b3fe7d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Class-Dunce-Is-the-Top-Pilot-Dub.html",
+        "updated": "2026-10-23T14:24:09.732Z"
+    },
+
+     {
+        "title": "แม่ครัวท้องมังกร ซับไทย",
+        "img": "https://series-love.com/api/img/d6a68054270850cf332b.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Cook-Pregnant-by-the-Dragon.html",
+        "updated": "2026-10-22T14:54:09.732Z"
+    },
+
+     {
+        "title": "วิวาห์แก้แค้น พลิกชะตารัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/4d562cc865fcb01c2690.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Revenge-Wedding-Rewriting-Love.html",
+        "updated": "2026-10-22T14:54:09.732Z"
+    },
+
+     {
+        "title": "พันธะร้าวแห่งพี่น้องภูต พากย์ไทย",
+        "img": "https://series-love.com/api/img/507c01fa5bc0930758fb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Broken-Bond-of-the-Fae-Brothers.html",
+        "updated": "2026-10-22T14:54:09.732Z"
+    },
+
+
        {
         "title": "ความหลงใหลของพ่อผู้คุมคุก ซับไทย",
         "img": "https://series-love.com/api/img/66a9354405ff06236081.jpg",
