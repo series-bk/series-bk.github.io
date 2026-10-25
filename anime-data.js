@@ -1,5 +1,78 @@
 const animeList = [
 
+                 {
+        "title": "หกสิบแล้วไง ใจยังวัยรุ่น พากย์ไทย",
+        "img": "https://series-love.com/api/img/568023270c5be4066b90.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Sixty-and-Still-Young-at-Heart.html",
+        "updated": "2026-10-25T07:56:48.684Z"
+    },
+
+     {
+        "title": "ล้วงลับเจอรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/edd974b905c8792e764e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Secret-Omega-and-the-Star-Alpha.html",
+        "updated": "2026-10-25T07:47:48.684Z"
+    },
+
+     {
+        "title": "สิบปีพิทักษ์อเวจี กลับถูกตราหน้าว่าคนลวงโลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/01e962462fd86f8bdf0d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Ten-Years-Guarding-the-Abyss-Branded-a-Fraud.html",
+        "updated": "2026-10-25T07:31:48.684Z"
+    },
+
+     {
+        "title": "วันที่คุณเสียฉันไปตลอดกาล พากย์ไทย",
+        "img": "https://series-love.com/api/img/097c26005e114cf5c08e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Day-You-Lost-Me-Forever.html",
+        "updated": "2026-10-25T07:28:48.684Z"
+    },
+
+     {
+        "title": "ตูม! ราชินีไซซ์ XXXL เอาคืน พากย์ไทย",
+        "img": "https://series-love.com/api/img/77d79989262baf2671ee.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Boom-The-XXXL-Queen-Strikes-Back-Dub.html",
+        "updated": "2026-10-25T07:21:48.684Z"
+    },
+
+     {
+        "title": "คนรักของเจ้าพ่อมาเฟีย ซับไทย",
+        "img": "https://series-love.com/api/img/1a60feaf9dc65b851ce3.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Godfathers-Lover.html",
+        "updated": "2026-10-24T14:40:18.684Z"
+    },
+
+     {
+        "title": "ฝาแฝดกามเทพ ภารกิจคืนรักพ่อแม่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/a2c314185a9705cbb529.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Cupid-Twins-Mission-to-Reunite-Mom-and-Dad.html",
+        "updated": "2026-10-24T10:40:18.684Z"
+    },
+
+     {
+        "title": "ระบบให้แฟนสามคน พากย์ไทย",
+        "img": "https://series-love.com/api/img/a951ba9b0f78142bcbce.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-System-Gave-Me-Three-Girlfriends-Dub.html",
+        "updated": "2026-10-24T08:40:18.684Z"
+    },
+
+     {
+        "title": "มหาเศรษฐีลับ ทวงคืนทุกสิ่ง พากย์ไทย",
+        "img": "https://series-love.com/api/img/62ad06a5a608a6073fc8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Hidden-Billionaire-Takes-It-All-Back-AI-Dub.html",
+        "updated": "2026-10-24T08:40:18.684Z"
+    },
+
+
             {
         "title": "ลาเทพซบบัลลังก์ พากย์ Ai",
         "img": "https://series-love.com/api/img/7162fb792cdbe5c19ddb.jpg",
