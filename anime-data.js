@@ -1,5 +1,46 @@
 const animeList = [
 
+       {
+        "title": "เลิกรอรักเก่า แล้วคว้าชัยในสนาม พากย์ Ai",
+        "img": "https://series-love.com/api/img/68d5a33c480d5aebf1c0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Done-Waiting-for-My-Ex-Now-I-Win-the-Game.html",
+        "updated": "2026-10-25T13:44:05.847Z"
+    },
+
+     {
+        "title": "กว่าพวกเขาจะคิดถึง ฉันก็ไปเสียแล้ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/6e6e4243314b89157078.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/By-the-Time-They-Miss-Me-I-Am-Gone.html",
+        "updated": "2026-10-25T12:44:05.847Z"
+    },
+
+     {
+        "title": "เมียที่ถูกลืมของเขา คือทายาทมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/b48ef05c39c68330c753.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/His-Forgotten-Wife-Is-the-Mafia-Heiress.html",
+        "updated": "2026-10-25T12:44:05.847Z"
+    },
+
+     {
+        "title": "18 อีกครั้ง เกิดใหม่หัวใจยากูซ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/c8a1d98ac2ace1b25f88.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Eighteen-Again-Reborn-with-a-Yakuza-Heart.html",
+        "updated": "2026-10-25T08:44:05.847Z"
+    },
+
+     {
+        "title": "เจ้าชายหวนคืนล้างแค้น พากย์ Ai",
+        "img": "https://series-love.com/api/img/d759c377d1ed117bf2d5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Prince-Returns-for-Revenge.html",
+        "updated": "2026-10-25T08:44:05.847Z"
+    },
+
+
                  {
         "title": "หกสิบแล้วไง ใจยังวัยรุ่น พากย์ไทย",
         "img": "https://series-love.com/api/img/568023270c5be4066b90.jpg",
