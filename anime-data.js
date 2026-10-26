@@ -1,5 +1,102 @@
 const animeList = [
 
+            {
+        "title": "ชาตินี้ฉันจะไม่รอเขาอีก พากย์ไทย",
+        "img": "https://series-love.com/api/img/a44b0e13f72898603727.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Life-I-Wont-Wait-for-Him-Again.html",
+        "updated": "2026-10-26T15:46:45.919Z"
+    },
+
+     {
+        "title": "กลิ่นแก้วกลางเงาจันทร์",
+        "img": "https://series-love.com/api/img/a3d3629d6231490d0d83.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Orange-Jasmine-Under-the-Moonlight.html",
+        "updated": "2026-10-26T15:44:45.919Z"
+    },
+
+     {
+        "title": "สัญญารักพลังผี",
+        "img": "https://series-love.com/api/img/cfe6379f894320189077.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Love-Contract-with-Ghostly-Powers.html",
+        "updated": "2026-10-26T15:40:45.919Z"
+    },
+
+     {
+        "title": "พันธะแค้นซ่อนรัก",
+        "img": "https://series-love.com/api/img/52c3ac0b39e14060be08.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Bound-by-Revenge-Hiding-Love.html",
+        "updated": "2026-10-26T14:57:45.919Z"
+    },
+
+     {
+        "title": "เจ้าสาวตัวแสบแห่งเดอมาร์โก พากย์ Ai",
+        "img": "https://series-love.com/api/img/32ad6531712fe6578f3b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Wild-Bride-of-the-DeMarco-Family-AI-Dub.html",
+        "updated": "2026-10-26T09:17:15.919Z"
+    },
+
+     {
+        "title": "หวนชะตา วิวาห์ราชามังกร ซับไทย",
+        "img": "https://series-love.com/api/img/669d86cec2ecabbcea6d.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Rewritten-Fate-Married-to-the-Dragon-King.html",
+        "updated": "2026-10-26T08:17:15.919Z"
+    },
+
+     {
+        "title": "คนรักลับๆ ของมิสเตอร์เดรก พากย์ไทย",
+        "img": "https://series-love.com/api/img/2b1d61414ef94c0b6c6b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Mr-Drakes-Secret-Lover-Dub.html",
+        "updated": "2026-10-26T07:17:15.919Z"
+    },
+
+     {
+        "title": "ยกฉันให้คู่ปรับ พากย์ Ai",
+        "img": "https://series-love.com/api/img/bd8afb7f70eb9f0dede7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Handed-Over-to-My-Rival.html",
+        "updated": "2026-10-25T19:17:15.919Z"
+    },
+
+     {
+        "title": "เส้นทางรักของเจ้าหมีกับดอนน่าหมาป่าดำ พากย์ Ai",
+        "img": "https://series-love.com/api/img/0c4b476e394c90d27c78.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Bear-and-the-Black-Wolf-Donna.html",
+        "updated": "2026-10-25T18:17:15.919Z"
+    },
+
+     {
+        "title": "ชั่วโมงต้องห้าม กับอาจารย์ ซับไทย",
+        "img": "https://series-love.com/api/img/56fe27063dd0b0029f0b.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Forbidden-Hours-with-the-Professor.html",
+        "updated": "2026-10-25T18:17:15.919Z"
+    },
+
+     {
+        "title": "โฮมรันรักกับคนที่ลูกชายแอบชอบ ซับไทย",
+        "img": "https://series-love.com/api/img/0155d215309b76b5abd0.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Home-Run-with-My-Sons-Crush.html",
+        "updated": "2026-10-25T18:17:15.919Z"
+    },
+
+     {
+        "title": "จักรพรรดินีเสียใจที่สูญเสียข้า ซับไทย",
+        "img": "https://series-love.com/api/img/3efe53e74aaf1c8f08d7.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Empress-Regrets-Losing-Me.html",
+        "updated": "2026-10-25T17:17:15.919Z"
+    },
+
+
        {
         "title": "เลิกรอรักเก่า แล้วคว้าชัยในสนาม พากย์ Ai",
         "img": "https://series-love.com/api/img/68d5a33c480d5aebf1c0.jpg",
