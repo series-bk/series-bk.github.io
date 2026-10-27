@@ -1,5 +1,78 @@
 const animeList = [
 
+                 {
+        "title": "จากผู้ปกครองสู่เจ้าบ่าว พากย์ไทย",
+        "img": "https://series-love.com/api/img/cea6d3349a3f4b446a77.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Guardian-to-Groom.html",
+        "updated": "2026-10-27T14:57:07.884Z"
+    },
+
+     {
+        "title": "รักใหม่ในอ้อมกอดดอนมาเฟีย ซับไทย",
+        "img": "https://series-love.com/api/img/003d6c9a056136635f17.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/New-Love-in-the-Mafia-Dons-Arms.html",
+        "updated": "2026-10-27T12:35:37.884Z"
+    },
+
+     {
+        "title": "สามีกลับใจพลิกชะตา พากย์ Ai",
+        "img": "https://series-love.com/api/img/8324a39de30be4ac2e9e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Husband-Who-Rewrote-His-Fate.html",
+        "updated": "2026-10-27T09:35:37.884Z"
+    },
+
+     {
+        "title": "กำปั้นทลายใจซีอีโอ พากย์ไทย",
+        "img": "https://series-love.com/api/img/fc9fd4976c4f3cbb1fa0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Fist-That-Broke-the-CEOs-Heart.html",
+        "updated": "2026-10-27T08:35:37.884Z"
+    },
+
+     {
+        "title": "พี่เลี้ยงสยบมาเฟีย พากย์ Ai",
+        "img": "https://series-love.com/api/img/b19d578ffe32aa439ea7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Nanny-Who-Tamed-the-Mafia-AI-Dub.html",
+        "updated": "2026-10-27T08:35:37.884Z"
+    },
+
+     {
+        "title": "เจ้าพ่อมาเฟีย อ่านแชทฉัน ซับไทย",
+        "img": "https://series-love.com/api/img/3dd7d7660b687b185f7a.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Boss-Reads-My-Chats.html",
+        "updated": "2026-10-27T07:35:37.884Z"
+    },
+
+     {
+        "title": "365 วัน ให้เธอเป็นของฉัน ซับไทย",
+        "img": "https://series-love.com/api/img/ce7a441cef6fa9edd57c.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/365-Days-to-Make-You-Mine.html",
+        "updated": "2026-10-27T07:35:37.884Z"
+    },
+
+     {
+        "title": "คู่ชะตาคืออัลฟ่าคู่อริ พากย์ไทย",
+        "img": "https://series-love.com/api/img/0ab807df2b7fde864454.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Fated-Mate-Is-My-Rival-Alpha-Dub.html",
+        "updated": "2026-10-27T05:35:37.884Z"
+    },
+
+     {
+        "title": "รักหมดใจ แต่ไม่ขอกลับไป พากย์ Ai",
+        "img": "https://series-love.com/api/img/05180f75cfaafa0f5ea8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Heartbroken-but-Never-Going-Back.html",
+        "updated": "2026-10-26T18:35:37.884Z"
+    },
+
+
             {
         "title": "ชาตินี้ฉันจะไม่รอเขาอีก พากย์ไทย",
         "img": "https://series-love.com/api/img/a44b0e13f72898603727.jpg",
