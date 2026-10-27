@@ -1,5 +1,38 @@
 const animeList = [
 
+       {
+        "title": "เกินเอื้อม แค้นเมียหมื่นล้าน พากย์ไทย",
+        "img": "https://series-love.com/api/img/f0faa80eb80e0ec99052.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Out-of-Reach-The-Billionaire-Wifes-Revenge.html",
+        "updated": "2026-10-27T16:45:47.192Z"
+    },
+
+     {
+        "title": "กำเนิดใหม่ในเงามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/077783742bd68f771169.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-in-the-Dragons-Shadow.html",
+        "updated": "2026-10-27T16:45:47.192Z"
+    },
+
+     {
+        "title": "พี่น้องผู้ตกเป็นเครื่องสังเวยมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/bb5dad0b81e9a87df653.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Sacrifice-Brothers.html",
+        "updated": "2026-10-27T16:45:47.192Z"
+    },
+
+     {
+        "title": "ราชาเงือกรับบทคุณพ่อ พากย์ไทย",
+        "img": "https://series-love.com/api/img/1f79732facf62c261a57.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Merman-King-Becomes-a-Dad.html",
+        "updated": "2026-10-27T15:45:47.192Z"
+    },
+
+
                  {
         "title": "จากผู้ปกครองสู่เจ้าบ่าว พากย์ไทย",
         "img": "https://series-love.com/api/img/cea6d3349a3f4b446a77.jpg",
