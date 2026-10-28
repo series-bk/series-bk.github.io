@@ -1,5 +1,86 @@
 const animeList = [
 
+            {
+        "title": "สาวพลัสไซส์หัวใจแกร่ง พากย์ Ai",
+        "img": "https://series-love.com/api/img/2f09775b6bcae1ab68d3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Plus-Size-Girl-with-a-Strong-Heart.html",
+        "updated": "2026-10-28T17:02:42.937Z"
+    },
+
+     {
+        "title": "อย่าพนันกับราชินีผู้ซ่อนตัว ซับไทย",
+        "img": "https://series-love.com/api/img/e06bae95a6179e0c6e30.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Never-Bet-Against-the-Hidden-Queen.html",
+        "updated": "2026-10-28T16:02:42.937Z"
+    },
+
+     {
+        "title": "ร่วมชายคามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/bd19d36729ca5b7be490.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Under-the-Dragons-Roof.html",
+        "updated": "2026-10-28T15:02:42.937Z"
+    },
+
+     {
+        "title": "หลังตั้งใจตาย ทุกคนก็เริ่มรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/8dda62ffcb07e7aa518d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/After-I-Chose-to-Die-They-Began-to-Love-Me.html",
+        "updated": "2026-10-28T15:02:42.937Z"
+    },
+
+     {
+        "title": "นิทานมรณะยั่วรักลอร์ด พากย์ Ai",
+        "img": "https://series-love.com/api/img/b3f181e4e12f8d9bedba.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Death-Fairytale-Seducing-the-Lord.html",
+        "updated": "2026-10-28T15:02:42.937Z"
+    },
+
+     {
+        "title": "สาวซื่อบื้อปราบใจราชันอสูร พากย์ Ai",
+        "img": "https://series-love.com/api/img/c44d455e529bb68a6d74.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Simple-Girl-Who-Won-the-Demon-King.html",
+        "updated": "2026-10-28T14:02:42.937Z"
+    },
+
+     {
+        "title": "หวนคืนจากคุก พบรักแท้และลูกสาว พากย์ไทย",
+        "img": "https://series-love.com/api/img/c51528e798fd99fac3af.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Out-of-Prison-to-True-Love-and-My-Daughter.html",
+        "updated": "2026-10-28T10:02:42.937Z"
+    },
+
+     {
+        "title": "การกลับมาของ น้องสาวราชินีอัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/c90ae5f5903f05b49de0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Return-of-the-Alpha-Queens-Sister.html",
+        "updated": "2026-10-28T10:02:42.937Z"
+    },
+
+     {
+        "title": "จอมเวทเงา การล้างแค้นของนักล่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/e433f94104991f7db9b5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Shadow-Mage-The-Hunters-Revenge.html",
+        "updated": "2026-10-28T08:02:42.937Z"
+    },
+
+     {
+        "title": "ลูน่าที่เจ้าทอดทิ้ง คือราชินี พากย์ไทย",
+        "img": "https://series-love.com/api/img/be1ff820f35aee5b8a8f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Luna-You-Abandoned-Is-a-Queen-Dub.html",
+        "updated": "2026-10-28T07:02:42.937Z"
+    },
+
+
        {
         "title": "เกินเอื้อม แค้นเมียหมื่นล้าน พากย์ไทย",
         "img": "https://series-love.com/api/img/f0faa80eb80e0ec99052.jpg",
