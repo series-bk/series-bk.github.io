@@ -1,5 +1,70 @@
 const animeList = [
 
+                 {
+        "title": "เขียนชะตาใหม่กับเจ้าพ่อมาเฟีย พากย์ Ai",
+        "img": "https://series-love.com/api/img/0626439477be6377456a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Rewriting-Fate-with-the-Mafia-Don.html",
+        "updated": "2026-10-29T09:49:08.462Z"
+    },
+
+     {
+        "title": "ลูกแท้ๆ ที่ครอบครัวไม่ต้องการ พากย์ไทย",
+        "img": "https://series-love.com/api/img/32623d2b1d4cbfeebdb4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Real-Son-the-Family-Did-Not-Want.html",
+        "updated": "2026-10-29T08:49:08.462Z"
+    },
+
+     {
+        "title": "ลูกบุญธรรม ของราชามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/d9da6cd7a8680c1809c1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Kings-Adopted-Son.html",
+        "updated": "2026-10-29T05:49:08.462Z"
+    },
+
+     {
+        "title": "เทพผู้ถูกลืม พากย์ไทย",
+        "img": "https://series-love.com/api/img/be7116d0adb348c73eef.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Forgotten-God.html",
+        "updated": "2026-10-29T05:49:08.462Z"
+    },
+
+     {
+        "title": "หมื่นมังกร คุกเข่าต่อหน้าเขา พากย์ Ai",
+        "img": "https://series-love.com/api/img/7a28d4c532325f572d5d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Ten-Thousand-Dragons-Kneel-Before-Him.html",
+        "updated": "2026-10-29T05:49:08.462Z"
+    },
+
+     {
+        "title": "สามปีรักหมดใจ เทพสมุทรขอลา พากย์ไทย",
+        "img": "https://series-love.com/api/img/22309195cb8be59e4e77.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Three-Years-Is-Enough-The-Sea-God-Leaves.html",
+        "updated": "2026-10-29T02:49:08.462Z"
+    },
+
+     {
+        "title": "จากสายชอป สู่สายแบก พากย์ไทย",
+        "img": "https://series-love.com/api/img/ff4c32b753964b48d9f2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Shopaholic-to-Savior.html",
+        "updated": "2026-10-29T01:49:08.462Z"
+    },
+
+     {
+        "title": "คุกนรก สยบผู้คุมสาว พากย์ไทย",
+        "img": "https://series-love.com/api/img/d5de91c8b96541aa8525.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Hell-Prison-Taming-the-Warden.html",
+        "updated": "2026-10-29T01:49:08.462Z"
+    },
+
+
             {
         "title": "สาวพลัสไซส์หัวใจแกร่ง พากย์ Ai",
         "img": "https://series-love.com/api/img/2f09775b6bcae1ab68d3.jpg",
