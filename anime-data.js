@@ -1,5 +1,38 @@
 const animeList = [
 
+       {
+        "title": "ความปรารถนาที่ควบคุมไม่ได้",
+        "img": "https://series-love.com/api/img/98c1de01be5ea599e567.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Desire-Beyond-Control.html",
+        "updated": "2026-10-29T22:31:12.689Z"
+    },
+
+     {
+        "title": "รอบนี้ขอรวยเองภาค 2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/b976fa34c2723a41f115.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Time-I-Get-Rich-Myself-Part-2.html",
+        "updated": "2026-10-29T19:49:42.689Z"
+    },
+
+     {
+        "title": "นักล่าปีศาจดาบสนิม พากย์ Ai",
+        "img": "https://series-love.com/api/img/40c3931a0ab7ed78e8f8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Rusty-Sword-Demon-Hunter.html",
+        "updated": "2026-10-29T14:49:42.689Z"
+    },
+
+     {
+        "title": "คุณหักหลังราชินีอัลฟ่าผิดคนแล้ว พากย์ Ai",
+        "img": "https://series-love.com/api/img/e53eca59c10c17c5afa9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/You-Betrayed-the-Wrong-Alpha-Queen.html",
+        "updated": "2026-10-29T14:49:42.689Z"
+    },
+
+
                  {
         "title": "เขียนชะตาใหม่กับเจ้าพ่อมาเฟีย พากย์ Ai",
         "img": "https://series-love.com/api/img/0626439477be6377456a.jpg",
