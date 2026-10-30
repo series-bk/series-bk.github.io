@@ -1,5 +1,46 @@
 const animeList = [
 
+            {
+        "title": "ซ่อนรักไว้ในรอยจำ",
+        "img": "https://series-love.com/api/img/238498df31d3b232e139.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-Hidden-in-Lost-Memories.html",
+        "updated": "2026-10-30T15:41:15.406Z"
+    },
+
+     {
+        "title": "หนึ่งความดี ทวีทรัพย์มหาศาล พากย์ไทย",
+        "img": "https://series-love.com/api/img/eb02ae076e0e58b377a5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/One-Good-Deed-Returns-a-Fortune.html",
+        "updated": "2026-10-30T15:07:15.406Z"
+    },
+
+     {
+        "title": "คุณแม่เลี้ยงเดี่ยว หลบหนีสามีมหาเศรษฐี พากย์ไทย",
+        "img": "https://series-love.com/api/img/6a11ff625716105dc0e9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Single-Mom-Running-from-Her-Billionaire-Husband.html",
+        "updated": "2026-10-30T13:16:45.406Z"
+    },
+
+     {
+        "title": "พ่อผมคือวีรบุรุษ พากย์ไทย",
+        "img": "https://series-love.com/api/img/f0cbb2db6ead766a9389.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Dad-Is-a-Hero.html",
+        "updated": "2026-10-30T10:16:45.406Z"
+    },
+
+     {
+        "title": "ออลอิน กลโกงเซียนพนัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/430c0e00a54a62c85d79.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/All-In-The-Ghost-of-Vegas-Dub.html",
+        "updated": "2026-10-30T08:16:45.406Z"
+    },
+
+
        {
         "title": "ความปรารถนาที่ควบคุมไม่ได้",
         "img": "https://series-love.com/api/img/98c1de01be5ea599e567.jpg",
