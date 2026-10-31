@@ -1,5 +1,54 @@
 const animeList = [
 
+                 {
+        "title": "เชฟถูกไล่ออก พากย์ไทย",
+        "img": "https://series-love.com/api/img/17e58c4a5427766dd65a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Fired-Chef-Dub.html",
+        "updated": "2026-10-31T12:06:04.035Z"
+    },
+
+     {
+        "title": "ภรรยาพันล้านขอลาขาด ซับไทย",
+        "img": "https://series-love.com/api/img/a8fbcb40ab08588e20bf.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Billion-Dollar-Wife-Says-Goodbye.html",
+        "updated": "2026-10-31T08:06:04.035Z"
+    },
+
+     {
+        "title": "เกิดใหม่ครั้งนี้ ขอแฉร่างทรงลวงโลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/2df27dfd7e79cccac1df.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-to-Expose-the-Fake-Psychic.html",
+        "updated": "2026-10-31T08:06:04.035Z"
+    },
+
+     {
+        "title": "เบอร์เซิร์กเกอร์ คนสุดท้าย พากย์ไทย",
+        "img": "https://series-love.com/api/img/cfcdb7eb323655961ee3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Last-Berserker-Dub.html",
+        "updated": "2026-10-31T05:06:04.035Z"
+    },
+
+     {
+        "title": "สวมรอยรัก หลอกหัวใจเจ้าพ่อ พากย์ Ai",
+        "img": "https://series-love.com/api/img/342cf5bea96c59a05d98.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Fake-Identity-Stealing-the-Dons-Heart.html",
+        "updated": "2026-10-31T05:06:04.035Z"
+    },
+
+     {
+        "title": "อัลฟ่าเลือดมังกร พากย์ Ai",
+        "img": "https://series-love.com/api/img/efd86f27737928a561e2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Dragon-Blooded-Alpha.html",
+        "updated": "2026-10-30T16:06:04.035Z"
+    },
+
+
             {
         "title": "ซ่อนรักไว้ในรอยจำ",
         "img": "https://series-love.com/api/img/238498df31d3b232e139.png",
