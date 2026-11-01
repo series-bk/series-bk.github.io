@@ -1,5 +1,118 @@
 const animeList = [
 
+       {
+        "title": "ขอเป็นลูกสาวแสนดีที่ไร้หัวใจ ซับไทย",
+        "img": "https://series-love.com/api/img/58c8adc2b82ec0436fa8.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Good-Daughter-Without-a-Heart.html",
+        "updated": "2026-11-01T13:13:55.172Z"
+    },
+
+     {
+        "title": "เบื่อแล้วมาเฟีย อยากเป็นเด็กเรียน พากย์ไทย",
+        "img": "https://series-love.com/api/img/5f32242d3e5ac10c9ef2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Done-with-the-Mafia-I-Want-to-Study.html",
+        "updated": "2026-11-01T12:55:55.172Z"
+    },
+
+     {
+        "title": "รักใหม่ในอ้อมกอดดอนมาเฟีย พากย์ Ai",
+        "img": "https://series-love.com/api/img/6b7842c25db6779eed2e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/New-Love-in-the-Mafia-Dons-Arms-AI-Dub.html",
+        "updated": "2026-11-01T08:57:25.172Z"
+    },
+
+     {
+        "title": "วันที่ฉันตัดขาดจากครอบครัว พากย์ Ai",
+        "img": "https://series-love.com/api/img/ad034827cf26f91e30b7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Day-I-Cut-Off-My-Family.html",
+        "updated": "2026-11-01T08:57:25.172Z"
+    },
+
+     {
+        "title": "วาเลนตินาผู้ถูกสาป พากย์ไทย",
+        "img": "https://series-love.com/api/img/0284799756afd650240b.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Valentina-the-Cursed.html",
+        "updated": "2026-11-01T07:57:25.172Z"
+    },
+
+     {
+        "title": "สัมผัสเชื่อมสองเรา พากย์ไทย",
+        "img": "https://series-love.com/api/img/7d7dd013673b6860cc65.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Our-Linked-Senses-Dub.html",
+        "updated": "2026-11-01T06:57:25.172Z"
+    },
+
+     {
+        "title": "แม่ม่าย ผู้เลี้ยงลูกชายนโปเลียน ซับไทย",
+        "img": "https://series-love.com/api/img/582ec1bbd10601df4bfd.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Widow-Who-Raised-Napoleons-Son.html",
+        "updated": "2026-11-01T05:57:25.172Z"
+    },
+
+     {
+        "title": "วิวาห์ตัวแทน พลิกชะตารักด้วยพลังลับ พากย์ Ai",
+        "img": "https://series-love.com/api/img/ada3a7e4c172490e92dc.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Substitute-Bride-with-a-Secret-Gift.html",
+        "updated": "2026-10-31T19:57:25.172Z"
+    },
+
+     {
+        "title": "จากคู่กัดสู่รักต้องห้าม พากย์ไทย",
+        "img": "https://series-love.com/api/img/aff93e920cd749179994.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Rivals-to-Forbidden-Love.html",
+        "updated": "2026-10-31T18:57:25.172Z"
+    },
+
+     {
+        "title": "ปาฏิหารย์รักข้ามเผ่าพันธุ์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/8449436431fbe0d35f42.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Love-Miracle-Across-Species-Dub.html",
+        "updated": "2026-10-31T18:57:25.172Z"
+    },
+
+     {
+        "title": "อัจฉริยะเวท ทายาทตัวจริงคืนตระกูล ซับไทย",
+        "img": "https://series-love.com/api/img/3cce27903803255263dd.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Genius-Mage-Heiress-Returns.html",
+        "updated": "2026-10-31T18:57:25.172Z"
+    },
+
+     {
+        "title": "ฉันกับพี่สาว แต่งกับพี่น้องมังกร ซับไทย",
+        "img": "https://series-love.com/api/img/4716185b44041aec1e74.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/My-Sister-and-I-Married-the-Dragon-Brothers.html",
+        "updated": "2026-10-31T18:57:25.172Z"
+    },
+
+     {
+        "title": "ล่ารักพัศดีคุกมรณะ พากย์ Ai",
+        "img": "https://series-love.com/api/img/b5a0ff245d5d022a312f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Hunting-Love-in-the-Death-Prison.html",
+        "updated": "2026-10-31T17:57:25.172Z"
+    },
+
+     {
+        "title": "เมื่อพันธะรักขาดสะบั้น พากย์ไทย",
+        "img": "https://series-love.com/api/img/dae6306dfa54b3ee9145.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/When-the-Mate-Bond-Breaks.html",
+        "updated": "2026-10-31T16:57:25.172Z"
+    },
+
+
                  {
         "title": "เชฟถูกไล่ออก พากย์ไทย",
         "img": "https://series-love.com/api/img/17e58c4a5427766dd65a.jpg",
