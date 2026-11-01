@@ -1,5 +1,38 @@
 const animeList = [
 
+            {
+        "title": "แอบรักในอบอุ่น",
+        "img": "https://series-love.com/api/img/831f8c31e0c35a9573b2.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Secret-Love-in-Warm-Arms.html",
+        "updated": "2026-11-01T20:12:46.445Z"
+    },
+
+     {
+        "title": "เกมรักพรางพิษ",
+        "img": "https://series-love.com/api/img/b2a89ed0d6d43dbc1c27.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Love-Game-Laced-with-Poison.html",
+        "updated": "2026-11-01T20:11:46.445Z"
+    },
+
+     {
+        "title": "น้องชายติดไอวีลีก แต่ทั้งบ้านกลับเสียใจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/fe282edd176853ad6751.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Brother-Got-into-the-Ivy-League-but-My-Family-Regrets.html",
+        "updated": "2026-11-01T14:46:16.445Z"
+    },
+
+     {
+        "title": "รักเธอจนฉันต้องตาย ซับไทย",
+        "img": "https://series-love.com/api/img/875ccfed02a159440b4e.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/I-Loved-You-to-Death.html",
+        "updated": "2026-11-01T14:46:16.445Z"
+    },
+
+
        {
         "title": "ขอเป็นลูกสาวแสนดีที่ไร้หัวใจ ซับไทย",
         "img": "https://series-love.com/api/img/58c8adc2b82ec0436fa8.jpg",
