@@ -1,5 +1,54 @@
 const animeList = [
 
+                 {
+        "title": "จอมราชันย์แสนเชื่อง พากย์ Ai",
+        "img": "https://series-love.com/api/img/292d6aff47a4eee0e6ca.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Tamed-Overlords.html",
+        "updated": "2026-11-02T11:56:32.031Z"
+    },
+
+     {
+        "title": "รักซ้อนซ่อนรัก พากย์ Ai",
+        "img": "https://series-love.com/api/img/9eaccc3d00651dec2b28.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Hidden-Love-Behind-Hidden-Love.html",
+        "updated": "2026-11-02T10:56:32.031Z"
+    },
+
+     {
+        "title": "เมื่อเจ้าพ่อขออบขนมปัง พากย์ไทย",
+        "img": "https://series-love.com/api/img/926a3ce4d04210380373.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/When-the-Godfather-Wants-to-Bake-Bread.html",
+        "updated": "2026-11-02T09:56:32.031Z"
+    },
+
+     {
+        "title": "สามวันสุดท้ายของวิญญาณที่ถูกลืม พากย์ไทย",
+        "img": "https://series-love.com/api/img/0bdae5d3a4d5de6b7563.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Last-Three-Days-of-a-Forgotten-Soul.html",
+        "updated": "2026-11-02T09:56:32.031Z"
+    },
+
+     {
+        "title": "อัศวินแห่งเตาหลอมคนแรก พากย์ไทย",
+        "img": "https://series-love.com/api/img/349c507cea62ee0ee111.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-First-Forge-Knight.html",
+        "updated": "2026-11-02T05:56:32.031Z"
+    },
+
+     {
+        "title": "รักนำฝ่าโรงพยาบาลมรณะ ซับไทย",
+        "img": "https://series-love.com/api/img/e2807f643e484f146324.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Love-Through-the-Death-Hospital.html",
+        "updated": "2026-11-02T05:56:32.031Z"
+    },
+
+
             {
         "title": "แอบรักในอบอุ่น",
         "img": "https://series-love.com/api/img/831f8c31e0c35a9573b2.png",
