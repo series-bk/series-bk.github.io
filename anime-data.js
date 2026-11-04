@@ -1,5 +1,174 @@
 const animeList = [
 
+       {
+        "title": "ยอดดวงใจแห่งอาณาจักรหูสัตว์",
+        "img": "https://series-love.com/api/img/6434284970dfb8e4f5a8.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Beloved-of-the-Beast-Eared-Kingdom.html",
+        "updated": "2026-11-04T00:19:45.159Z"
+    },
+
+     {
+        "title": "ผงาดบุษบา",
+        "img": "https://series-love.com/api/img/73c7d1a95edd39394bc5.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Rise-of-Busaba.html",
+        "updated": "2026-11-04T00:18:45.159Z"
+    },
+
+     {
+        "title": "ความเสียใจที่สายไปของอัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/9372abd6ea30d8c1efff.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Alphas-Late-Regret.html",
+        "updated": "2026-11-03T19:51:15.159Z"
+    },
+
+     {
+        "title": "หลังบททดสอบสุดโหดของอัลฟ่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/ed45bfc87d7dc0e896cc.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/After-the-Alphas-Brutal-Trial.html",
+        "updated": "2026-11-03T19:51:15.159Z"
+    },
+
+     {
+        "title": "หลังหย่า ฉันแต่งงานกับมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/ea3305dc55cdbeae5bbd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/I-Married-the-Mafia-After-My-Divorce.html",
+        "updated": "2026-11-03T18:51:15.159Z"
+    },
+
+     {
+        "title": "เกลียดนัก ดันรักปีศาจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/8554adedcf081ddc0b2d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Falling-for-the-Demon-I-Hate.html",
+        "updated": "2026-11-03T18:51:15.159Z"
+    },
+
+     {
+        "title": "ความครอบครองไม่ใช่รัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/ef7919dcdc7b30e5896a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Possession-Is-Not-Love.html",
+        "updated": "2026-11-03T16:51:15.159Z"
+    },
+
+     {
+        "title": "เชลยแค้น แสนรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/47521d238acf7126a0ac.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Beloved-Captive-of-Revenge.html",
+        "updated": "2026-11-03T15:51:15.159Z"
+    },
+
+     {
+        "title": "งานศพของฉัน คือจุดจบของครอบครัว ซับไทย",
+        "img": "https://series-love.com/api/img/9e3acd89fba2c0162d0a.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/My-Funeral-Is-the-End-of-My-Family.html",
+        "updated": "2026-11-03T15:51:15.159Z"
+    },
+
+     {
+        "title": "พันธะรักใต้เงาอิทธิพล พากย์ Ai",
+        "img": "https://series-love.com/api/img/a406446a46dbeb2dcad5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-Bound-Under-the-Shadow-of-Power.html",
+        "updated": "2026-11-03T13:51:15.159Z"
+    },
+
+     {
+        "title": "ห้ามใจ ไม่ให้รัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/746927318472cef41be8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Holding-Back-My-Heart.html",
+        "updated": "2026-11-03T13:51:15.159Z"
+    },
+
+     {
+        "title": "ลูกสาวในท้องเตือน ซับไทย",
+        "img": "https://series-love.com/api/img/2dba16857b1bfd902ccc.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Daughter-Who-Warned-from-the-Womb.html",
+        "updated": "2026-11-03T12:51:15.159Z"
+    },
+
+     {
+        "title": "หยามผิดคน ชีวิตพังทลาย พากย์ Ai",
+        "img": "https://series-love.com/api/img/a1abd690d2d5e467b45f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Insulted-the-Wrong-Man.html",
+        "updated": "2026-11-03T07:51:15.159Z"
+    },
+
+     {
+        "title": "ลูกสาวที่พวกเขาทรยศ กลับกลายเป็นจุดจบของพวกเขา พากย์ไทย",
+        "img": "https://series-love.com/api/img/2d47d49286f6474b01c7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Daughter-They-Betrayed-Became-Their-End.html",
+        "updated": "2026-11-03T06:51:15.159Z"
+    },
+
+     {
+        "title": "เด็กใต้ฝาครอบสระว่ายน้ำ พากย์ไทย",
+        "img": "https://series-love.com/api/img/4a5d7d1e80aab4ea165b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Child-Under-the-Pool-Cover.html",
+        "updated": "2026-11-03T06:51:15.159Z"
+    },
+
+     {
+        "title": "ผมขโมยหัวใจเจ้าพ่อ พากย์ไทย",
+        "img": "https://series-love.com/api/img/1c17cd5d5fe20b6ae0c2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/I-Stole-the-Mafia-Bosss-Heart-Dub.html",
+        "updated": "2026-11-03T06:51:15.159Z"
+    },
+
+     {
+        "title": "สาวไร้บ้านผู้ช่วยชีวิตมหาเศรษฐี ซับไทย",
+        "img": "https://series-love.com/api/img/f8363c722f32195385b4.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Homeless-Girl-Who-Saved-a-Billionaire.html",
+        "updated": "2026-11-03T06:51:15.159Z"
+    },
+
+     {
+        "title": "เขาเลือกแต่งงานกับรักแรก จนต้องเสียฉันไปตลอดกาล พากย์ไทย",
+        "img": "https://series-love.com/api/img/a021afcb70bf6f47b50a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/He-Chose-His-First-Love-and-Lost-Me-Forever.html",
+        "updated": "2026-11-02T12:21:15.159Z"
+    },
+
+     {
+        "title": "ส่งฉันเข้าคุก แล้วคุกเข่าขอขมา ซับไทย",
+        "img": "https://series-love.com/api/img/81a3db49add934f5f4d6.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/She-Went-to-Prison-for-Him-Then-He-Begged.html",
+        "updated": "2026-11-02T12:21:15.159Z"
+    },
+
+     {
+        "title": "เจ้าสาวลับของราชาสิงโต ซับไทย",
+        "img": "https://series-love.com/api/img/e80b12548bc1af07ac8a.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Lion-Kings-Secret-Bride.html",
+        "updated": "2026-11-02T12:21:15.159Z"
+    },
+
+     {
+        "title": "ช่างซ่อมรถพิการ คือราชาเงา ซับไทย",
+        "img": "https://series-love.com/api/img/0bde1a9edd669a221629.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Disabled-Mechanic-Is-the-Shadow-King.html",
+        "updated": "2026-11-02T12:21:15.159Z"
+    },
+
+
                  {
         "title": "จอมราชันย์แสนเชื่อง พากย์ Ai",
         "img": "https://series-love.com/api/img/292d6aff47a4eee0e6ca.jpg",
