@@ -1,5 +1,134 @@
 const animeList = [
 
+            {
+        "title": "กระต่ายน้อย พิชิตราชามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/1aae0add013598e8ee12.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Little-Rabbit-Conquers-the-Dragon-King.html",
+        "updated": "2026-11-06T07:18:56.959Z"
+    },
+
+     {
+        "title": "สามีนอกใจแล้วไง ฉันรวยกว่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/006f8925ba120182ddd4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Cheat-All-You-Want-Im-Richer.html",
+        "updated": "2026-11-05T18:13:26.959Z"
+    },
+
+     {
+        "title": "โฮมรันรัก กลับมาพร้อมลูก ทำแฟนเก่าคลั่งรัก ซับไทย",
+        "img": "https://series-love.com/api/img/37c717f4a03fa88373cb.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Home-Run-Love-Back-with-Our-Son.html",
+        "updated": "2026-11-05T14:13:26.959Z"
+    },
+
+     {
+        "title": "เจ้าชายเอลฟ์เป็นพ่อของลูกฉัน 2 สายเลือดแห่งพงไพร ซับไทย",
+        "img": "https://series-love.com/api/img/00ebb5ea6d6bd9e46562.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Elf-Prince-Is-My-Baby-Daddy-2.html",
+        "updated": "2026-11-05T11:13:26.959Z"
+    },
+
+     {
+        "title": "รักร้ายของเจ้าพ่อมาเฟีย ซับไทย",
+        "img": "https://series-love.com/api/img/10007f08343210cf927b.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Dons-Cruel-Love.html",
+        "updated": "2026-11-05T10:13:26.959Z"
+    },
+
+     {
+        "title": "เบบี๋ตามหาพ่อ ไขความลับแม่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/34ca84382983db9f8b95.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Baby-Looking-for-Her-Father.html",
+        "updated": "2026-11-05T09:13:26.959Z"
+    },
+
+     {
+        "title": "งานศพของฉัน คือจุดจบของครอบครัว พากย์ไทย",
+        "img": "https://series-love.com/api/img/56da6cbf013afe64565c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Funeral-Is-the-End-of-My-Family-Dub.html",
+        "updated": "2026-11-05T09:13:26.959Z"
+    },
+
+     {
+        "title": "อาจารย์ผู้อ่อนแอ คือจอมเวทสูงสุด พากย์ไทย",
+        "img": "https://series-love.com/api/img/3d4c2483283542490ce8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Weakest-Teacher-Is-the-Supreme-Mage-Dub.html",
+        "updated": "2026-11-04T19:43:26.959Z"
+    },
+
+     {
+        "title": "ตุ๊กตาข้างห้อง พากย์ไทย",
+        "img": "https://series-love.com/api/img/6f06a4956c0193f88078.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Doll-Next-Door-Dub.html",
+        "updated": "2026-11-04T19:43:26.959Z"
+    },
+
+     {
+        "title": "เมื่อรักคือแผนการ พากย์ไทย",
+        "img": "https://series-love.com/api/img/3fbbf8569fab66897320.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/When-Love-Is-a-Scheme.html",
+        "updated": "2026-11-04T19:43:26.959Z"
+    },
+
+     {
+        "title": "รถยิ่งโยก ใจยิ่งสั่น พากย์ไทย",
+        "img": "https://series-love.com/api/img/cabccf3ffbf1854a168a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Bumpier-the-Road.html",
+        "updated": "2026-11-04T19:43:26.959Z"
+    },
+
+     {
+        "title": "ถูกซูเปอร์สตาร์หนุ่มรุกกลับ พากย์ไทย",
+        "img": "https://series-love.com/api/img/60daa188f5efd63670b5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Superstar-Turned-the-Tables-Dub.html",
+        "updated": "2026-11-04T19:43:26.959Z"
+    },
+
+     {
+        "title": "รักไม่ยุ่ง มุ่งแต่หม้อไฟ พากย์ไทย",
+        "img": "https://series-love.com/api/img/954f85b8e953f66cc4a4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/No-Love-Just-Hotpot.html",
+        "updated": "2026-11-04T19:43:26.959Z"
+    },
+
+     {
+        "title": "เกมคืนหลอน ซ่อนรักแวมไพร์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/904448ad3510ecb53f07.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Haunted-Night-Game-Vampire-Love.html",
+        "updated": "2026-11-04T19:43:26.959Z"
+    },
+
+     {
+        "title": "ลาก่อน นักฮอกกี้คนรักลับ พากย์ไทย",
+        "img": "https://series-love.com/api/img/ed2da8c1394996ccfb32.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Goodbye-My-Secret-Hockey-Lover.html",
+        "updated": "2026-11-04T19:43:26.959Z"
+    },
+
+     {
+        "title": "คืนฮาโลวีน พิชิตใจจอมมาร ซับไทย",
+        "img": "https://series-love.com/api/img/120cbb003f0100943e3e.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Halloween-Night-Conquering-the-Demon-Lord.html",
+        "updated": "2026-11-04T19:43:26.959Z"
+    },
+
+
        {
         "title": "ยอดดวงใจแห่งอาณาจักรหูสัตว์",
         "img": "https://series-love.com/api/img/6434284970dfb8e4f5a8.png",
