@@ -1,5 +1,46 @@
 const animeList = [
 
+                 {
+        "title": "ธิดาแห่งเทพสมุทร: การตื่นขึ้นของทายาทโปเซดอน พากย์ไทย",
+        "img": "https://series-love.com/api/img/ce21758b8119b760a9ff.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Daughter-of-the-Sea-God-Poseidons-Heir.html",
+        "updated": "2026-11-06T17:28:39.936Z"
+    },
+
+     {
+        "title": "เลิกแกล้งพิการ เอาคืนคู่หมั้นทรยศ พากย์ไทย",
+        "img": "https://series-love.com/api/img/a43ae8d4648d75bea932.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Done-Faking-Disability-Revenge-on-My-Fiance.html",
+        "updated": "2026-11-06T16:28:39.936Z"
+    },
+
+     {
+        "title": "เกิดใหม่เป็นน้องสาวสุดที่รักของสามคาวบอย พากย์ไทย",
+        "img": "https://series-love.com/api/img/279f17c68ab430c8dfea.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-as-the-Beloved-Sister-of-Three-Cowboys.html",
+        "updated": "2026-11-06T14:28:39.936Z"
+    },
+
+     {
+        "title": "ทายาทเอลฟ์ตัวจริง ทวงบัลลังก์ ซับไทย",
+        "img": "https://series-love.com/api/img/34811ca5ca2ce3122a74.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-True-Elf-Heir-Reclaims-the-Throne.html",
+        "updated": "2026-11-06T12:28:39.936Z"
+    },
+
+     {
+        "title": "น้ำนมของฉัน คมดาบของฉัน พากย์ Ai",
+        "img": "https://series-love.com/api/img/40f6dc7b99a9b578c2cd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Milk-My-Blade.html",
+        "updated": "2026-11-06T09:28:39.936Z"
+    },
+
+
             {
         "title": "กระต่ายน้อย พิชิตราชามังกร พากย์ไทย",
         "img": "https://series-love.com/api/img/1aae0add013598e8ee12.jpg",
