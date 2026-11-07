@@ -1,5 +1,15 @@
 const animeList = [
-  
+
+
+
+
+                {
+        "title": "เกมนิ้วของพี่ชาย พากย์ไทย",
+        "img": "https://series-love.com/api/img/2c16c85912b07447ee91.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Big-Brothers-Finger-Game.html",
+        "updated": "2026-11-06T17:28:39.936Z"
+    },
 
                  {
         "title": "ธิดาแห่งเทพสมุทร: การตื่นขึ้นของทายาทโปเซดอน พากย์ไทย",
