@@ -1,5 +1,54 @@
 const animeList = [
 
+       {
+        "title": "รักซ่อนชาก",
+        "img": "https://series-love.com/api/img/f7f2eaefaa0a2d98fec5.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-Hidden-in-the-Tea-House.html",
+        "updated": "2026-11-08T05:05:47.408Z"
+    },
+
+     {
+        "title": "สะดุดรักลิขิตหัวใจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/8079abf1f91fe43b37dd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Stumbling-into-Fated-Love.html",
+        "updated": "2026-11-07T10:37:17.408Z"
+    },
+
+     {
+        "title": "พ่อของหนูเป็นราชา พากย์ไทย",
+        "img": "https://series-love.com/api/img/79ce935437c4fedea0d3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Daddy-Is-a-King.html",
+        "updated": "2026-11-07T08:37:17.408Z"
+    },
+
+     {
+        "title": "ราชาเอลฟ์ กับเจ้าสาวผู้ถูกเนรเทศ พากย์ไทย",
+        "img": "https://series-love.com/api/img/947b552022ef7ba5a51d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Elf-King-and-the-Exiled-Bride-Dub.html",
+        "updated": "2026-11-07T07:37:17.408Z"
+    },
+
+     {
+        "title": "อัจฉริยะเวท ทายาทตัวจริงคืนตระกูล พากย์ไทย",
+        "img": "https://series-love.com/api/img/dabd2f654f32e4097f04.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Genius-Mage-Heiress-Returns-Dub.html",
+        "updated": "2026-11-07T06:37:17.408Z"
+    },
+
+     {
+        "title": "อย่ามาเล่นกับแม่มดอย่างฉัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/cf84154b75ef84789be7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Dont-Mess-with-a-Witch-Like-Me.html",
+        "updated": "2026-11-07T05:37:17.408Z"
+    },
+
+
 
 
 
