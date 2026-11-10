@@ -1,5 +1,62 @@
 const animeList = [
 
+                 {
+        "title": "ขอชีวิตฉันคืน",
+        "img": "https://series-love.com/api/img/ef6bb325e2ac84d10326.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Give-Me-Back-My-Life.html",
+        "updated": "2026-11-10T16:16:12.551Z"
+    },
+
+     {
+        "title": "ประกาศิตมหาเศรษฐีล้างบาง",
+        "img": "https://series-love.com/api/img/b52d02e8464f9d60d406.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Billionaires-Decree.html",
+        "updated": "2026-11-10T16:15:12.551Z"
+    },
+
+     {
+        "title": "แผนรั่วฉบับทูตนรก พากย์ไทย",
+        "img": "https://series-love.com/api/img/9680ed1d3313aa4bb8bb.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Reaper-Whose-Plan-Leaked.html",
+        "updated": "2026-11-10T16:10:12.551Z"
+    },
+
+     {
+        "title": "เกิดใหม่ไม่รักคุณ ซับไทย",
+        "img": "https://series-love.com/api/img/2375b97b245891b663ab.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Reborn-and-Done-Loving-You.html",
+        "updated": "2026-11-10T15:29:12.551Z"
+    },
+
+     {
+        "title": "เชฟสาวทวงแค้น ซับไทย",
+        "img": "https://series-love.com/api/img/830aad5fe0373382134d.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Chefs-Revenge.html",
+        "updated": "2026-11-10T14:47:42.551Z"
+    },
+
+     {
+        "title": "ไม่มีวันให้อภัย ซับไทย",
+        "img": "https://series-love.com/api/img/4b4b065a77f8b6fbe1bc.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Never-Forgiven.html",
+        "updated": "2026-11-10T14:47:42.551Z"
+    },
+
+     {
+        "title": "รักผิดลุงแฟนเก่า ซับไทย",
+        "img": "https://series-love.com/api/img/65069daf5e62ff2a3aa4.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Wrong-Love-with-My-Exs-Uncle.html",
+        "updated": "2026-11-10T14:47:42.551Z"
+    },
+
+
             {
         "title": "พ่อบ้านสายลับ พากย์ไทย",
         "img": "https://series-love.com/api/img/320d681eee465b76cd4b.jpg",
