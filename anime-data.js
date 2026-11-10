@@ -1,5 +1,118 @@
 const animeList = [
 
+            {
+        "title": "พ่อบ้านสายลับ พากย์ไทย",
+        "img": "https://series-love.com/api/img/320d681eee465b76cd4b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Spy-Nanny.html",
+        "updated": "2026-11-10T05:43:47.403Z"
+    },
+
+     {
+        "title": "สาวไร้บ้าน ผู้ช่วยชีวิตมหาเศรษฐี พากย์ไทย",
+        "img": "https://series-love.com/api/img/9060d754ff74242d4f70.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Homeless-Girl-Who-Saved-a-Billionaire-Dub.html",
+        "updated": "2026-11-10T04:43:47.403Z"
+    },
+
+     {
+        "title": "ฉันนอนกับคู่หมั้นของเพื่อนสนิท พากย์ไทย",
+        "img": "https://series-love.com/api/img/c302d8f9ae5cc7cddd50.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/I-Slept-with-My-Best-Friends-Fiance.html",
+        "updated": "2026-11-10T04:43:47.403Z"
+    },
+
+     {
+        "title": "เสียงในใจสามี ที่ทำลายชีวิตคู่ของเรา พากย์ไทย",
+        "img": "https://series-love.com/api/img/cdd47a78587dce7fa5b1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Husbands-Inner-Voice.html",
+        "updated": "2026-11-10T03:43:47.403Z"
+    },
+
+     {
+        "title": "สาวบูชายัญล่อลวงเทพ พากย์ไทย",
+        "img": "https://series-love.com/api/img/03633f249be3001fe6a1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Sacrifice-Who-Seduced-a-God.html",
+        "updated": "2026-11-09T14:43:47.403Z"
+    },
+
+     {
+        "title": "ชาตินี้ได้ฮ่องเต้เป็นสามี พากย์ไทย",
+        "img": "https://series-love.com/api/img/068260912b49c1a63883.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Life-I-Married-the-Emperor.html",
+        "updated": "2026-11-09T12:43:47.403Z"
+    },
+
+     {
+        "title": "ซัคคิวบัสเสกเทพบุตร พากย์ไทย",
+        "img": "https://series-love.com/api/img/f7a478c66ab6ff120fc8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Succubus-Made-Me-a-Heartthrob.html",
+        "updated": "2026-11-09T11:43:47.403Z"
+    },
+
+     {
+        "title": "วิวาห์ทรราชผิดคู่ เพื่อนซี้สลับสามี พากย์ไทย",
+        "img": "https://series-love.com/api/img/ccbe76a83ed72ed59084.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Wrong-Tyrant-Groom-Best-Friends-Swap-Husbands-Dub.html",
+        "updated": "2026-11-08T21:13:47.403Z"
+    },
+
+     {
+        "title": "แต่งใหม่ มีสุข พากย์ไทย",
+        "img": "https://series-love.com/api/img/fbfe716e214f6dbb98ce.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Remarried-and-Happy.html",
+        "updated": "2026-11-08T21:13:47.403Z"
+    },
+
+     {
+        "title": "ซ่งเสวียเหวิน ไม้เท้าหัวมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/04f7789e9ad0d5e6dc05.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Song-Xuewen-and-the-Dragon-Head-Cane.html",
+        "updated": "2026-11-08T21:13:47.403Z"
+    },
+
+     {
+        "title": "โฮมรันรัก กลับมาพร้อมลูก ทำแฟนเก่าคลั่งรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/c99bcad204055882762d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Home-Run-Love-Back-with-Our-Son-Dub.html",
+        "updated": "2026-11-08T21:13:47.403Z"
+    },
+
+     {
+        "title": "เจ้าพ่อมาเฟีย กับเจ้าสาวแฮกเกอร์ ซับไทย",
+        "img": "https://series-love.com/api/img/d36b0177e1040d42504b.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Boss-and-the-Hacker-Bride.html",
+        "updated": "2026-11-08T21:13:47.403Z"
+    },
+
+     {
+        "title": "รักในวันที่สายไป พากย์ไทย",
+        "img": "https://series-love.com/api/img/46b638efe6eeb7fc2a3e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-on-the-Day-It-Was-Too-Late.html",
+        "updated": "2026-11-08T21:13:47.403Z"
+    },
+
+     {
+        "title": "อ่านใจสุลต่าน ในคืนวิวาห์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/7fc943dea8b704ec0e62.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reading-the-Sultans-Mind-on-Our-Wedding-Night-Dub.html",
+        "updated": "2026-11-08T21:13:47.403Z"
+    },
+
+
        {
         "title": "รักซ่อนชาก",
         "img": "https://series-love.com/api/img/f7f2eaefaa0a2d98fec5.png",
