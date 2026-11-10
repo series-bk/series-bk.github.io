@@ -1,5 +1,14 @@
 const animeList = [
 
+       {
+        "title": "สายเลือดผิดทิศ",
+        "img": "https://series-love.com/api/img/832cd647c97bf19d501f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Bloodlines-Switched-at-Birth.html",
+        "updated": "2026-11-10T18:00:36.165Z"
+    },
+
+
                  {
         "title": "ขอชีวิตฉันคืน",
         "img": "https://series-love.com/api/img/ef6bb325e2ac84d10326.png",
