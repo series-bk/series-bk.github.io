@@ -1,5 +1,142 @@
 const animeList = [
 
+            {
+        "title": "ตื่นมาในปี 1865 พากย์ไทย",
+        "img": "https://series-love.com/api/img/dbd09f263762d4b1241c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Awakened-in-1865.html",
+        "updated": "2026-11-11T19:10:39.649Z"
+    },
+
+     {
+        "title": "เกิดใหม่! การกลับมาของลูกเป็ดขี้เหร่ สู่การเป็นที่ชื่นชอบ ซีซั่น5 พากย์ Ai",
+        "img": "https://series-love.com/api/img/4a0153994f2cacadf513.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Ugly-Ducklings-Return-Season-5.html",
+        "updated": "2026-11-11T19:07:39.649Z"
+    },
+
+     {
+        "title": "จู่ ๆ ราชามังกรก็มีลูกสาว ซับไทย",
+        "img": "https://series-love.com/api/img/1816369486c1e5c9e791.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Dragon-King-Suddenly-Has-a-Daughter.html",
+        "updated": "2026-11-11T17:25:09.649Z"
+    },
+
+     {
+        "title": "รักร้าววันวิวาห์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/33cce8694238aa75ab05.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Shattered-Love-on-the-Wedding-Day.html",
+        "updated": "2026-11-11T16:25:09.649Z"
+    },
+
+     {
+        "title": "ปลอมเป็นชายมาเจอรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/f3ab6ddc2f783f49f5c7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Disguised-as-a-Man-I-Found-Love.html",
+        "updated": "2026-11-11T16:25:09.649Z"
+    },
+
+     {
+        "title": "ง้อทีหลังก็ไม่ทันแล้ว พากย์ไทย",
+        "img": "https://series-love.com/api/img/59a31cd2e6d97d71dcfc.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Too-Late-to-Win-Me-Back.html",
+        "updated": "2026-11-11T15:25:09.649Z"
+    },
+
+     {
+        "title": "ทรยศริมสระ พากย์ Ai",
+        "img": "https://series-love.com/api/img/d3d72b0a1f484b6ac303.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Betrayal-by-the-Pool.html",
+        "updated": "2026-11-11T06:25:09.649Z"
+    },
+
+     {
+        "title": "ตกหลุมรัก แม่เลี้ยงมาเฟียของเพื่อน พากย์ไทย",
+        "img": "https://series-love.com/api/img/bb8354b93caa89593065.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Falling-for-My-Friends-Mafia-Stepmom-Dub.html",
+        "updated": "2026-11-11T05:25:09.649Z"
+    },
+
+     {
+        "title": "คุณแม่พลัสไซส์กับบอสใหญ่พ่อของลูก พากย์ไทย",
+        "img": "https://series-love.com/api/img/aa1c16c7314ab05e9530.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Plus-Size-Mom-and-the-Big-Boss.html",
+        "updated": "2026-11-11T05:25:09.649Z"
+    },
+
+     {
+        "title": "ผิดหวังครบร้อยครั้ง ฉันเลือกที่จะไป พากย์ไทย",
+        "img": "https://series-love.com/api/img/a4f41454632b1eba4d4f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Hundred-Disappointments-I-Choose-to-Leave.html",
+        "updated": "2026-11-11T05:25:09.649Z"
+    },
+
+     {
+        "title": "แฟนเก่าของเขาคือลูกสาวมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/b26ca7c4a8ba44c6df5e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/His-Ex-Is-the-Mafias-Daughter.html",
+        "updated": "2026-11-11T05:25:09.649Z"
+    },
+
+     {
+        "title": "พิธีประทับรอยที่ไร้เงาฉัน ภาค 1 พากย์ไทย",
+        "img": "https://series-love.com/api/img/1b6989753a8430152ce3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Marking-Ceremony-Without-Me.html",
+        "updated": "2026-11-11T05:25:09.649Z"
+    },
+
+     {
+        "title": "พิธีประทับรอยที่ไร้เงาฉัน ภาค 2 พากย์ไทย",
+        "img": "https://series-love.com/api/img/cd41c4ba8bd74661c296.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Marking-Ceremony-Without-Me-Part-2.html",
+        "updated": "2026-11-11T05:25:09.649Z"
+    },
+
+     {
+        "title": "ฉันซื่อใสแต่อย่าคิดมารังแก พากย์ไทย",
+        "img": "https://series-love.com/api/img/d5b733a0360b227a93fe.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Naive-but-Dont-Push-Me.html",
+        "updated": "2026-11-11T05:25:09.649Z"
+    },
+
+     {
+        "title": "ฝ่าวิกฤตกฎมรณะ พากย์ไทย",
+        "img": "https://series-love.com/api/img/64894c9f5da07d4af565.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Surviving-the-Deadly-Rules.html",
+        "updated": "2026-11-11T05:25:09.649Z"
+    },
+
+     {
+        "title": "ปลดเปลื้องใจไม่ขืนรัก พากย์ai",
+        "img": "https://series-love.com/api/img/99ac7dcefe87bd7c5d83.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Unbound-Heart-No-More-Resisting-Love.html",
+        "updated": "2026-11-10T23:25:09.649Z"
+    },
+
+     {
+        "title": "หมอเทพฝึกงาน พากย์ai",
+        "img": "https://series-love.com/api/img/fee07d71433809e0abf1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Genius-Intern-Doctor.html",
+        "updated": "2026-11-10T23:25:09.649Z"
+    },
+
+
        {
         "title": "สายเลือดผิดทิศ",
         "img": "https://series-love.com/api/img/832cd647c97bf19d501f.jpg",
