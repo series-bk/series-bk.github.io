@@ -1,5 +1,102 @@
 const animeList = [
 
+     {
+        "title": "รักละมุนคุณอาขี้อ้อน",
+        "img": "https://series-love.com/api/img/3b0df5f7634ee021e77a.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Sweet-Love-with-the-Clingy-Uncle.html",
+        "updated": "2026-11-12T16:23:08.636Z"
+    },
+
+     {
+        "title": "แลกเปลี่ยนรักบอส พากย์ Ai",
+        "img": "https://series-love.com/api/img/7b8b0addab46d8c1652d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Swapping-Love-with-the-Boss.html",
+        "updated": "2026-11-12T12:56:38.636Z"
+    },
+
+     {
+        "title": "ความลับผู้ช่วยปีศาจ พากย์ Ai",
+        "img": "https://series-love.com/api/img/55dfa8511363e238b6de.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Demon-Assistants-Secret.html",
+        "updated": "2026-11-12T12:56:38.636Z"
+    },
+
+     {
+        "title": "รักนำฝ่าโรงพยาบาลมรณะ พากย์ Ai",
+        "img": "https://series-love.com/api/img/1358dbbb6bfd8e128f1e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-Through-the-Death-Hospital-Dub.html",
+        "updated": "2026-11-12T12:56:38.636Z"
+    },
+
+     {
+        "title": "ไรเดอร์เปิดระบบเทพ พากย์ไทย",
+        "img": "https://series-love.com/api/img/ca8b8ab4520c29262ae6.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Rider-Unlocks-a-God-System.html",
+        "updated": "2026-11-12T11:56:38.636Z"
+    },
+
+     {
+        "title": "นัดบอดสุดป่วง พากย์ไทย",
+        "img": "https://series-love.com/api/img/719100c3965e9f990b20.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Chaotic-Blind-Dates.html",
+        "updated": "2026-11-12T11:56:38.636Z"
+    },
+
+     {
+        "title": "ซื้อขายชะตา สร้างตำนาน พากย์ไทย",
+        "img": "https://series-love.com/api/img/55e0300845363e0ba459.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Trading-Fate-Building-a-Legend.html",
+        "updated": "2026-11-12T10:56:38.636Z"
+    },
+
+     {
+        "title": "สาวน้อยไร้เงา พากย์ Ai",
+        "img": "https://series-love.com/api/img/051e4ffc9f5a8579662e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Girl-Without-a-Shadow.html",
+        "updated": "2026-11-12T09:56:38.636Z"
+    },
+
+     {
+        "title": "สาวใช้ต้องห้ามของราชามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/05eb4b48dc28d0077a61.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Kings-Forbidden-Maid.html",
+        "updated": "2026-11-12T08:56:38.636Z"
+    },
+
+     {
+        "title": "ครั้งนี้ฉันแจ้งตำรวจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/8ad6283e98537824fc8b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Time-I-Call-the-Police.html",
+        "updated": "2026-11-12T08:56:38.636Z"
+    },
+
+     {
+        "title": "ยอดนักบินซ่อนฝีมือ คืนสู่จุดสูงสุด พากย์ไทย",
+        "img": "https://series-love.com/api/img/eb92203c640234f55246.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Hidden-Ace-Pilot-Returns-to-the-Top.html",
+        "updated": "2026-11-12T06:56:38.636Z"
+    },
+
+     {
+        "title": "จักรพรรดินีเสียใจที่สูญเสียข้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/28ae06e3fe689d409ba7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Empress-Regrets-Losing-Me-Dub.html",
+        "updated": "2026-11-12T05:56:38.636Z"
+    },
+
+
             {
         "title": "ตื่นมาในปี 1865 พากย์ไทย",
         "img": "https://series-love.com/api/img/dbd09f263762d4b1241c.jpg",
