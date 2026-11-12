@@ -1,5 +1,14 @@
 const animeList = [
 
+          {
+        "title": "รักละมุนคุณอาซ่อน",
+        "img": "https://series-love.com/api/img/3b0df5f7634ee021e77a.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Sweet-Love-with-the-Secret-Uncle.html",
+        "updated": "2026-11-12T17:00:18.956Z"
+    },
+
+
      {
         "title": "รักละมุนคุณอาขี้อ้อน",
         "img": "https://series-love.com/api/img/3b0df5f7634ee021e77a.png",
