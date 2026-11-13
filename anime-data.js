@@ -1,5 +1,70 @@
 const animeList = [
 
+               {
+        "title": "นักฝึกสัตว์ระดับ F กับมอนสเตอร์ระดับ S พากย์ไทย",
+        "img": "https://series-love.com/api/img/29c31281569d442d7b72.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/F-Rank-Tamer-and-the-S-Rank-Monster.html",
+        "updated": "2026-11-13T11:40:04.205Z"
+    },
+
+     {
+        "title": "ลูกมังกรซ่อนไม่ไหว พากย์ไทย",
+        "img": "https://series-love.com/api/img/7858373a693d41e44d28.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Babies-Cant-Stay-Hidden.html",
+        "updated": "2026-11-13T09:08:34.205Z"
+    },
+
+     {
+        "title": "ระบบรักพิชิตใจสามหนุ่มมนุษย์สัตว์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/24b43112593192503ced.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-System-Winning-Three-Beastmen.html",
+        "updated": "2026-11-13T08:08:34.205Z"
+    },
+
+     {
+        "title": "จู่ ๆ ราชามังกรก็มีลูกสาว พากย์ไทย",
+        "img": "https://series-love.com/api/img/5c1ae40330d27511de3b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Dragon-King-Suddenly-Has-a-Daughter-Dub.html",
+        "updated": "2026-11-13T08:08:34.205Z"
+    },
+
+     {
+        "title": "เจ้าสาวเงือกของกัปตัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/2a2236c8d95a275c355b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Captains-Mermaid-Bride.html",
+        "updated": "2026-11-13T08:08:34.205Z"
+    },
+
+     {
+        "title": "ไร้ปรานีเหนือน่านฟ้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/dea058dbce5e03254b58.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Merciless-Above-the-Skies.html",
+        "updated": "2026-11-13T06:08:34.205Z"
+    },
+
+     {
+        "title": "จักรกล SSS ซูเปอร์ฮีโร่ ซับไทย",
+        "img": "https://series-love.com/api/img/1296c3a6f93f112936a3.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/SSS-Mecha-Superhero.html",
+        "updated": "2026-11-13T06:08:34.205Z"
+    },
+
+     {
+        "title": "รักมั่นชั่วนิรันดร์ ซับไทย",
+        "img": "https://series-love.com/api/img/a2a473eedc9ad7bafde7.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Eternal-Devotion.html",
+        "updated": "2026-11-13T06:08:34.205Z"
+    },
+
+
           {
         "title": "รักละมุนคุณอาซ่อน",
         "img": "https://series-love.com/api/img/3b0df5f7634ee021e77a.png",
