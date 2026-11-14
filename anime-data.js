@@ -1,5 +1,86 @@
 const animeList = [
 
+       {
+        "title": "รอบนี้ขอรวยเอง ภาค 3 พากย์ไทย",
+        "img": "https://series-love.com/api/img/49a84e8583471698d3b8.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Time-I-Get-Rich-Myself-Part-3.html",
+        "updated": "2026-11-14T11:54:31.978Z"
+    },
+
+     {
+        "title": "เจ้าสาวลับของราชาสิงโต พากย์ไทย",
+        "img": "https://series-love.com/api/img/4d748985aa2cc445ad79.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Lion-Kings-Secret-Bride-Dub.html",
+        "updated": "2026-11-14T06:47:01.978Z"
+    },
+
+     {
+        "title": "ขอแต่งกับรัชทายาทไม่แต่งกับเทพ พากย์ไทย",
+        "img": "https://series-love.com/api/img/a501ca57b0a64fddd3c1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Ill-Marry-the-Crown-Prince-Not-the-Deity.html",
+        "updated": "2026-11-14T02:47:01.978Z"
+    },
+
+     {
+        "title": "ไม่มีวันหันหลังกลับ พากย์ไทย",
+        "img": "https://series-love.com/api/img/8cbb9e73eb608a990efc.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/No-Turning-Back.html",
+        "updated": "2026-11-14T02:47:01.978Z"
+    },
+
+     {
+        "title": "ฉันเลือกแต่งงานกับศัตรูของคู่หมั้นเก่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/0e552aeda8fe80c2c2ef.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/I-Married-My-Ex-Fiances-Enemy.html",
+        "updated": "2026-11-14T01:47:01.978Z"
+    },
+
+     {
+        "title": "เปลวรักที่ดับลง พากย์ไทย",
+        "img": "https://series-love.com/api/img/a28c384de0b54110ae4a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-Flame-Extinguished.html",
+        "updated": "2026-11-14T01:47:01.978Z"
+    },
+
+     {
+        "title": "ลูกสาวตัวน้อยพาพ่อกลับมาง้อแม่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/958427763c0ca8f94a25.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Little-Daughter-Brings-Dad-Back-to-Mom.html",
+        "updated": "2026-11-13T16:47:01.978Z"
+    },
+
+     {
+        "title": "รักไม่ใช่ของคุณ พากย์ไทย",
+        "img": "https://series-love.com/api/img/4b9a44f98307f2a97da3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Love-Isnt-Yours.html",
+        "updated": "2026-11-13T15:47:01.978Z"
+    },
+
+     {
+        "title": "เผยแค้นเพื่อสุนัขรัก พากย์ไทย",
+        "img": "https://series-love.com/api/img/44d55b59837c2538df1e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Revenge-for-My-Beloved-Dog-Dub.html",
+        "updated": "2026-11-13T14:47:01.978Z"
+    },
+
+     {
+        "title": "มดไร้ค่านำทางผงาด พากย์ Ai",
+        "img": "https://series-love.com/api/img/781795652c3e2bbf9f9c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Worthless-Ant-Leads-the-Rise.html",
+        "updated": "2026-11-13T12:47:01.978Z"
+    },
+
+
                {
         "title": "นักฝึกสัตว์ระดับ F กับมอนสเตอร์ระดับ S พากย์ไทย",
         "img": "https://series-love.com/api/img/29c31281569d442d7b72.jpg",
