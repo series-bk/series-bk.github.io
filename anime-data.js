@@ -1,5 +1,158 @@
 const animeList = [
 
+            {
+        "title": "สิบปีที่ถูกหลอก พากย์ไทย",
+        "img": "https://series-love.com/api/img/77e8558dc476e6aefc6c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Ten-Years-of-Deception-Dub.html",
+        "updated": "2026-11-16T11:22:33.929Z"
+    },
+
+     {
+        "title": "พิชิตใจอาจารย์ภูตผีสาว พากย์ Ai",
+        "img": "https://series-love.com/api/img/2052138ed8feb67fd957.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Winning-the-Ghost-Teachers-Heart.html",
+        "updated": "2026-11-16T10:25:03.929Z"
+    },
+
+     {
+        "title": "รักลวงจากเกมเดิมพัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/f60ee136c7ad192e0712.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Love-Built-on-a-Bet.html",
+        "updated": "2026-11-16T09:25:03.929Z"
+    },
+
+     {
+        "title": "เจ้าหญิงผู้ฝึกมังกร ทวงบัลลังก์ ซับไทย",
+        "img": "https://series-love.com/api/img/4578eef7d3ef284268af.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Dragon-Trainer-Princess-Reclaims-the-Throne.html",
+        "updated": "2026-11-16T09:25:03.929Z"
+    },
+
+     {
+        "title": "รักอุ่นกลางหิมะ พากย์ Ai",
+        "img": "https://series-love.com/api/img/9949de8a0125570edc60.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Warm-Love-in-the-Snow.html",
+        "updated": "2026-11-16T06:25:03.929Z"
+    },
+
+     {
+        "title": "จากคู่พันธะของแฝดสาม สู่ราชินีของราชาหมาป่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/99b227fd6350b69d8d1c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-the-Triplets-Mate-to-the-Wolf-Kings-Queen.html",
+        "updated": "2026-11-15T17:25:03.929Z"
+    },
+
+     {
+        "title": "ย้อนเวลาทวงบัลลังก์แชมป์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/f09764120d4702a2bc91.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Back-in-Time-to-Reclaim-the-Title.html",
+        "updated": "2026-11-15T16:25:03.929Z"
+    },
+
+     {
+        "title": "หวนชะตา วิวาห์ราชามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/8b06e538418c4f324899.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Rewritten-Fate-Married-to-the-Dragon-King-Dub.html",
+        "updated": "2026-11-15T15:25:03.929Z"
+    },
+
+     {
+        "title": "วิญญาณสื่อรักทายาทดุ ซับไทย",
+        "img": "https://series-love.com/api/img/f76778bf098314f90cb9.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Spirits-Matchmaking-the-Cold-Heir.html",
+        "updated": "2026-11-15T15:25:03.929Z"
+    },
+
+     {
+        "title": "ยาจกครองมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/c6efd0eb77af91cbab05.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Beggar-Who-Rules-Dragons.html",
+        "updated": "2026-11-14T23:55:03.929Z"
+    },
+
+     {
+        "title": "คำสาบานเปื้อนเลือด ซับไทย",
+        "img": "https://series-love.com/api/img/4b76d5a6af00ce1c1a1b.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Blood-Stained-Oath.html",
+        "updated": "2026-11-14T23:55:03.929Z"
+    },
+
+     {
+        "title": "เขาขโมยงานแต่งของฉัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/5971e4728ff8b0dccb96.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/He-Stole-My-Wedding.html",
+        "updated": "2026-11-14T23:55:03.929Z"
+    },
+
+     {
+        "title": "คำมั่นชั่วชีวิต ใต้เงาโศก พากย์ไทย",
+        "img": "https://series-love.com/api/img/61c0b29dcbcbf0df8df0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Lifelong-Vow-in-Sorrows-Shadow.html",
+        "updated": "2026-11-14T23:55:03.929Z"
+    },
+
+     {
+        "title": "ทาสเหมืองพลิกชะตา ดวงตาเทพนำโชค พากย์ไทย",
+        "img": "https://series-love.com/api/img/4ef6fac44e220563281f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mine-Slave-with-the-Lucky-Eyes.html",
+        "updated": "2026-11-14T23:55:03.929Z"
+    },
+
+     {
+        "title": "คุณซาตานกับหนูน้อยผู้ศรัทธา พากย์ไทย",
+        "img": "https://series-love.com/api/img/d1e495486a22fce11f31.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Mr-Satan-and-His-Little-Believer.html",
+        "updated": "2026-11-14T23:55:03.929Z"
+    },
+
+     {
+        "title": "ราชินีมังกรผู้สาบสูญ พากย์ไทย",
+        "img": "https://series-love.com/api/img/82697e375b6c4cd5a1aa.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Lost-Dragon-Queen.html",
+        "updated": "2026-11-14T23:55:03.929Z"
+    },
+
+     {
+        "title": "ผู้กอบกู้แห่งทะเลทราย พากย์ Ai",
+        "img": "https://series-love.com/api/img/37be0acd6a69f5b89c68.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Savior-of-the-Desert.html",
+        "updated": "2026-11-14T23:55:03.929Z"
+    },
+
+     {
+        "title": "เทพสงครามกับเจ้าสาวที่ลิขิตไว้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/3688d4527735a21c2a90.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-War-God-and-His-Destined-Bride.html",
+        "updated": "2026-11-14T23:55:03.929Z"
+    },
+
+     {
+        "title": "พลิกชะตาแค้น บัลลังก์ชายาอพอลโล พากย์ไทย",
+        "img": "https://series-love.com/api/img/c0c1fa976a89ac27f761.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Apollos-Consort-Revenge.html",
+        "updated": "2026-11-14T23:55:03.929Z"
+    },
+
+
        {
         "title": "รอบนี้ขอรวยเอง ภาค 3 พากย์ไทย",
         "img": "https://series-love.com/api/img/49a84e8583471698d3b8.png",
