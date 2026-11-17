@@ -1,5 +1,94 @@
 const animeList = [
 
+                 {
+        "title": "ลิขิตรักวัยพ้นผ่าน",
+        "img": "https://series-love.com/api/img/60f444a744a02d17f3b4.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Destined-Love-Through-the-Years.html",
+        "updated": "2026-11-17T11:40:54.541Z"
+    },
+
+     {
+        "title": "อย่าพนันกับราชินีผู้ซ่อนตัว พากย์ไทย",
+        "img": "https://series-love.com/api/img/5af1bb291c77115d75d2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Never-Bet-Against-the-Hidden-Queen-Dub.html",
+        "updated": "2026-11-17T11:14:58.007Z"
+    },
+
+     {
+        "title": "สูตรรักของสาวบ้านไร่กับมหาเศรษฐี พากย์ไทย",
+        "img": "https://series-love.com/api/img/8304087e5f540b52b182.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Farm-Girls-Recipe-for-Love.html",
+        "updated": "2026-11-17T06:00:28.007Z"
+    },
+
+     {
+        "title": "แม่ทอดเฟรนช์ฟรายส์ ผู้เป็นราชินีมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/8f2b2a75342c56066207.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-French-Fry-Mom-Is-a-Mafia-Queen.html",
+        "updated": "2026-11-17T06:00:28.007Z"
+    },
+
+     {
+        "title": "เจ้าสาวหน้าเงินดันหาเรื่องผิดคน พากย์ไทย",
+        "img": "https://series-love.com/api/img/ab52b030298188256682.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Gold-Digger-Bride-Picked-the-Wrong-Fight.html",
+        "updated": "2026-11-17T06:00:28.007Z"
+    },
+
+     {
+        "title": "อยากเป็นพ่อนัก เดี๋ยวจัดให้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/419236fc1875272045fd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/You-Want-to-Be-a-Daddy-Fine.html",
+        "updated": "2026-11-16T19:00:28.007Z"
+    },
+
+     {
+        "title": "เกิดใหม่พร้อมระบบเทพ ซับไทย",
+        "img": "https://series-love.com/api/img/57401b400bc4af234c75.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Reborn-with-a-God-System.html",
+        "updated": "2026-11-16T19:00:28.007Z"
+    },
+
+     {
+        "title": "ใจเทพแทนที่ใจขยะ พากย์ Ai",
+        "img": "https://series-love.com/api/img/36b1d52e9079e26f2b99.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Gods-Heart-for-a-Broken-One.html",
+        "updated": "2026-11-16T19:00:28.007Z"
+    },
+
+     {
+        "title": "ค่ำคืนขององค์รัชทายาท พากย์ไทย",
+        "img": "https://series-love.com/api/img/82b660d6cdc368f11576.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Crown-Princes-Nights.html",
+        "updated": "2026-11-16T18:00:28.007Z"
+    },
+
+     {
+        "title": "หนูน้อยนำโชคของมหาเศรษฐี พากย์ Ai",
+        "img": "https://series-love.com/api/img/2805a3a889c4b524a16c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Billionaires-Lucky-Little-Girl.html",
+        "updated": "2026-11-16T18:00:28.007Z"
+    },
+
+     {
+        "title": "ภรรยาเจ้าหญิงนิทราคือมหาเศรษฐี พากย์ไทย",
+        "img": "https://series-love.com/api/img/a33b7e3bab771eb1d51b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Sleeping-Beauty-Wife-Is-a-Billionaire.html",
+        "updated": "2026-11-16T15:00:28.007Z"
+    },
+
+
             {
         "title": "สิบปีที่ถูกหลอก พากย์ไทย",
         "img": "https://series-love.com/api/img/77e8558dc476e6aefc6c.jpg",
