@@ -1,5 +1,46 @@
 const animeList = [
 
+            {
+        "title": "ทิ้งรักเก่า มาเป็นเจ้าสาวมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/b5f037b3d5043d9cd18a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Leaving-My-Ex-to-Be-the-Mafia-Bride.html",
+        "updated": "2026-11-18T12:36:28.295Z"
+    },
+
+     {
+        "title": "จอมเงาพิฆาตมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/a97c8b8d49095b2cd1ed.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Shadow-Lord-the-Dragon-Slayer.html",
+        "updated": "2026-11-18T08:17:58.295Z"
+    },
+
+     {
+        "title": "เจ้าชายเอลฟ์เป็นพ่อของลูกฉัน 2 สายเลือดแห่งพงไพร พากย์ไทย",
+        "img": "https://series-love.com/api/img/894b02494f196b91d00c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Elf-Prince-Is-My-Baby-Daddy-2-Dub.html",
+        "updated": "2026-11-18T08:17:58.295Z"
+    },
+
+     {
+        "title": "ระวังหน่อย ฉันคือบอส พากย์ไทย",
+        "img": "https://series-love.com/api/img/655cfc28990aed715fe2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Watch-Out-Im-the-Boss.html",
+        "updated": "2026-11-17T16:17:58.295Z"
+    },
+
+     {
+        "title": "ความลับใต้หน้ากากแชมป์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/5cbc5b1ed3f5b4ff44e8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Secret-Behind-the-Champions-Mask.html",
+        "updated": "2026-11-17T16:17:58.295Z"
+    },
+
+
        {
         "title": "รอยน้ำตา ตราบาปสวาท",
         "img": "https://series-love.com/api/img/1dcadaed93766609d2e1.png",
