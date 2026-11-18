@@ -1,5 +1,94 @@
 const animeList = [
 
+       {
+        "title": "รอยน้ำตา ตราบาปสวาท",
+        "img": "https://series-love.com/api/img/1dcadaed93766609d2e1.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Tears-and-the-Sin-of-Desire.html",
+        "updated": "2026-11-18T17:19:25.368Z"
+    },
+
+     {
+        "title": "พันธะรักหมอเทวดา",
+        "img": "https://series-love.com/api/img/631355ec604bb9030552.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Bound-by-Love-to-the-Divine-Doctor.html",
+        "updated": "2026-11-18T17:18:25.368Z"
+    },
+
+     {
+        "title": "เถาวัลย์สีดำ",
+        "img": "https://series-love.com/api/img/4a6f604f24117b07d119.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Black-Vine.html",
+        "updated": "2026-11-18T17:17:25.368Z"
+    },
+
+     {
+        "title": "น้ำตานางเงือก พากย์ไทย",
+        "img": "https://series-love.com/api/img/ce30ffea034e2f96a275.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Tears-of-the-Mermaid.html",
+        "updated": "2026-11-18T15:49:55.368Z"
+    },
+
+     {
+        "title": "เมียคนนี้ขี่มังกรได้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/88a079593e4acfbfa23f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Wife-Can-Ride-Dragons.html",
+        "updated": "2026-11-18T15:49:55.368Z"
+    },
+
+     {
+        "title": "วิญญาณรักเจ้าชายนิทรา พากย์ไทย",
+        "img": "https://series-love.com/api/img/a246e7fb06ac8ee5a467.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Spirit-Love-of-the-Sleeping-Duke.html",
+        "updated": "2026-11-18T15:49:55.368Z"
+    },
+
+     {
+        "title": "อุ้มบุญผิดแผน เผลอรักมหาเศรษฐีใจโหด พากย์ไทย",
+        "img": "https://series-love.com/api/img/1c59f989f73aec587845.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Surrogacy-Gone-Wrong-Falling-for-the-Ruthless-Billionaire.html",
+        "updated": "2026-11-18T15:49:55.368Z"
+    },
+
+     {
+        "title": "เด็กดีของราชินีมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/08fd4c83467a5bf6ca59.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Queens-Good-Girl.html",
+        "updated": "2026-11-18T15:49:55.368Z"
+    },
+
+     {
+        "title": "ซิ่งรักกับคู่ปรับ F1 พากย์ไทย",
+        "img": "https://series-love.com/api/img/41b1c1578f81d641546e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Racing-Love-with-My-F1-Rival.html",
+        "updated": "2026-11-18T14:49:55.368Z"
+    },
+
+     {
+        "title": "ทิ้งฉันไว้ที่กลางทาง พากย์ Ai",
+        "img": "https://series-love.com/api/img/cb48d854c978eafaef3c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Left-Behind-on-the-Road.html",
+        "updated": "2026-11-18T14:49:55.368Z"
+    },
+
+     {
+        "title": "ซูเปอร์พ่อบ้าน พากย์ Ai",
+        "img": "https://series-love.com/api/img/175993bce33cdf2d5910.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Super-House-Husband.html",
+        "updated": "2026-11-18T13:49:55.368Z"
+    },
+
+
                  {
         "title": "ลิขิตรักวัยพ้นผ่าน",
         "img": "https://series-love.com/api/img/60f444a744a02d17f3b4.png",
