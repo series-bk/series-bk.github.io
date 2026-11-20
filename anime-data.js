@@ -1,5 +1,134 @@
 const animeList = [
 
+                 {
+        "title": "บอยแบนด์ ETF ของฉัน",
+        "img": "https://series-love.com/api/img/eb719405bfd6c003e3e2.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Boy-Band-ETF.html",
+        "updated": "2026-11-20T16:30:48.097Z"
+    },
+
+     {
+        "title": "เกมรัก สนามเขียว",
+        "img": "https://series-love.com/api/img/b98737d9e7bdfdb256f1.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Love-Game-on-the-Green-Field.html",
+        "updated": "2026-11-20T16:29:48.097Z"
+    },
+
+     {
+        "title": "จากเจ้าสาวสู่มัจจุราช พากย์ไทย",
+        "img": "https://series-love.com/api/img/421cad04d8b843653e46.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Bride-to-Grim-Reaper.html",
+        "updated": "2026-11-20T12:04:18.097Z"
+    },
+
+     {
+        "title": "ช่างซ่อมรถพิการ คือราชาเงา พากย์ไทย",
+        "img": "https://series-love.com/api/img/f558a608ac99b4644300.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Disabled-Mechanic-Is-the-Shadow-King-Dub.html",
+        "updated": "2026-11-20T11:04:18.097Z"
+    },
+
+     {
+        "title": "เมื่อฉันปฏิเสธ สามีก็ขอใช้นามสกุลฉัน พากย์ไทย",
+        "img": "https://series-love.com/api/img/9e76c3c87dc572123d1b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/When-I-Said-No-My-Husband-Took-My-Name.html",
+        "updated": "2026-11-20T08:04:18.097Z"
+    },
+
+     {
+        "title": "ยอดอัจฉริยะตระกูลมาเฟีย พากย์ Ai",
+        "img": "https://series-love.com/api/img/be24fa35786d9043dc60.webp",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Familys-Genius-Heir.html",
+        "updated": "2026-11-20T08:04:18.097Z"
+    },
+
+     {
+        "title": "หนุ่มน้อยของเธอ พากย์ไทย",
+        "img": "https://series-love.com/api/img/d6552e8f8cd4730fb6a2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Her-Young-Man.html",
+        "updated": "2026-11-20T07:04:18.097Z"
+    },
+
+     {
+        "title": "พลังวิเศษของหนูน้อยกำพร้า พากย์ไทย",
+        "img": "https://series-love.com/api/img/b6c3cdba4ffaa0d97a33.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Orphan-Girls-Magic-Sight.html",
+        "updated": "2026-11-19T18:04:18.097Z"
+    },
+
+     {
+        "title": "เจ้าสาวของอสูร พากย์ไทย",
+        "img": "https://series-love.com/api/img/1dc577a2faf47b7f318d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Beasts-Bride.html",
+        "updated": "2026-11-19T17:04:18.097Z"
+    },
+
+     {
+        "title": "มติฝูงลวง ยกตำแหน่งลูน่าให้น้องสาว พากย์ไทย",
+        "img": "https://series-love.com/api/img/30aac37f9fde0468f944.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Rigged-Pack-Vote.html",
+        "updated": "2026-11-19T04:34:18.097Z"
+    },
+
+     {
+        "title": "รถเข็นวิเศษเชื่อมมิติสู่จักรวรรดิโบราณ ซับไทย",
+        "img": "https://series-love.com/api/img/1274efc6427fb6992117.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Magic-Shopping-Cart-to-the-Ancient-Empire.html",
+        "updated": "2026-11-19T04:34:18.097Z"
+    },
+
+     {
+        "title": "ราชาคุกคืนถิ่น พากย์ Ai",
+        "img": "https://series-love.com/api/img/b85ed5572f1d79070082.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Prison-King-Returns.html",
+        "updated": "2026-11-19T04:34:18.097Z"
+    },
+
+     {
+        "title": "กลเกมราชินีไลแคนพลัดถิ่น พากย์ไทย",
+        "img": "https://series-love.com/api/img/61c27b304e5cccf22f09.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Exiled-Lycan-Queens-Gambit.html",
+        "updated": "2026-11-19T04:34:18.097Z"
+    },
+
+     {
+        "title": "ทายาทคนใหม่ของเจ้าแม่มาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/cde379d1812770249989.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Matriarchs-New-Heir.html",
+        "updated": "2026-11-19T04:34:18.097Z"
+    },
+
+     {
+        "title": "มังกรระดับ SSS คืนบัลลังก์ พากย์ Ai",
+        "img": "https://series-love.com/api/img/6b0e15258e3f92fe4a31.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/SSS-Rank-Dragon-Reclaims-the-Throne.html",
+        "updated": "2026-11-19T04:34:18.097Z"
+    },
+
+     {
+        "title": "ห้ามแตะต้องครอบครัวราชินีมาเฟีย พากย์ไทย",
+        "img": "https://series-love.com/api/img/1264afbd775d37987fd9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Dont-Touch-the-Mafia-Queens-Family.html",
+        "updated": "2026-11-19T04:34:18.097Z"
+    },
+
+
             {
         "title": "ทิ้งรักเก่า มาเป็นเจ้าสาวมาเฟีย พากย์ไทย",
         "img": "https://series-love.com/api/img/b5f037b3d5043d9cd18a.jpg",
