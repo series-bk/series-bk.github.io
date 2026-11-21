@@ -1,5 +1,86 @@
 const animeList = [
 
+       {
+        "title": "โฉมใหม่เมียเก่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/b02ea0208a98fe70b3b3.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Ex-Wifes-New-Look.html",
+        "updated": "2026-11-21T18:06:59.104Z"
+    },
+
+     {
+        "title": "คุ้ยขยะต่างโลกจนรวย พากย์ไทย",
+        "img": "https://series-love.com/api/img/9742027ca15120e21ba4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Getting-Rich-from-Alien-Trash.html",
+        "updated": "2026-11-21T16:37:29.104Z"
+    },
+
+     {
+        "title": "บอดี้การ์ดทหารปลดประจำการ พากย์ไทย",
+        "img": "https://series-love.com/api/img/7bf6d51cae4e8f61bcc5.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Retired-Soldier-Bodyguard.html",
+        "updated": "2026-11-21T16:37:29.104Z"
+    },
+
+     {
+        "title": "คุณแม่ลูกสี่พิชิตใจนายพลน้ำแข็ง พากย์ไทย",
+        "img": "https://series-love.com/api/img/51e1c8b8570d8739c41c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Mom-of-Four-Wins-the-Ice-Cold-General.html",
+        "updated": "2026-11-21T12:37:29.104Z"
+    },
+
+     {
+        "title": "แค้นวิวาห์พี่มาเฟีย พากย์ Ai",
+        "img": "https://series-love.com/api/img/dada1e9da9ecfa3b2dd7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Revenge-at-the-Mafia-Brothers-Wedding.html",
+        "updated": "2026-11-21T12:37:29.104Z"
+    },
+
+     {
+        "title": "อัจฉริยะคืนสังเวียน พากย์ไทย",
+        "img": "https://series-love.com/api/img/c79b0a993d8981789bde.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Genius-Returns-to-the-Ring.html",
+        "updated": "2026-11-21T11:37:29.104Z"
+    },
+
+     {
+        "title": "บ้านนี้น้องเป็นใหญ่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/83870e5dd3c865d28c66.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Little-Sister-Rules-This-House.html",
+        "updated": "2026-11-21T09:37:29.104Z"
+    },
+
+     {
+        "title": "จอมเวทผู้ถูกทอดทิ้งผงาดเป็นเทพ พากย์ไทย",
+        "img": "https://series-love.com/api/img/3969d280f879c23ffa8a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Abandoned-Mage-Rises-to-Godhood.html",
+        "updated": "2026-11-21T09:37:29.104Z"
+    },
+
+     {
+        "title": "บัลลังก์กระดูก พากย์ Ai",
+        "img": "https://series-love.com/api/img/4549bc1fb625d293d743.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Throne-of-Bones.html",
+        "updated": "2026-11-21T09:37:29.104Z"
+    },
+
+     {
+        "title": "คืนเดียวกับมหาเศรษฐี กลับได้ลูกแฝดมนุษย์หมาป่า พากย์ไทย",
+        "img": "https://series-love.com/api/img/a50036c442a1038b674e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/One-Night-with-the-Billionaire-Werewolf-Twins.html",
+        "updated": "2026-11-21T08:37:29.104Z"
+    },
+
+
                  {
         "title": "บอยแบนด์ ETF ของฉัน",
         "img": "https://series-love.com/api/img/eb719405bfd6c003e3e2.png",
