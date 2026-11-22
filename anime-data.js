@@ -1,5 +1,78 @@
 const animeList = [
 
+            {
+        "title": "จากสาวอ้วนสู่สาวสวย เดิมพันนี้ฉันชนะ พากย์ไทย",
+        "img": "https://series-love.com/api/img/e536e03a1f6292812c0a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Fat-to-Fabulous-I-Win-This-Bet.html",
+        "updated": "2026-11-22T14:58:43.765Z"
+    },
+
+     {
+        "title": "ชู้หนุ่ม พลาดครั้งใหญ่ พากย์ไทย",
+        "img": "https://series-love.com/api/img/f3b26e646ce01ea01673.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Young-Lovers-Big-Mistake.html",
+        "updated": "2026-11-22T14:58:43.765Z"
+    },
+
+     {
+        "title": "วันที่พวกเขาเสียใจที่ทิ้งเธอไป พากย์ไทย",
+        "img": "https://series-love.com/api/img/a772c07baa21a9cecd1d.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Day-They-Regretted-Leaving-Her.html",
+        "updated": "2026-11-22T14:58:43.765Z"
+    },
+
+     {
+        "title": "ห้าลูกเทพจับพ่อ พากย์ไทย",
+        "img": "https://series-love.com/api/img/eb7d2128d97ed41f57bd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Five-Little-Gods-Catch-Their-Daddy-Dub.html",
+        "updated": "2026-11-22T08:58:43.765Z"
+    },
+
+     {
+        "title": "ความลับหลังม่านละครสัตว์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/c1aa11b965eef6257142.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Secrets-Behind-the-Circus-Curtain.html",
+        "updated": "2026-11-22T08:58:43.765Z"
+    },
+
+     {
+        "title": "หักเหลี่ยมลูกเลี้ยงทรพี พากย์ไทย",
+        "img": "https://series-love.com/api/img/14bcfe8d3068a61affd0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Outwitting-My-Ungrateful-Adopted-Sons.html",
+        "updated": "2026-11-22T08:58:43.765Z"
+    },
+
+     {
+        "title": "พายุไม่ยอมจำนน ครอบครัวสำนึกผิด พากย์ไทย",
+        "img": "https://series-love.com/api/img/a3f86748e0e423d32ded.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Unyielding-Storm-and-the-Regretful-Family.html",
+        "updated": "2026-11-22T08:58:43.765Z"
+    },
+
+     {
+        "title": "ครั้งนี้ ฉันยกเขาให้น้องสาว พากย์ไทย",
+        "img": "https://series-love.com/api/img/deef8644d3989eb34e67.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Time-I-Give-Him-to-My-Sister.html",
+        "updated": "2026-11-21T11:28:43.765Z"
+    },
+
+     {
+        "title": "อย่าหาเรื่องกับมังกรผิดตัว พากย์ไทย",
+        "img": "https://series-love.com/api/img/6f485d5c46872a7366f0.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Dont-Mess-with-the-Wrong-Dragon.html",
+        "updated": "2026-11-21T11:28:43.765Z"
+    },
+
+
        {
         "title": "โฉมใหม่เมียเก่า พากย์ไทย",
         "img": "https://series-love.com/api/img/b02ea0208a98fe70b3b3.jpg",
