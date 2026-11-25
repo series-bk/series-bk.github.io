@@ -1,5 +1,150 @@
 const animeList = [
 
+                 {
+        "title": "บ่วงรักสายใยต้องห้าม",
+        "img": "https://series-love.com/api/img/542a572a368d263d5d57.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Forbidden-Bond-of-Love.html",
+        "updated": "2026-11-25T00:27:51.169Z"
+    },
+
+     {
+        "title": "ความลับ ซุปรสแซ่บ",
+        "img": "https://series-love.com/api/img/6c11b6d6876b52a24161.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Secret-of-the-Spicy-Soup.html",
+        "updated": "2026-11-25T00:26:51.169Z"
+    },
+
+     {
+        "title": "พลาดท่าหนุ่ม ที่ลูกชอบ",
+        "img": "https://series-love.com/api/img/766e640d76cafd58e7ef.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Slip-with-the-Guy-My-Daughter-Likes.html",
+        "updated": "2026-11-25T00:24:51.169Z"
+    },
+
+     {
+        "title": "กามเทพรักฉบับลูกมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/393618c721f9ece255c1.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Little-Dragon-Cupids.html",
+        "updated": "2026-11-24T14:58:21.169Z"
+    },
+
+     {
+        "title": "ทิ้งรักร้าย กลายเป็นราชินี พากย์ไทย",
+        "img": "https://series-love.com/api/img/c5ecd9d6a2bd07c81760.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Leaving-a-Cruel-Love-to-Become-Queen.html",
+        "updated": "2026-11-24T14:58:21.169Z"
+    },
+
+     {
+        "title": "หวนรักไลแคนคิง พากย์ไทย",
+        "img": "https://series-love.com/api/img/86dcc3b468e4cc5f95a7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Return-to-the-Lycan-Kings-Love.html",
+        "updated": "2026-11-24T14:58:21.169Z"
+    },
+
+     {
+        "title": "พ่อไร้หมาป่าคือราชาตัวจริง พากย์ไทย",
+        "img": "https://series-love.com/api/img/722306a782ca831dbd92.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Wolfless-Father-Is-the-True-King.html",
+        "updated": "2026-11-24T14:58:21.169Z"
+    },
+
+     {
+        "title": "รักนี้คุ้มค่าที่ตามหา พากย์ไทย",
+        "img": "https://series-love.com/api/img/fa9a06a24a3139607ad2.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Love-Worth-Finding.html",
+        "updated": "2026-11-24T14:58:21.169Z"
+    },
+
+     {
+        "title": "ราชาสายลับเมืองลูกกรง พากย์ไทย",
+        "img": "https://series-love.com/api/img/74fda8fef77d73d02962.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Spy-King-of-the-Prison-City.html",
+        "updated": "2026-11-24T13:58:21.169Z"
+    },
+
+     {
+        "title": "สองชาติภพ สองคราร่ำไห้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/4dc5cd5e90c6b6958f89.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Two-Lifetimes-Two-Tears.html",
+        "updated": "2026-11-24T12:58:21.169Z"
+    },
+
+     {
+        "title": "เที่ยวบินสุดท้ายของหัวใจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/fb10e79d364dc41329b4.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Last-Flight-of-the-Heart.html",
+        "updated": "2026-11-24T08:58:21.169Z"
+    },
+
+     {
+        "title": "เจ้าพ่อมาเฟีย กับเจ้าสาวแฮกเกอร์ พากย์ไทย",
+        "img": "https://series-love.com/api/img/65ac130dd33f33174d58.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Mafia-Boss-and-the-Hacker-Bride-Dub.html",
+        "updated": "2026-11-24T08:58:21.169Z"
+    },
+
+     {
+        "title": "โฮก! ลูกเสือนำโชคมาหาพ่อแล้ว ซับไทย",
+        "img": "https://series-love.com/api/img/bd4ce4e36943853d9417.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Roar-The-Lucky-Tiger-Cub-Finds-Daddy.html",
+        "updated": "2026-11-23T12:28:21.169Z"
+    },
+
+     {
+        "title": "ฆ่าลูกฉัน ทั้งตระกูลต้องชดใช้ พากย์ไทย",
+        "img": "https://series-love.com/api/img/3960d0a93832cf403e25.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Kill-My-Son-and-Your-Whole-Family-Pays.html",
+        "updated": "2026-11-23T12:28:21.169Z"
+    },
+
+     {
+        "title": "จากลูกสมุนสู่เจ้าพ่อ พากย์ไทย",
+        "img": "https://series-love.com/api/img/6b3cf52b83e57208e0a7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-Henchman-to-Godfather.html",
+        "updated": "2026-11-23T12:28:21.169Z"
+    },
+
+     {
+        "title": "เทพราชสีห์เปิดโหมดอสูร พากย์ไทย",
+        "img": "https://series-love.com/api/img/161bddba12dde209b1c9.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Lion-God-Unleashes-His-Beast-Mode.html",
+        "updated": "2026-11-23T12:28:21.169Z"
+    },
+
+     {
+        "title": "เจ้าสาวตัวแทนของมังกรปีศาจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/e8ec08c0b64d04b5b789.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Demon-Dragons-Substitute-Bride.html",
+        "updated": "2026-11-23T12:28:21.169Z"
+    },
+
+     {
+        "title": "หน้าที่ของเพื่อนตาย พากย์ไทย",
+        "img": "https://series-love.com/api/img/52ba6ccfad1dcf9daddf.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Fallen-Friends-Duty.html",
+        "updated": "2026-11-23T12:28:21.169Z"
+    },
+
+
             {
         "title": "จากสาวอ้วนสู่สาวสวย เดิมพันนี้ฉันชนะ พากย์ไทย",
         "img": "https://series-love.com/api/img/e536e03a1f6292812c0a.jpg",
