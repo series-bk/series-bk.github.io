@@ -1,5 +1,38 @@
 const animeList = [
 
+       {
+        "title": "รอบนี้ขอรวยเอง ภาค 4 พากย์ไทย",
+        "img": "https://series-love.com/api/img/67e7d8d1fcd8049807a2.png",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Time-I-Get-Rich-Myself-Part-4.html",
+        "updated": "2026-11-26T02:46:30.161Z"
+    },
+
+     {
+        "title": "อำนาจมืดผู้กองแฟนเก่า พากย์ Ai",
+        "img": "https://series-love.com/api/img/3350da4f51ab045f763c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Ex-Sheriffs-Dark-Power.html",
+        "updated": "2026-11-25T08:45:00.161Z"
+    },
+
+     {
+        "title": "นักสู้ล่าขาใหญ่ ซับไทย",
+        "img": "https://series-love.com/api/img/2a376d51c4620aa4472f.jpg",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/The-Fighter-Who-Hunts-Bullies.html",
+        "updated": "2026-11-25T08:45:00.161Z"
+    },
+
+     {
+        "title": "ทวงแค้นในนามแฝด พากย์ Ai",
+        "img": "https://series-love.com/api/img/929ed78c1bad215bc1ec.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Revenge-in-My-Twins-Name.html",
+        "updated": "2026-11-25T08:45:00.161Z"
+    },
+
+
                  {
         "title": "บ่วงรักสายใยต้องห้าม",
         "img": "https://series-love.com/api/img/542a572a368d263d5d57.png",
