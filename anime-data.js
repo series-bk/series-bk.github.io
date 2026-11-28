@@ -1,5 +1,158 @@
 const animeList = [
 
+            {
+        "title": "ได้เป็นคุณแม่ แฟนเก่าถึงกับคลั่ง ซับไทย",
+        "img": "https://series-love.com/api/img/19f105492d6408aa098a.webp",
+        "type": "ซับไทย",
+        "link": "https://series-bk.github.io/Becoming-a-Mom-Drove-My-Ex-Crazy.html",
+        "updated": "2026-11-28T04:42:24.195Z"
+    },
+
+     {
+        "title": "ค่าคลั่ง 99% แต่ฉันเลี้ยงจนกลายเป็นสามีดีทั้งหมด พากย์ Ai",
+        "img": "https://series-love.com/api/img/4be524c1d2b8871a0f56.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Ninety-Nine-Percent-Crazy-Husbands-I-Raised-Right.html",
+        "updated": "2026-11-27T15:42:24.195Z"
+    },
+
+     {
+        "title": "ทะลุมิติเป็นจักรพรรดินี สามีอสูรคลั่งรักทั้งสี่ พากย์ Ai",
+        "img": "https://series-love.com/api/img/02d8d5dfb0af0134b079.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Reborn-as-Empress-with-Four-Lovesick-Beast-Husbands.html",
+        "updated": "2026-11-27T15:42:24.195Z"
+    },
+
+     {
+        "title": "ไร้พรสวรรค์ แต่ข้าคือราชานักสู้! พากย์ Ai",
+        "img": "https://series-love.com/api/img/7215d3de26231cd1a308.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/No-Talent-but-Im-the-King-of-Fighters.html",
+        "updated": "2026-11-27T15:42:24.195Z"
+    },
+
+     {
+        "title": "แฟนขี้แพ้คือซูเปอร์ฮีโร่ พากย์ Ai",
+        "img": "https://series-love.com/api/img/a4b3a60898552996482c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Loser-Boyfriend-Is-a-Superhero.html",
+        "updated": "2026-11-27T15:42:24.195Z"
+    },
+
+     {
+        "title": "ถูกลูกไล่ แต่ได้พลังมองเห็นทอง พากย์ Ai",
+        "img": "https://series-love.com/api/img/6a7e22e527a22e9c97ac.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Kicked-Out-but-I-Can-See-Gold.html",
+        "updated": "2026-11-27T14:42:24.195Z"
+    },
+
+     {
+        "title": "แฟนออนไลน์ที่ผมทิ้งคือเจ้าแม่มาเฟีย พากย์ Ai",
+        "img": "https://series-love.com/api/img/af7a623a215a0ecb9c98.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Online-Girlfriend-I-Dumped-Is-a-Mafia-Queen.html",
+        "updated": "2026-11-27T13:42:24.195Z"
+    },
+
+     {
+        "title": "ฉันกับพี่สาว แต่งกับพี่น้องมังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/eae1af5728bfb7ea1921.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/My-Sister-and-I-Married-the-Dragon-Brothers-Dub.html",
+        "updated": "2026-11-27T13:42:24.195Z"
+    },
+
+     {
+        "title": "จ้าวอสูรแพ้ทางหมอสาว พากย์ไทย",
+        "img": "https://series-love.com/api/img/f9532df805894e6a549a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Beast-Lord-Meets-His-Match-in-the-Vet.html",
+        "updated": "2026-11-27T10:42:24.195Z"
+    },
+
+     {
+        "title": "สัมผัสรัก ปลดล็อกพลังเทพ พากย์ไทย",
+        "img": "https://series-love.com/api/img/b25bae21f08da99e6cb7.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/A-Lovers-Touch-Unlocks-Godly-Power.html",
+        "updated": "2026-11-27T10:42:24.195Z"
+    },
+
+     {
+        "title": "บอดี้การ์ดคือเจ้าผู้ครอง พากย์ Ai",
+        "img": "https://series-love.com/api/img/08e9fedeb6dfda97458b.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Bodyguard-Is-the-Supreme-Lord.html",
+        "updated": "2026-11-27T09:42:24.195Z"
+    },
+
+     {
+        "title": "จากคนหนัก 600 ปอนด์ สู่แชมป์มวยโลก พากย์ไทย",
+        "img": "https://series-love.com/api/img/fc2055d749845280fbdd.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/From-600-Pounds-to-World-Boxing-Champion.html",
+        "updated": "2026-11-27T09:42:24.195Z"
+    },
+
+     {
+        "title": "พ่อครับ จ่ายค่าเลี้ยงดูด้วย พากย์ Ai",
+        "img": "https://series-love.com/api/img/9cb6f3b86dd446802c6a.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Dad-Pay-Your-Child-Support.html",
+        "updated": "2026-11-27T09:42:24.195Z"
+    },
+
+     {
+        "title": "บุปผาเยียวยาหัวใจ พากย์ไทย",
+        "img": "https://series-love.com/api/img/5cb99c5e1c851572adad.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Flowers-That-Heal-the-Heart.html",
+        "updated": "2026-11-27T07:42:24.195Z"
+    },
+
+     {
+        "title": "เห็นติดเกมแบบนี้มีดีอยู่นะ พากย์ไทย",
+        "img": "https://series-love.com/api/img/132d458fa78e1829655c.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/This-Gamer-Girl-Has-Hidden-Talents.html",
+        "updated": "2026-11-26T18:12:24.195Z"
+    },
+
+     {
+        "title": "ของขวัญคริสต์มาสของคุณ คือลูกของผู้ชายคนอื่น พากย์ไทย",
+        "img": "https://series-love.com/api/img/b733fd0e416148de138f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Your-Christmas-Gift-Is-Another-Mans-Child.html",
+        "updated": "2026-11-26T18:12:24.195Z"
+    },
+
+     {
+        "title": "สาวหน้าเงินที่เขาต้องง้อ พากย์ไทย",
+        "img": "https://series-love.com/api/img/c9636eb0562625d5079f.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/The-Gold-Digger-He-Must-Win-Back.html",
+        "updated": "2026-11-26T18:12:24.195Z"
+    },
+
+     {
+        "title": "ขยะอย่างข้า ควบคุมจักรกลระดับเทพ พากย์ไทย",
+        "img": "https://series-love.com/api/img/2a71adc6771d0768e59e.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Trash-Like-Me-Commands-a-Godly-Mecha.html",
+        "updated": "2026-11-26T18:12:24.195Z"
+    },
+
+     {
+        "title": "อุ้มแฝดสาม ของราชามังกร พากย์ไทย",
+        "img": "https://series-love.com/api/img/327f642efd23d84dc5d8.jpg",
+        "type": "พากย์ไทย",
+        "link": "https://series-bk.github.io/Carrying-the-Dragon-Kings-Triplets.html",
+        "updated": "2026-11-26T18:12:24.195Z"
+    },
+
+
        {
         "title": "รอบนี้ขอรวยเอง ภาค 4 พากย์ไทย",
         "img": "https://series-love.com/api/img/67e7d8d1fcd8049807a2.png",
